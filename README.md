@@ -12,4 +12,9 @@
 
 *Made for the community by the community*
 
+## Contributors
+- Lemon
+  - Created the character banner images
+
+
 <sub><sup>Not affiliated with or endorsed by Bandai Namco Entertainment Inc. / Byking Inc.</sup></sub>
