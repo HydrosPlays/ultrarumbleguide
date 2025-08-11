@@ -3,19 +3,16 @@
     <img src="https://ultrarumble.com/assets/Character/Ch007/GUI/Variation/T_ui_Ch007_Variation_701.png" /><br/>
 </p>
 
-# Table of Contents
-1. [Quirk Skills](#quirk-skills)
-2. [Tuning](#tuning)
-3. [Play Styles](#play-styles)
+## Table of Contents
 
 | [Quirk Skills](#quirk-skills) | [Tuning](#tuning) | [Play Styles](#play-styles) |
 |-------------------------------|------------------|-----------------------------|
 
-## Quirk Skills
+### Quirk Skills
 - Talk about use of quirk skills here (probably)
   
-## Tuning 
+### Tuning 
 - Talk about use of tuning here (probably)
 
-## Play Styles
+### Play Styles
 - Talk about use of play styles here (probably)
