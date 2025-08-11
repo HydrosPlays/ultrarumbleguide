@@ -1,6 +1,6 @@
-# ![Image](/icons/technical.png) [Shoto Todoroki (Ice Fang Wind Flame)](https://ultrarumble.com/character/4#Variant-1)
+# ![Image](/icons/technical.png) [Denki Kaminari (Lightning)](https://ultrarumble.com/character/7#Variant-1)
 <p align="center">
-    <img src="https://ultrarumble.com/assets/Character/Ch004/GUI/Variation/T_ui_Ch004_Variation_401.png" /><br/>
+    <img src="https://ultrarumble.com/assets/Character/Ch007/GUI/Variation/T_ui_Ch007_Variation_701.png" /><br/>
 </p>
 
 # Table of Contents
