@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/images/401.jpg" /><br/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/401.jpg" /><br/>
 </p>
 
 # [Shoto Todoroki (Ice Fang Wind Flame)](https://ultrarumble.com/character/4#Variant-1)
