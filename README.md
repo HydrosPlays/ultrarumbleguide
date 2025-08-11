@@ -13,7 +13,7 @@
 *Made for the community by the community*
 
 ## Contributors
-- Lemon
+- Lemon (lemollion)
   - Created the character banner images
 
 
