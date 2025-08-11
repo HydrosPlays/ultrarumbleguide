@@ -1,11 +1,4 @@
-## Test Title Here
+# Ultimate Guide to My Hero Ultra Rumble
 
-*Markdown Italic*
-
-**Markdown Bold**
-
-***Markdown Bold Italic***
-
-<p align="center">
-    <img src="https://ultrarumble.com/assets/Character/Ch001/GUI/Variation/T_ui_Ch001_Variation_100.png" />
-</p>
+| <img src="/images/401.jpg" width="100" /> | <img src="/images/401.jpg" width="100" /> | <img src="/images/401.jpg" width="100" /> |
+|-------------------------------------------|-------------------------------------------|-------------------------------------------|
