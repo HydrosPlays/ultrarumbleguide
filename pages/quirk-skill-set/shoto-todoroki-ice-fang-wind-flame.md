@@ -2,7 +2,7 @@
     <img src="/images/401.jpg" /><br/>
 </p>
 
-# ![Image](/icons/technical.png) [Shoto Todoroki (Ice Fang Wind Flame)](https://ultrarumble.com/character/4#Variant-1)
+# [Shoto Todoroki (Ice Fang Wind Flame)](https://ultrarumble.com/character/4#Variant-1)
 
 | [General Skill](#quirk-skills) | [Basics](#tuning) | [T.U.N.I.N.G. Builds](#play-styles) |
 |-------------------------------|------------------|-----------------------------|
