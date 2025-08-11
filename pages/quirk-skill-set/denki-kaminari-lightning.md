@@ -8,7 +8,8 @@
 2. [Tuning](#tuning)
 3. [Play Styles](#play-styles)
 
-| :[Quirk Skills](#quirk-skills): | :[Tuning](#tuning): | :[Play Styles](#play-styles): |
+| [Quirk Skills](#quirk-skills) | [Tuning](#tuning) | [Play Styles](#play-styles) |
+|-------------------------------|------------------|-----------------------------|
 
 ## Quirk Skills
 - Talk about use of quirk skills here (probably)
