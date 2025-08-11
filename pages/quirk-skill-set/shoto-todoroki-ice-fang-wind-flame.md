@@ -4,8 +4,8 @@
 
 # [Shoto Todoroki (Ice Fang Wind Flame)](https://ultrarumble.com/character/4#Variant-1)
 
-| General Skill           | Basics          | T.U.N.I.N.G. Builds   |
-|-------------------------|-----------------|-----------------------|
+| [General Skill](#general-skill) | [Basics](#basics) | [T.U.N.I.N.G. Builds](#tuning-builds) |
+|---------------------------------|------------------|--------------------------------------|
 
 ### General Skill
 - Talk about use of quirk skills here (probably)
