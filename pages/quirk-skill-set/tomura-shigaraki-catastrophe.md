@@ -11,10 +11,10 @@
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title1.png" /></br>
 </p>
 
-## Alpha Skill - Delaware Smash Full Bullet 
+## Alpha Skill - Earth Break
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101a.png" width="400" /></br>
+    <img src="https://ultrarumble.com/character/15" width="400" /></br>
 </p>
 
 When the shig
