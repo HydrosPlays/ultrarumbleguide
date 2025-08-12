@@ -1,4 +1,30 @@
-# ![Image](/icons/technical.png) [Shoto Todoroki (Ice Fang Wind Flame)](https://ultrarumble.com/character/4#Variant-1)
 <p align="center">
-    <img src="https://ultrarumble.com/assets/Character/Ch004/GUI/Variation/T_ui_Ch004_Variation_401.png" /><br/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/1501.png" /><br/>
 </p>
+
+# [Tomura Shigaraki (Catastrophe)](https://ultrarumble.com/character/15#Variant-1)
+
+| [General Skill](#learning-the-basics) | [Basics](#basics) | [T.U.N.I.N.G. Builds](#tuning-builds) |
+|-------------------------------|------------------|-----------------------------|
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title1.png" /></br>
+</p>
+
+## Alpha Skill - Delaware Smash Full Bullet 
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101a.png" width="400" /></br>
+</p>
+
+When the shig
+
+
+  
+## Basics 
+- Talk about use of tuning here (probably)
+
+
+## T.U.N.I.N.G. Builds
+- Talk about use of play styles here (probably)
+
