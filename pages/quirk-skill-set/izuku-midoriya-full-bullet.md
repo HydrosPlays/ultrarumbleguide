@@ -31,8 +31,7 @@ This is what you should do basically every time you use alpha, as this increases
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a2-gif.gif" width="400" /></br>
 </p>
-
-It's recommended to increase the sensitivity on your vertical aim because of how often this skill is aimed in, since you'll need the ability to make larger adjustments to your aim faster than other characters that don't rely in aimed shots, due to how aiming mode reduces the camera's speed.
+It's recommended to increase your aimed-in sensitivity because of how often this skill is aimed in, since you'll need the ability to make larger adjustments to your aim faster than other characters that don't rely in aimed shots, due to how aiming in reduces the camera's speed.
 
 A common technique you can use in extremely close range or against rapid character is to get around the slow camera speed is to switch off the aiming mode for camera control, and then switch on to shoot. If you're not comfortable with super high sensitivity, this technique might be helpful.
  
