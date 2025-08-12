@@ -10,7 +10,9 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title1.png" /></br>
 </p>
-### Alpha Skill - Delaware Smash Full Bullet 
+
+## Alpha Skill - Delaware Smash Full Bullet 
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101a.png" width="400" /></br>
 </p>
@@ -41,7 +43,7 @@ This skill is also very sensitive to damage modifiers due to how the game handle
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a2-gif.gif" width="400" /><br/>
 </p>
 
-### Beta Skill - Manchester Smash 
+## Beta Skill - Manchester Smash 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101b.png" width="400" /></br>
 </p>
@@ -66,7 +68,7 @@ This beta version is primarily used to get large amounts of spread damage in a f
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101b3-gif.gif" width="400" /></br>
 </p>
 
-### Gamma Skill - Ground Impact 
+## Gamma Skill - Ground Impact 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101y.png" width="400" /></br>
 </p>
