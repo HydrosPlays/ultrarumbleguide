@@ -14,7 +14,7 @@
 ## Alpha Skill - Earth Break
 
 <p align="center">
-    <img src="https://ultrarumble.com/character/15" width="400" /></br>
+    <img src="https://ultrarumble.com/assets/Character/Ch015/Variation/Var01/GUI/Skill/T_ui_Skill_Ch015_Unique1.png" width="400" /></br>
 </p>
 
 When the shig
