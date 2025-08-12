@@ -16,7 +16,9 @@
 <video src="101a-vid.mp4" controls width="500">
   Your browser does not support the video tag.
 </video>
+<video src="./video.mp4" controls></video>
 
+[![Watch the video](101.jpg)](https://youtu.be/UQgv8MBxCuU?si=SiBKZhDa__4ccHT8)
   
 ### Basics 
 - Talk about use of tuning here (probably)
