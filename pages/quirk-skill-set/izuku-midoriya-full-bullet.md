@@ -9,11 +9,44 @@
 
 ## Learning The Basics
 ### Alpha Skill - Delaware Smash Full Bullet
-<p align="left">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/101a.png" /><br/>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101a.png" width="400" /></br>
 </p>
 
-For me what is hardest to live with is the difference in skill. Why I, with the sorriest aim, am put in the same lobby as ZEN Thunderkyle (made up name) who uses Strike Deku and has more aim than I have debts? Like I be gammaing with compress and the mf be shooting me out of the marble when it's already flying in the air.
+This is the simplest part of the kit, a projectile skill that works like a shotgun, splitting the damage across 5 pellets. Taking 10 pellets will cause the player to be knocked down, which can be really useful to interrupt both escape and attack attempts.
+This skill has two variations: The Aimed and Unaimed versions.
+
+**Unaimed Version**</br>
+This variation is niche and overall limited, having a short reach for a ranged skill in exchange for a wider spread, making it easier to land at the cost of landing less pellets, resulting in lower damage. The best use cases for it are finishing a downed person from close range or when kitting the opponent and you'd rather guarantee 3 pellets connecting rather than risking a miss entirely. If your aim is solid you will never need this version at all.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a-gif.gif" width="400" /></br>
+</p>
+
+**Aimed Version**</br>
+This is what you should do basically every time you use alpha, as this increases its range significantly, allowing it to reach twice as far as the unaimed version. Furthermore, the pellets don't get spread, which makes it easier to connect all 5 pellets for full damage. This variation has no downsides, so it's recommended to abuse it as much as possible.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a2-gif.gif" width="400" /></br>
+</p>
+
+It's recommended to increase the sensitivity on your vertical aim because of how often this skill is aimed in, since you'll need the ability to make larger adjustments to your aim faster than other characters that don't rely in aimed shots, due to how aiming mode reduces the camera's speed.
+
+A common technique you can use in extremely close range or against rapid character is to get around the slow camera speed is to switch off the aiming mode for camera control, and then switch on to shoot. If you're not comfortable with super high sensitivity, this technique might be helpful.
+ 
+This skill is also very sensitive to damage modifiers due to how the game handles rounding damage, this means that even small buffs can lead to a substantial increase in damage compared to most other skills. However, this in turn means that enemies with defense buffs take noticeably less damage.
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a2-gif.gif" width="400" /><br/>
+</p>
+
+  
+## Basics 
+- Talk about use of tuning here (probably)
+
+## T.U.N.I.N.G. Builds
+- Talk about use of play styles here (probably)
+
+- For me what is hardest to live with is the difference in skill. Why I, with the sorriest aim, am put in the same lobby as ZEN Thunderkyle (made up name) who uses Strike Deku and has more aim than I have debts? Like I be gammaing with compress and the mf be shooting me out of the marble when it's already flying in the air.
 
 Oh, but when you down him for some miraculous reason like perfect third party timing, they get ressed by a toad or a ferrari legboi.
 
@@ -68,15 +101,3 @@ You know what's the biggest flaw of tuning? the fact that you can't open byking'
 Gotta love Balance- and Cashgrab+
 
 - [YuwinaMaekawa](https://www.reddit.com/r/MyHeroUltraRumble/comments/1gxhrbl/comment/lyi0zxz/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-
-<p align="left">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a-gif.gif" width="400" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a2-gif.gif" width="400" /><br/>
-</p>
-
-  
-## Basics 
-- Talk about use of tuning here (probably)
-
-## T.U.N.I.N.G. Builds
-- Talk about use of play styles here (probably)
