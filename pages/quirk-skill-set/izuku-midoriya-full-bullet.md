@@ -51,6 +51,12 @@ When used while touching the ground, this skill will be preceeded by a forward l
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101b-gif.gif" width="400" /></br>
 </p>
+
+**Jump Beta**</br>
+Used by using beta after jumping. This version of the skill is primarily used defensively as it's basically the grounded beta without tracking. This ability can be used to catch cocky Iidas trying to recklessly approach with alpha, however it's advised to stick to grounded beta for the tracking. You can use it to catch mashers who wake early by grabbing with the heel but this is niche at higher levels of Full Bullet play due to a certain tech.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101b2-gif.gif" width="400" /></br>
+</p>
   
 ## Basics 
 - Talk about use of tuning here (probably)
