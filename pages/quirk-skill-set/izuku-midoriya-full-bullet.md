@@ -57,6 +57,18 @@ Used by using beta after jumping. This version of the skill is primarily used de
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101b2-gif.gif" width="400" /></br>
 </p>
+
+**Height-Boosted Beta**</br>
+This beta version is primarily used to get large amounts of spread damage in a fight when people don't know where you are. This is highly likely to go poorly if you don't sneak-attack the enemy group. Attempting this in a 1v1 situation without breaking line of sight first is a bad idea and will often result in you getting punished. It's recommended to save this for catching entire teams or group fights off-guard with massive AoE damage and poke with alphas whoever is still alive. This version of the beta is achieved by using the skill from a high position, setup by the stage or by his gamma skill.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101b3-gif.gif" width="400" /></br>
+</p>
+
+### Gamma Skill - Ground Impact
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101y.png" width="400" /></br>
+</p>
+dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada doo bababadoo doodadoo dadadidoo didooda... Dudu dididi dadada! dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada doo bababadoo doodadoo dadadidoo didooda... Dudu dididi dadada! dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada doo bababadoo doodadoo dadadidoo didooda... Dudu dididi dadada! dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada doo bababadoo doodadoo dadadidoo didooda... Dudu dididi dadada! dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada doo bababadoo doodadoo dadadidoo didooda... Dudu dididi dadada! dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada doo bababadoo doodadoo dadadidoo didooda... Dudu dididi dadada!
   
 ## Basics 
 - Talk about use of tuning here (probably)
