@@ -34,11 +34,23 @@ A common technique you can use in extremely close range or against rapid charact
  
 This skill is also very sensitive to damage modifiers due to how the game handles rounding damage, this means that even small buffs can lead to a substantial increase in damage compared to most other skills. However, this in turn means that enemies with defense buffs take noticeably less damage.
 
-<p align="left">
+<p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a-gif.gif" width="400" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a2-gif.gif" width="400" /><br/>
 </p>
 
+### Beta Skill - Manchester Smash
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101b.png" width="400" /></br>
+</p>
+
+An AoE attack that gets stronger and larger when used from high heights. Hitting the enemy directly with the heel will make them take additional damage in the form of True Damage.
+
+**Grounded Beta**</br>
+When used while touching the ground, this skill will be preceeded by a forward leap that helps you close distances. This ability has strong tracking when an enemy is close enough, which makes it great to catch wake-ups. One of the best setups for it is to use alpha twice to knock the enemy to the ground, and as the enemy gets up use beta to catch their wake. Regardless of what direction they get up, this skill will track onto them. It's a very good ability against mashers, and even has some workarounds against people who use their i-frames more wisely.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101b-gif.gif" width="400" /></br>
+</p>
   
 ## Basics 
 - Talk about use of tuning here (probably)
