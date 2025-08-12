@@ -71,7 +71,7 @@ Gotta love Balance- and Cashgrab+
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a-gif.gif" width="400" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a-gif.gif" width="400" /><br/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a2-gif.gif" width="400" /><br/>
 </p>
 
   
