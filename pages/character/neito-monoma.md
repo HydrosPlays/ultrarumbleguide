@@ -8,7 +8,7 @@
 |---------------------------------|------------------|--------------------------------------|
 
 ### General Skill
-- Talk about use of quirk skills here (probably)
+*The laughter of a certain Reddit coper echoes in the distance...*
   
 ### Basics 
 - Talk about use of tuning here (probably)
