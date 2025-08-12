@@ -7,7 +7,9 @@
 | [General Skill](#learning-the-basics) | [Basics](#basics) | [T.U.N.I.N.G. Builds](#tuning-builds) |
 |-------------------------------|------------------|-----------------------------|
 
-## Learning The Basics
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title1.png" /></br>
+</p>
 ### Alpha Skill - Delaware Smash Full Bullet 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101a.png" width="400" /></br>
@@ -72,6 +74,9 @@ dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada d
   
 ## Basics 
 - Talk about use of tuning here (probably)
+
+Insert Shawolf cat here
+
 
 ## T.U.N.I.N.G. Builds
 - Talk about use of play styles here (probably)
