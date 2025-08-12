@@ -4,7 +4,7 @@
 
 # [Izuku Midoriya (Full Bullet)](https://ultrarumble.com/character/1#Variant-1)
 
-| [General Skill](#general-skill) | [Basics](#basics) | [T.U.N.I.N.G. Builds](#tuning-builds) |
+| [General Skill](#learning-the-basics) | [Basics](#basics) | [T.U.N.I.N.G. Builds](#tuning-builds) |
 |-------------------------------|------------------|-----------------------------|
 
 ## Learning The Basics
