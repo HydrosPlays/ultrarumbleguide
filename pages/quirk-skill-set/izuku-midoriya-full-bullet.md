@@ -22,8 +22,8 @@ the world somtime kick you in the knee and laff, but you stand up anyway cuz hea
 </p>
 
   
-### Basics 
+## Basics 
 - Talk about use of tuning here (probably)
 
-### T.U.N.I.N.G. Builds
+## T.U.N.I.N.G. Builds
 - Talk about use of play styles here (probably)
