@@ -25,28 +25,31 @@ Cementoss' Alpha is his main form of damage, mobility, cover and movement. With 
 
 (insert gifs - hitting pillar and hitting shot) 
 
-When firing at your feet you will automatically ride the pillar, esential for his structure building and overall gameplay. You can pile up to **3** alpha pillars before the structure breaks.
+When firing at your feet you will automatically ride the pillar, esential for his structure building and overall gameplay. **3** Alpha pillars can exist as the time. When trying to create a 4th one, the oldest pillar will break.
 
 (insert gifs - making one pillar and making 4 then breaking)
 
-
-## Beta Skill - Manchester Smash 
+## Beta Skill - Load-Bearing Wall 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101b.png" width="400" /></br>
+    <img src="https://ultrarumble.com/assets/Character/Ch101/GUI/Skill/T_ui_Skill_Ch101_Unique2.png" width="400" /></br>
 </p>
 
-Creates a cement wall at your location. Requires being on the ground and can be morphed by using inputs as its being built. Does a huge amount of damage and is his (arguably) most versatile move. Leveling up increases its size, damage, reload, and count. At level 9 its massive.
+When activated, this skill will create a cement wall in front of you at your aim's direction. The cement wall will only pop up once Cementoss is touching a surface, so activating in the air will make him fast fall until he touches one. This Skill is the most damaging move of his kit. Leveling up increases its size, damage, reload, and count. At level 9 its massive.
 
 **Molding**
-Beta can be molded based on the input its given. Example holding (side) input will create a horizontal wall or holding (forward) will create a vertical wall. 
+Beta can be molded by using various inputs as its being built (if no input is given, the wall will default to a vertical wall):
+
+Basic: holding the left or right input will create a horizontal wall, while holding forward will create a vertical wall. 
 
 (gif)
 
-This can be mixed up too, by inputting both (forward) and then (sideways) will create a ‘T’ shape.
+Mixed: by inputting forward and then either left or right the wall will be created in a "T" shape. If you switch the order, the wall will become a "U" shape instead.
 
 (gif)
 
- This can be expanded further too. If there is something block the wall from going horizontally on one side, Inputting (sideways) will make it go purely in the opposite direction, example being, if you are in a room with a wall on you left, holding (right) will make it go fully right instead of the normal T.
+Exceptional: if there is an object blocking the wall from going horizontally on one side, inputting any side direction will make it go purely in the opposite direction, example being, if you are in a room with a wall on you left, holding the right input will make it go fully right instead of creating the regular "T" shape.
+
+(gif)
 
 
 ## Gamma Skill - Ground Impact 
