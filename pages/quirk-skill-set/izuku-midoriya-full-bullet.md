@@ -126,8 +126,17 @@ Immediately after picking up your downed teammate, you want to drop them as soon
 
 ## Basic Attacks
 <br>**Ground Melee**</br>
-<br>**Air Melee**</br>
+A 4-string combo chain with low range and somewhat slow endlag. This should be a last resort option, since Full Bullet excels at short range but not quite point blank, so if an enemy gets close enough to get hit by melee then it's likely you or/and your enemy made a mistake, since at peak levels of Full Bullet this will never come into play.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/100m-gif.gif" width="400" />
+</p>
+</br>
 
+**Air Melee**<br>
+This move is usually fairly bad on Full Bullet but it has a few key advantages. Firstly, it's fast, very fast, and because of this, you can often use it to commbo-break against grapple characters like Aizawa and Tamaki that can get a bit greedy with their combos. Secondly, it has very little endlag. Unlike its ground counterpart where no matter when you stop you will be left vulnerable to punishing, his air melee doesn't have this issue, and instantly cancels all endlag upon touching the ground, so it ends up being better than the ground variation.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/100ma-gif.gif" width="400" />
+</p>
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title2.png" /></br>
 </p>
