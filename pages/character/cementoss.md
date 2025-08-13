@@ -58,7 +58,7 @@ Due to the Alpha pillar size, it's one of the best methods to block passages and
     <img src="https://ultrarumble.com/assets/Character/Ch101/GUI/Skill/T_ui_Skill_Ch101_Unique2.png" width="400" /></br>
 </p>
 
-When activated, this skill will create a cement wall in front of you at your aim's direction. The cement wall will only pop up once Cementoss is touching a surface, so activating in the air will make him fast fall until he touches one. This Skill is the most damaging move of his kit. Leveling up increases its size, damage, reload, and count. At level 9 its massive.
+When activated, this skill will create a cement wall in front of you at your aim's direction. The cement wall will only pop up once Cementoss is touching a surface, so activating in the air will make him fast fall until he lands on one. This Skill is the most damaging move of his kit.
 
 ### Molding
 
