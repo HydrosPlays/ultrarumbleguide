@@ -31,13 +31,16 @@ Pillar Split is his main form of damage, mobility, cover and movement. With Quir
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement2.gif" width="400" />
 </p>
 
-Up to **3** Alpha pillars can exist at the same time; trying to create a 4th one makes the oldest pillar break. When firing at your feet you will automatically ride the pillar, esential for his structure building and overall gameplay.
+Up to **3** Alpha pillars can exist at the same time; trying to create a 4th one makes the oldest pillar break. 
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement4.gif" width="400" />
+</p>
+
+When firing at your feet you will automatically ride the pillar, esential for his structure building and overall gameplay.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement3.gif" width="400" />
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement4.gif" width="400" />
 </p>
 
 ### Alpha: Building
