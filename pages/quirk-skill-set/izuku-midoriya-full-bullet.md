@@ -142,9 +142,30 @@ This move is usually fairly bad on Full Bullet but it has a few key advantages. 
 </p>
 
 ## Leveling Paths
+### Beamer Path
+Ideal for individuals with good aim, a path that makes the best use out of your alpha from the very beginning. Bro this so peak...
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/a9b4y4b9.png" /></br>
+</p>
+
+### All-Rounder Path
+A strong alternative. The second beta charge can make you more versatile in the early game, or something like that idk man 😭
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/b4a9y4b9.png" /></br>
+</p>
+
+### Melee Path
+Catch ma hands, SIKE!
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/b4y4a9b9.png" /></br>
+</p>
+
 ## Techs
+No deku aint tech yet :(
 ## Combos
+I smack you here, there, bang, boom, yoink and pew! Then I animation-cancel into a fire kick and you DEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD BOIIIIII
 ## Match-Ups
+istg if this kaminari shoots me one more time imma... imma... imma EAT HIM
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title3.png" /></br>
