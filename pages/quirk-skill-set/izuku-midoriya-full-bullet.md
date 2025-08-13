@@ -47,7 +47,7 @@ This skill is also very sensitive to damage modifiers due to how the game handle
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101b.png" width="400" /></br>
 </p>
 
-An AoE attack that gets stronger and larger when used from high heights. Hitting the enemy directly with the heel will make them take additional damage in the form of True Damage.
+An AoE attack that gets stronger and larger when used from high heights. Hitting the enemy directly with the heel will make them take additional damage in the form of True Damage. The reload time of each charge is quite long, however the penalty reload time is pretty forgiving in comparison, so one shouldn't worry too much about conserving beta ammo.
 
 **Grounded Beta**</br>
 When used while touching the ground, this skill will be preceeded by a forward leap that helps you close distances. This ability has strong tracking when an enemy is close enough, which makes it great to catch wake-ups. One of the best setups for it is to use alpha twice to knock the enemy to the ground, and as the enemy gets up use beta to catch their wake. Regardless of what direction they get up, this skill will track onto them. It's a very good ability against mashers, and even has some workarounds against people who use their i-frames more wisely.
@@ -71,8 +71,30 @@ This beta version is primarily used to get large amounts of spread damage in a f
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101y.png" width="400" /></br>
 </p>
-dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada doo bababadoo doodadoo dadadidoo didooda... Dudu dididi dadada! dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada doo bababadoo doodadoo dadadidoo didooda... Dudu dididi dadada! dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada doo bababadoo doodadoo dadadidoo didooda... Dudu dididi dadada! dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada doo bababadoo doodadoo dadadidoo didooda... Dudu dididi dadada! dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada doo bababadoo doodadoo dadadidoo didooda... Dudu dididi dadada! dubidubidubidabidoooooo dada doo bababadoo doodadoo dadadidoo didooda. Da dada doo bababadoo doodadoo dadadidoo didooda... Dudu dididi dadada!
-  
+This skill is a versatile combo-enabling tool with mobility, defensive and offensive applications.</br>
+
+<br>**Gamma as Mobility Tool**</br>
+When holding gamma, you will create a stone ramp followed by a huge jump. The jump's strength is influenced by your camera's angle at the moment of jumping, for example, looking up will allow you to jump really high, while as if you look down instead, the jump will barely lift you off the ground. It's a very strong skill when it comes to vertical mobility, but it isn't great as horizontal mobility. It's preferable to not use both charges to avoid the 10 seconds of penalty reload time and instead only use one and wait for it to come back, as the base reload time is 6 seconds long. If you must use 2 charges however, it's recommended that you use them in a short time span, such as using the first charge to jump on top of a building, and the second one to jump on top of an even higher building. This is so that you don't waste reload time, since if you use gamma followed by alpha spam/beta, and then you use gamma again, the time you spent reloading the charge you just used will be wasted, essentially turning an overall reload time of 11-12 seconds into 14-16 seconds.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101y-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101y2-gif.gif" width="400" />
+</p>
+<p align="center">
+    <small><em>Small jump by looking down.</em></small>
+    <small><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></small>
+    <small><em>High jump by looking up.</em></small>
+</p>
+
+**Gamma as Offensive Tool**</br>
+Gamma is offensive because it hurts the environment and fauna. That strong stomp is mad rad and make the birdie real scared. ur a monster for using dis and disrrupting the natural cycle of tweet tweet birdies.
+We won't tolerate this cruelty! We won't tolerate this cruelty!We won't tolerate this cruelty!We won't tolerate this cruelty!We won't tolerate this cruelty!We won't tolerate this cruelty!We won't tolerate this cruelty!We won't tolerate this cruelty!We won't tolerate this cruelty!We won't tolerate this cruelty!We won't tolerate this cruelty!We won't tolerate this cruelty!We won't tolerate this cruelty!
+
+**Gamma as Defensive Tool Tool**</br>
+We are the rock, we are the earth, we will never perish, we will never be destroyed, we are invincible, we are indestructible, we are strong, impossible to defeat, shielded skin, marrow of mountains, bones of granite, veins of iron and gold, carved by the ages, shaped by the rivers, yet never worn away. We are the weight beneath the oceans, the cliffs that meet the sky, the unshakable foundations of the world. We do not yield to the storm, we do not bow to the fire, we endure the grinding of time itself. In our hearts burns the core of the planet, in our minds the memory of ancient stone. We rise with the sun and sink with the roots, older than forests, harder than steel, eternal as the bedrock beneath all life. We are the guardians of the deep, the keepers of the mountains, the walls against the tide. No wind can scatter us, no quake can break us, no force can grind us to dust. For we are the earth’s own strength, the living rock, the everlasting ground upon which all stands — unbroken, unbending, forever.
+
+
+
+
 ## Basics 
 - Talk about use of tuning here (probably)
 
