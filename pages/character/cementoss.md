@@ -21,17 +21,23 @@ Cementoss is one of My Hero Ultra Rumble's starter characters alongside [Izuku M
     <img src="https://ultrarumble.com/assets/Character/Ch101/GUI/Skill/T_ui_Skill_Ch101_Unique1.png" width="400" /></br>
 </p>
 
-Cementoss' Alpha is his main form of damage, mobility, cover and movement. With his Quirk Skill Alpha, Cementoss fires a cement ball that becomes a pillar on impact, with both the projectile and the pillar dealing damage.
+Cementoss' Alpha is his main form of damage, mobility, cover and movement. With his Quirk Skill Alpha, Cementoss fires a cement ball that becomes a pillar on impact. Up to **3** Alpha pillars can exist at the same time; trying to create a 4th one makes the oldest pillar break. Both the pillar and the initial cement ball projectile do damage.
 
 (insert gifs - hitting pillar and hitting shot) 
 
-When firing at your feet you will automatically ride the pillar, esential for his structure building and overall gameplay. Up to **3** Alpha pillars can exist at the same time. When trying to create a 4th one, the oldest pillar will break.
+When firing at your feet you will automatically ride the pillar, esential for his structure building and overall gameplay. 
 
 (insert gifs - making one pillar and making 4 then breaking)
 
 ###Alpha: Building
 
+One of the Alpha's main uses consists of building structures. It can be piled up on virtually any surface, including itself, Beta and Gamma. This fact, mixed with the ammount of charges and its size-shape make it the perfect building block for any sort of structures. The most common one consists of piling 3 alphas on top of eachother (often finishing the top with a Gamma), often used to heal from a high and safe place.
+
+(gif)
+
 ###Alpha: Blockage
+
+Due to the Alpha pillar size, it's one of the best methods to block passages and entrances in My Hero Ultra Rumble. Since the pillar can be created in almost every surface blocking is very easy and rewarding to perform. Furthermore, Alpha pillars are resistant and will take many hits from the enemy to break. While this is often recomended, full teams or certain skills like charged [All For One's](https://ultrarumble.com/character/16) Alpha can break the pillar fast.
 
 ## Beta Skill - Load-Bearing Wall 
 <p align="center">
@@ -42,7 +48,7 @@ When activated, this skill will create a cement wall in front of you at your aim
 
 ###Molding
 
-Beta can be molded by using various inputs as its being built (if no input is given, the wall will default to a vertical wall):
+Beta can be molded by using various inputs as its being built (if no input is given the wall will default to a vertical wall):
 
 **Basic**: holding the left or right input will create a horizontal wall, while holding forward will create a vertical wall. 
 
