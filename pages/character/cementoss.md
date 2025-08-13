@@ -29,6 +29,10 @@ When firing at your feet you will automatically ride the pillar, esential for hi
 
 (insert gifs - making one pillar and making 4 then breaking)
 
+###Alpha: Building
+
+###Alpha: Blockage
+
 ## Beta Skill - Load-Bearing Wall 
 <p align="center">
     <img src="https://ultrarumble.com/assets/Character/Ch101/GUI/Skill/T_ui_Skill_Ch101_Unique2.png" width="400" /></br>
@@ -36,18 +40,19 @@ When firing at your feet you will automatically ride the pillar, esential for hi
 
 When activated, this skill will create a cement wall in front of you at your aim's direction. The cement wall will only pop up once Cementoss is touching a surface, so activating in the air will make him fast fall until he touches one. This Skill is the most damaging move of his kit. Leveling up increases its size, damage, reload, and count. At level 9 its massive.
 
-**Molding**
+###Molding
+
 Beta can be molded by using various inputs as its being built (if no input is given, the wall will default to a vertical wall):
 
-Basic: holding the left or right input will create a horizontal wall, while holding forward will create a vertical wall. 
+**Basic**: holding the left or right input will create a horizontal wall, while holding forward will create a vertical wall. 
 
 (gif)
 
-Mixed: by inputting forward and then either left or right the wall will be created in a "T" shape. If you switch the order, the wall will become a "U" shape instead.
+**Mixed**: by inputting forward and then either left or right the wall will be created in a "T" shape. If you switch the order, the wall will become a "U" shape instead.
 
 (gif)
 
-Exceptional: if there is an object blocking the wall from going horizontally on one side, inputting any side direction will make it go purely in the opposite direction, example being, if you are in a room with a wall on you left, holding the right input will make it go fully right instead of creating the regular "T" shape.
+**Exceptional**: if there is an object blocking the wall from going horizontally on one side, inputting any side direction will make it go purely in the opposite direction, example being, if you are in a room with a wall on you left, holding the right input will make it go fully right instead of creating the regular "T" shape.
 
 (gif)
 
