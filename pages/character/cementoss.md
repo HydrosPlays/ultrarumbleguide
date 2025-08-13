@@ -24,7 +24,12 @@ He is a unique Support character who can modify the battlefield; being a beast a
 
 Cementoss' Alpha is his main form of damage, mobility, cover and movement. With his Quirk Skill Alpha, Cementoss fires a cement ball that becomes a pillar on impact. Up to **3** Alpha pillars can exist at the same time; trying to create a 4th one makes the oldest pillar break. Both the pillar and the initial cement ball projectile do damage.
 
-(insert gifs - hitting pillar and hitting shot) 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement1.gif" width="400" />
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement2.gif" width="400" />
+</p>
 
 When firing at your feet you will automatically ride the pillar, esential for his structure building and overall gameplay. 
 
