@@ -77,7 +77,7 @@ Beta can be molded by using various inputs as its being built (if no input is gi
 (gif)
 
 
-## Gamma Skill - thing
+## Gamma Skill - Structural Slab
 <p align="center">
     <img src="https://ultrarumble.com/assets/Character/Ch101/GUI/Skill/T_ui_Skill_Ch101_Unique3.png" width="400" /></br>
 </p>
