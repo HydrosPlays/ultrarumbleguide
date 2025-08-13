@@ -114,9 +114,15 @@ After picking up a teammate, this skill has two parts: Carrying and Dropping.
 
 <br>**Carrying**</br>
 While carrying, you will be able to reposition your downed teammate. It's strongly recommended to never carry your ally elsewhere, since even though you gain a defense boost while carrying, you're left without any means of defending yourself, becoming a damage sponge, which on top of that can knock your ally out of your back, preventing your teammate from getting-up, wasting health and potentially leading to both your death and your teammate's death. The only scenario where you could carry your ally is if they died in the Poison Mist and there are no enemies around to attack you.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/100s-gif.gif" width="400" />
+</p>
 
 <br>**Dropping**</br>
 Immediately after picking up your downed teammate, you want to drop them as soon as possible. This allows you to get your teammate back up instantly and allow you to keep fighting right away, however it's still really risky, as the time it takes you to pick up and ally and drop them is enough for any good player to take away half your health. The only context where you should use it in a fight is when you or your other teammate manage to create a window in which you can safely pick and drop your downed teammate, such as when you knock down the enemy with 2 alphas or, in open fights, after knocking everyone away with beta. The action of dropping does not consume Special Action gauge, only the carrying does, so theoretically there's no limit to how many times you can use this ability.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/100s2-gif.gif" width="400" />
+</p>
 
 ## Basic Attacks
 <br>**Ground Melee**</br>
