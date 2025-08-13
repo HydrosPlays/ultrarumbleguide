@@ -29,36 +29,25 @@ When firing at your feet you will automatically ride the pillar, esential for hi
 
 (insert gifs - making one pillar and making 4 then breaking)
 
-**Unaimed Version**</br>
-This variation is niche and overall limited, having a short reach for a ranged skill in exchange for a wider spread, making it easier to land at the cost of landing less pellets, resulting in lower damage. The best use cases for it are finishing a downed person from close range or when kitting the opponent and you'd rather guarantee 3 pellets connecting rather than risking a miss entirely. If your aim is solid you will never need this version at all.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a-gif.gif" width="400" /></br>
-</p>
 
 ## Beta Skill - Manchester Smash 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101b.png" width="400" /></br>
 </p>
 
-An AoE attack that gets stronger and larger when used from high heights. Hitting the enemy directly with the heel will make them take additional damage in the form of True Damage. The reload time of each charge is quite long, however the penalty reload time is pretty forgiving in comparison, so one shouldn't worry too much about conserving beta ammo.
+Creates a cement wall at your location. Requires being on the ground and can be morphed by using inputs as its being built. Does a huge amount of damage and is his (arguably) most versatile move. Leveling up increases its size, damage, reload, and count. At level 9 its massive.
 
-**Grounded Beta**</br>
-When used while touching the ground, this skill will be preceeded by a forward leap that helps you close distances. This ability has strong tracking when an enemy is close enough, which makes it great to catch wake-ups. One of the best setups for it is to use alpha twice to knock the enemy to the ground, and as the enemy gets up use beta to catch their wake. Regardless of what direction they get up, this skill will track onto them. It's a very good ability against mashers, and even has some workarounds against people who use their i-frames more wisely.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101b-gif.gif" width="400" /></br>
-</p>
+**Molding**
+Beta can be molded based on the input its given. Example holding (side) input will create a horizontal wall or holding (forward) will create a vertical wall. 
 
-**Jump Beta**</br>
-Used by using beta after jumping. This version of the skill is primarily used defensively as it's basically the grounded beta without tracking. This ability can be used to catch cocky Iidas trying to recklessly approach with alpha, however it's advised to stick to grounded beta for the tracking. You can use it to catch mashers who wake early by grabbing with the heel but this is niche at higher levels of Full Bullet play due to a certain tech.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101b2-gif.gif" width="400" /></br>
-</p>
+(gif)
 
-**Height-Boosted Beta**</br>
-This beta version is primarily used to get large amounts of spread damage in a fight when people don't know where you are. This is highly likely to go poorly if you don't sneak-attack the enemy group. Attempting this in a 1v1 situation without breaking line of sight first is a bad idea and will often result in you getting punished. It's recommended to save this for catching entire teams or group fights off-guard with massive AoE damage and poke with alphas whoever is still alive. This version of the beta is achieved by using the skill from a high position, setup by the stage or by his gamma skill.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101b3-gif.gif" width="400" /></br>
-</p>
+This can be mixed up too, by inputting both (forward) and then (sideways) will create a ‘T’ shape.
+
+(gif)
+
+ This can be expanded further too. If there is something block the wall from going horizontally on one side, Inputting (sideways) will make it go purely in the opposite direction, example being, if you are in a room with a wall on you left, holding (right) will make it go fully right instead of the normal T.
+
 
 ## Gamma Skill - Ground Impact 
 <p align="center">
