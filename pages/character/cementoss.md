@@ -21,28 +21,18 @@ Cementoss is one of My Hero Ultra Rumble's starter characters alongside [Izuku M
     <img src="https://ultrarumble.com/assets/Character/Ch101/GUI/Skill/T_ui_Skill_Ch101_Unique1.png" width="400" /></br>
 </p>
 
-Cementoss' Alpha is his main form of damage, mobility, cover and movement. With his Quirk Skill Alpha, Cementoss fires a cement ball that becomes a pillar on impact, with both the projectile and the pillar dealing damage. When firing at your feet, you will automatically ride it, which is esential for his structure building and overall gameplay. Leveling up increases the size, damage, count, and reload.
+Cementoss' Alpha is his main form of damage, mobility, cover and movement. With his Quirk Skill Alpha, Cementoss fires a cement ball that becomes a pillar on impact, with both the projectile and the pillar dealing damage.
+
+(insert gifs - hitting pillar and hitting shot) 
+
+When firing at your feet you will automatically ride the pillar, esential for his structure building and overall gameplay. You can pile up to **3** alpha pillars before the structure breaks.
+
+(insert gifs - making one pillar and making 4 then breaking)
 
 **Unaimed Version**</br>
 This variation is niche and overall limited, having a short reach for a ranged skill in exchange for a wider spread, making it easier to land at the cost of landing less pellets, resulting in lower damage. The best use cases for it are finishing a downed person from close range or when kitting the opponent and you'd rather guarantee 3 pellets connecting rather than risking a miss entirely. If your aim is solid you will never need this version at all.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a-gif.gif" width="400" /></br>
-</p>
-
-**Aimed Version**</br>
-This is what you should do basically every time you use alpha, as this increases its range significantly, allowing it to reach twice as far as the unaimed version. Furthermore, the pellets don't get spread, which makes it easier to connect all 5 pellets for full damage. This variation has no downsides, so it's recommended to abuse it as much as possible.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a2-gif.gif" width="400" /></br>
-</p>
-It's recommended to increase your aimed-in sensitivity because of how often this skill is aimed in, since you'll need the ability to make larger adjustments to your aim faster than other characters that don't rely in aimed shots, due to how aiming in reduces the camera's speed.
-
-A common technique you can use in extremely close range or against rapid character is to get around the slow camera speed is to switch off the aiming mode for camera control, and then switch on to shoot. If you're not comfortable with super high sensitivity, this technique might be helpful.
- 
-This skill is also very sensitive to damage modifiers due to how the game handles rounding damage, this means that even small buffs can lead to a substantial increase in damage compared to most other skills. However, this in turn means that enemies with defense buffs take noticeably less damage.
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a-gif.gif" width="400" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101a2-gif.gif" width="400" /><br/>
 </p>
 
 ## Beta Skill - Manchester Smash 
