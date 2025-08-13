@@ -25,7 +25,7 @@ Cementoss' Alpha is his main form of damage, mobility, cover and movement. With 
 
 (insert gifs - hitting pillar and hitting shot) 
 
-When firing at your feet you will automatically ride the pillar, esential for his structure building and overall gameplay. **3** Alpha pillars can exist as the time. When trying to create a 4th one, the oldest pillar will break.
+When firing at your feet you will automatically ride the pillar, esential for his structure building and overall gameplay. Up to **3** Alpha pillars can exist at the same time. When trying to create a 4th one, the oldest pillar will break.
 
 (insert gifs - making one pillar and making 4 then breaking)
 
