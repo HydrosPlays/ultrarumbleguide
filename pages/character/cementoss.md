@@ -22,7 +22,7 @@ He is a unique Support character who can modify the battlefield; being a beast a
     <img src="https://ultrarumble.com/assets/Character/Ch101/GUI/Skill/T_ui_Skill_Ch101_Unique1.png" width="400" /></br>
 </p>
 
-Cementoss' Alpha is his main form of damage, mobility, cover and movement. With his Quirk Skill Alpha, Cementoss fires a cement ball that becomes a pillar on impact. Both the pillar and the initial cement ball projectile do damage.
+Pillar Split is his main form of damage, mobility, cover and movement. With Quirk Skill Alpha, Cementoss fires a cement ball that becomes a pillar on impact. Both the pillar and the initial cement ball projectile do damage.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement1.gif" width="400" />
