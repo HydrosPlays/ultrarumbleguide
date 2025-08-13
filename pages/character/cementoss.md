@@ -92,38 +92,21 @@ Gamma is often used as a damage tool and as a structure element (finishing off A
 (gif)
 
 
-## Special Action - Carry to Safety
+## Special Action - Defensive Wall
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/100s.png" width="400" /></br>
+    <img src="https://ultrarumble.com/assets/Character/Ch101/GUI/Skill/T_ui_SpecialSkill_Ch101.png" width="400" /></br>
 </p>
-An ability that allows you to save your downed teammates by carrying them and help them get up. It's a limited ability that can come handy from time to time.
-After picking up a teammate, this skill has two parts: Carrying and Dropping.
+"I'll Save you!" locks them in storm*
 
-<br>**Carrying**</br>
-While carrying, you will be able to reposition your downed teammate. It's strongly recommended to never carry your ally elsewhere, since even though you gain a defense boost while carrying, you're left without any means of defending yourself, becoming a damage sponge, which on top of that can knock your ally out of your back, preventing your teammate from getting-up, wasting health and potentially leading to both your death and your teammate's death. The only scenario where you could carry your ally is if they died in the Poison Mist and there are no enemies around to attack you.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/100s-gif.gif" width="400" />
-</p>
-
-<br>**Dropping**</br>
-Immediately after picking up your downed teammate, you want to drop them as soon as possible. This allows you to get your teammate back up instantly and allow you to keep fighting right away, however it's still really risky, as the time it takes you to pick up and ally and drop them is enough for any good player to take away half your health. The only context where you should use it in a fight is when you or your other teammate manage to create a window in which you can safely pick and drop your downed teammate, such as when you knock down the enemy with 2 alphas or, in open fights, after knocking everyone away with beta. The action of dropping does not consume Special Action gauge, only the carrying does, so theoretically there's no limit to how many times you can use this ability.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/100s2-gif.gif" width="400" />
-</p>
 
 ## Basic Attacks
 <br>**Ground Melee**</br>
-A 4-string combo chain with low range and somewhat slow endlag. This should be a last resort option, since Full Bullet excels at short range but not quite point blank, so if an enemy gets close enough to get hit by melee then it's likely you or/and your enemy made a mistake, since at peak levels of Full Bullet this will never come into play.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/100m-gif.gif" width="400" />
-</p>
-</br>
+There's a little too... EUGH
 
 **Air Melee**<br>
-This move is usually fairly bad on Full Bullet but it has a few key advantages. Firstly, it's fast, very fast, and because of this, you can often use it to commbo-break against grapple characters like Aizawa and Tamaki that can get a bit greedy with their combos. Secondly, it has very little endlag. Unlike its ground counterpart where no matter when you stop you will be left vulnerable to punishing, his air melee doesn't have this issue, and instantly cancels all endlag upon touching the ground, so it ends up being better than the ground variation.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/100ma-gif.gif" width="400" />
-</p>
+Melee but in the air
+
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title2.png" /></br>
 </p>
