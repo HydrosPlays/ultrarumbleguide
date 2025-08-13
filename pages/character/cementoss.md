@@ -7,7 +7,6 @@
 *Create sturdy platforms with cement! A fortress of protection keeps enemies at bay.*
 
 Cementoss is one of My Hero Ultra Rumble's starter characters alongside [Izuku Midoriya](https://ultrarumble.com/character/01), [Ochaco Uraraka](https://ultrarumble.com/character/03), [Mt. Lady](https://ultrarumble.com/character/100), [Tomura Shigaraki](https://ultrarumble.com/character/15) and [Dabi](https://ultrarumble.com/character/17).
-### __**Strengths**__
 He is a unique Support character who can modify the battlefield; being a beast against all grounded characters but struggling against high mobility or flying characters. 
 
 | [Quick Guide](#quickguide) | [In-Depth Guide](#indepthguide) | 
