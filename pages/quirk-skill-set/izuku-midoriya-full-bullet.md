@@ -4,8 +4,8 @@
 
 # [Izuku Midoriya (Full Bullet)](https://ultrarumble.com/character/1#Variant-1)
 
-| [General Skill](#learning-the-basics) | [Basics](#basics) | [T.U.N.I.N.G. Builds](#tuning-builds) |
-|-------------------------------|------------------|-----------------------------|
+| [Quick Guide](#quickguide) | [In-Depth Guide](#indepthguide) | 
+|----------------------------|---------------------------------|
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title1.png" /></br>
