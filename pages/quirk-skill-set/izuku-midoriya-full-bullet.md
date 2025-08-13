@@ -71,10 +71,10 @@ This beta version is primarily used to get large amounts of spread damage in a f
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101y.png" width="400" /></br>
 </p>
-This skill is a versatile combo-enabling tool with mobility, defensive and offensive applications.</br>
+This skill is a valuable and versatile combo-enabling tool with mobility, defensive and offensive applications.</br>
 
 <br>**Gamma as Mobility Tool**</br>
-When holding gamma, you will create a stone ramp followed by a huge jump. The jump's strength is influenced by your camera's angle at the moment of jumping, for example, looking up will allow you to jump really high, while as if you look down instead, the jump will barely lift you off the ground. It's a very strong skill when it comes to vertical mobility, but it isn't great as horizontal mobility. It's preferable to not use both charges to avoid the 10 seconds of penalty reload time and instead only use one and wait for it to come back, as the base reload time is 6 seconds long. If you must use 2 charges however, it's recommended that you use them in a short time span, such as using the first charge to jump on top of a building, and the second one to jump on top of an even higher building. This is so that you don't waste reload time, since if you use gamma followed by alpha spam/beta, and then you use gamma again, the time you spent reloading the charge you just used will be wasted, essentially turning an overall reload time of 11-12 seconds into 14-16 seconds.
+When holding gamma, you will create a stone ramp followed by a huge jump. The jump's strength is influenced by your camera's angle at the moment of jumping, for example, looking up will allow you to jump really high, while as if you look down instead, the jump will barely lift you off the ground. It's a very strong skill when it comes to vertical mobility, but it isn't great as horizontal mobility, which is why you shouldn't ever use gamma for horizontal movement. It's preferable to not use both charges to avoid the 10 seconds of penalty reload time and instead only use one and wait for it to come back, as the base reload time is 6 seconds long. If you must use 2 charges however, it's recommended that you use them in a short time span, such as using the first charge to jump on top of a building, and the second one to jump on top of an even higher building. This is so that you don't waste reload time, since if you use gamma followed by alpha spam/beta, and then you use gamma again, the time you spent reloading the charge you just used will be wasted, essentially turning an overall reload time of 11-12 seconds into 14-16 seconds.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101y-gif.gif" width="400" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101y2-gif.gif" width="400" />
@@ -87,16 +87,28 @@ When holding gamma, you will create a stone ramp followed by a huge jump. The ju
 
 **Gamma as Offensive Tool**</br>
 This skill does solid damage, however it's hitbox is lackluster, since even though it's a close-range skill, it will not hit the enemy if there's isn't a small gap between you two, case where a jump beta would be better. Armored moves can very easily armor through it and hit you, so it's best to use it to counteract an Iida alpha or hit an Aizawa that slightly missed his air alpha, but overall, beta is still better at this. This skill does, however, have a lot of combo utility, so when it comes to the offense, you really want to use it as a combo tool rather than as a standalone attack.
-This ability can also damage the enemy through thinner walls, making it an option when you hear an enemy drinking or resurrecting a teammate near a wall. This skill can also be used tp trap enemies in buildings or force them to take a longer path to exit, which can be useful in the endgame if the Poison Mist moves opposite to that building.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101y3-gif.gif" width="400" /></br>
 </p>
+This ability can also damage the enemy through thinner walls, making it an option when you hear an enemy drinking or resurrecting a teammate near a wall. While this skill can also be used to trap characters in buildings and force them to take another exit and potentially lead them to Poison Mist DMG, most of the time it's better to save that gamma charge for either mobility or combos.
 
-**Gamma as Defensive Tool Tool**</br>
-We are the rock, we are the earth, we will never perish, we will never be destroyed, we are invincible, we are indestructible, we are strong, impossible to defeat, shielded skin, marrow of mountains, bones of granite, veins of iron and gold, carved by the ages, shaped by the rivers, yet never worn away. We are the weight beneath the oceans, the cliffs that meet the sky, the unshakable foundations of the world. We do not yield to the storm, we do not bow to the fire, we endure the grinding of time itself. In our hearts burns the core of the planet, in our minds the memory of ancient stone. We rise with the sun and sink with the roots, older than forests, harder than steel, eternal as the bedrock beneath all life. We are the guardians of the deep, the keepers of the mountains, the walls against the tide. No wind can scatter us, no quake can break us, no force can grind us to dust. For we are the earth’s own strength, the living rock, the everlasting ground upon which all stands — unbroken, unbending, forever.
+<br>**Gamma as Defensive Tool**</br>
+This skill is very poor defensively as of the current update, since it doesn't block any AoE attacks in the game and its durability is quite lackluster. This skills defensive applications should be exclusively used as a way to block doorways, which can also be used aggressively to trap opponents indoors with you. Overall, you shouldn't expect this skill to protect you from anything.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101y4-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101y5-gif.gif" width="400" />
+</p>
+<p align="center">
+    <small><em>Using gamma to block doorways.</em></small>
+    <small><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></small>
+    <small><em>Using gamma as a defensive wall.</em></small>
+</p>
+It is strongly advised to never use gamma from very high in the air. If your goal is to catch a wake-up, beta is a better option, and if one's out of betas, then alpha or air melee are better options, depending on your distance from the enemy. This ability's reload time isn't bad, but also not forgiving enough to spam it, and because it acts as your combo extender and mobility, you shouldn't waste it, as something else will always do a better job.
 
-
-
+## Special Action - Carry to Safety
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/100s.png" width="400" /></br>
+</p>
 
 ## Basics 
 - Talk about use of tuning here (probably)
