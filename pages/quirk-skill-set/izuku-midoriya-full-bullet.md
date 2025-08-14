@@ -219,6 +219,20 @@ A variation of the Beta into Beta Cancel into Gamma combo with lower damage that
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101c4.png" width="400" />
 </p>
 
+### Beta (Heel) -> Beta Cancel -> Gamma -> Gamma -> Alpha
+An incredibly strong combo that can destroy the enemy's health. This combo is only really worth indoors, as using it outdoors will often miss due to the second gamma sending the opponent too far away.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101c5-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101c5.png" width="400" />
+</p>
+
+### Gamma -> Gamma Hold -> Beta
+Another really strong combo that has the possibility of a follow up with alpha for an extra 24-40 DMG, but this follow up can be avoided by the enemy. For it to work, GP has to be broken with the second gamma or earlier. This combo can be made more consistent if the enemy is to your left or your right and by slightly angling the second gamma away from them.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101c6-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101c6.png" width="400" />
+</p>
+
 ## Match-Ups
 istg if this kaminari shoots me one more time imma... imma... imma EAT HIM
 
