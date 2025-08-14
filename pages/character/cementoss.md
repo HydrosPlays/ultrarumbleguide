@@ -57,6 +57,8 @@ Cementoss can use both his **Beta Skill** and **Gamma Skill** on top of his pill
 
 - **Gamma** creates a platform when used on top of a pillar and becomes an excellent way to block line of sight and expanding the surface area of your structure. It can be used to **revive teammates** from a high place that a lot of characters can't reach or shoot through and also healing. However it does come with some weaknesses, such as being very open to attacks from characters who **can** get above you and, while it does block line of sight, most opponents will know where to look for you on top of your pillar if you use a gamma to top it off.
 
+- **Both** Beta and Gamma can be used 
+
 ### Alpha: Blockage
 
 Due to the Alpha pillar size, it's one of the best methods to block passages and entrances in My Hero Ultra Rumble. Since the pillar can be created in almost every surface blocking is very easy and rewarding to perform. Furthermore, Alpha pillars are resistant and will take many hits from the enemy to break. While this is often recomended, full teams or certain skills like charged [All For One's](https://ultrarumble.com/character/16) Alpha can break the pillar fast.
