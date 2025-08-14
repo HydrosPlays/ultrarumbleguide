@@ -129,6 +129,17 @@ Air melee consists on an uppercut which hits for 65 damage. Air melee is easier 
 </p>
 
 ## Leveling Paths
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/A9.png" />
+     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/Arrow.png" />
+     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/B4.png" />
+     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/Arrow.png" />
+     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/Y4.png" />
+     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/Arrow.png" />
+     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/B9.png" />
+</p>
+
 ## Techs
 ## Combos
 ## Match-Ups
