@@ -46,6 +46,14 @@ One of the Alpha's main uses consists of building structures; when firing at you
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement5.gif" width="400" />
 </p>
 
+** Creating Cover**
+
+Cementoss can use both his **Beta Skill** and **Gamma Skill** on top of his pillars at any time, with both having their uses. 
+
+- Beta can be used to create temporary cover and it's an excellent option to block line of sight against **Beamers** or characters with **high mobility**, however it will leave you uncovered from behind which other players can use to attack you. 
+
+-Gamma creates a platform when used on top of a pillar and becomes an excellent way to block line of sight and expanding the surface area of your structure. It can be used to revive teammates from a high place that a lot of characters can't reach or shoot through and also healing. However it does come with some weaknesses, such as being very open to attacks from characters who can get above you and it does not block line of sight. Most opponents will know where to look for you on top of your pillar if you use a gamma on the top of it.
+
 ### Alpha: Blockage
 
 Due to the Alpha pillar size, it's one of the best methods to block passages and entrances in My Hero Ultra Rumble. Since the pillar can be created in almost every surface blocking is very easy and rewarding to perform. Furthermore, Alpha pillars are resistant and will take many hits from the enemy to break. While this is often recomended, full teams or certain skills like charged [All For One's](https://ultrarumble.com/character/16) Alpha can break the pillar fast.
