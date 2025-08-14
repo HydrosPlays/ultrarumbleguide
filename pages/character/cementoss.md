@@ -96,7 +96,10 @@ This skill is a great combo tool thanks to the blob's flinch effect, aswell as a
 <p align="center">
     <img src="https://ultrarumble.com/assets/Character/Ch101/GUI/Skill/T_ui_SpecialSkill_Ch101.png" width="400" /></br>
 </p>
-"I'll Save you!" locks them in storm*
+Revives a downed teammate, forming a concrete box around them. This skill can go through walls but has a limited range, only 1 charge and can't be activated in the air. It's a very powerful skill but can be tricky and situational to use.
+Some noteworthy interactions:
+- If the downed ally is falling at the same time you use Special Action on them, they will spawn under the concrete box.
+- There is a bug that makes the concrete box spawn around yourself instead of your ally, although what causes it is currently unknown.
 
 
 ## Basic Attacks
