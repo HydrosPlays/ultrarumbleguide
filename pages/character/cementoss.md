@@ -31,26 +31,16 @@ Pillar Split is his main form of damage, mobility, cover and movement. With Quir
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement2.gif" width="400" />
 </p>
 
-Up to **3** Alpha pillars can exist at the same time; trying to create a 4th one makes the oldest pillar break. This pillars will last around 30 seconds and greatly expand in size the more the skill is leveled up.
+Up to **3** Alpha pillars can exist at the same time; trying to create a 4th one makes the oldest pillar break. This pillars will last around 30 seconds and greatly expand in size the more the skill is leveled up, almost doubling its initial size.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement4.gif" width="400" />
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/10100.png" /><br/>
-</p>
-
-
-When firing at your feet you will automatically ride the pillar, esential for his structure building and overall gameplay.
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement3.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/10100Alpha.png" /><br/>
 </p>
 
 ### Alpha: Building
 
-One of the Alpha's main uses consists of building structures. It can be piled up on virtually any surface, including itself, Beta and Gamma. This fact, mixed with the ammount of charges and its size-shape make it the perfect building block for any sort of structures. The most common one consists of piling 3 alphas on top of eachother (often finishing the top with a Gamma), often used to heal from a high and safe place.
+One of the Alpha's main uses consists of building structures; when firing at your feet you will automatically ride the pillar, esential for his overall gameplay. The pillar can be piled up on virtually any surface, including itself, Beta and Gamma. This fact, mixed with the ammount of charges and its size-shape make it the perfect building block for any sort of structures. The most common one consists of piling 3 alphas on top of eachother (often finishing the top with a Gamma), often used to heal from a high and safe place.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement5.gif" width="400" />
