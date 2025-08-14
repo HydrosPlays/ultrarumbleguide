@@ -168,9 +168,34 @@ At Lvl.9, Gamma doesn't change most interactions even though it gets bigger, tha
 
 ## Techs
 ### Hop Gamma
-An optimization you can do is to perform a short hop + Gamma, as the grouned Gamma animation is actually slower than the jump startup animation and air Gamma animation combined. It's a minor optimization, but it has more uses in combos. 
+An optimization you can do is to perform a short hop + Gamma, as the grouned Gamma animation is actually slower than the jump startup animation and air Gamma animation combined. It's a minor optimization, but it has more uses in combos.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101t1-gif.gif" width="400" />
+</p>
+
+### Beta Canceling
+This way of using beta and gamma is extremely potent. This tech is performed by using beta right after having used another beta. By default, this skill has noticeable endlag, however beta can be used again before the
+endlag is over. While starting the leap animation for the second beta, you can immediately cancel the whole animation for the second beta and perform a gamma instead. This is much faster than waiting for the endlag and perform a gamma after. The primary use of this tech is for combos, as many rely on Beta Canceling to work, however, it's also incredibly useful for Full Bullet's survival, as it reduces the punishing window for his beta, which usually leaves you defenseless for a second. With this not only you make yourself less vulnerable, but also allows you to position yourself better and follow up with alphas or another beta if the later is level 9.
+This tech can only be used at Beta level 4 or above, as the canceling requires a second beta.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101t2-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101t3-gif.gif" width="400" />
+</p>
+
+<p align="center">
+    <small><em>Basic beta cancel.</em></small>
+    <small><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></small>
+    <small><em>With Vs Without Beta Canceling
+</p>
+
 ## Combos
-I smack you here, there, bang, boom, yoink and pew! Then I animation-cancel into a fire kick and you DEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD BOIIIIII
+### Melee 1 -> Melee 2 -> Gamma Hold -> Beta
+A simple combo consisting of the first two melees, followed by a gamma that will push the enemy forward, and that you will be able to catch with a beta after jumping. This combo can be followed by a beta cancel, but it's outclassed by other combos, it also doesn't work on GP if the the gamma or the melees don't manage to cause guardbreak, as the beta will miss.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101c1-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101c1.png" width="400" />
+</p>
+
 ## Match-Ups
 istg if this kaminari shoots me one more time imma... imma... imma EAT HIM
 
