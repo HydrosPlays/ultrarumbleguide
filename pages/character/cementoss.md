@@ -72,7 +72,7 @@ Beta can be molded by using various inputs as its being built (if no input is gi
 
 (gif)
 
-**Exceptional**: if there is an object blocking the wall from going horizontally on one side, inputting any side direction will make it go purely in the opposite direction, example being, if you are in a room with a wall on you left, holding the right input will make it go fully right instead of creating the regular "T" shape.
+**Exceptional**: if there is an object blocking the wall from going horizontally on one side, holding any side input will make it be created on the opposite direction.
 
 (gif)
 
