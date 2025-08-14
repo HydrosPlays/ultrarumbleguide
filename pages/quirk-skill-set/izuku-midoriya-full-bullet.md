@@ -167,7 +167,8 @@ A third beta is nice, but often redundant as 2 allow you to do most things well,
 At Lvl.9, Gamma doesn't change most interactions even though it gets bigger, that's why it's recommended to instead lend the level cards to trusted teammates instead if you're at Alpha Lvl.9, Beta Lvl.4-9 and Gamma Lvl.4, especially if they're falling behind level-wise.
 
 ## Techs
-No deku aint tech yet :(
+### Hop Gamma
+An optimization you can do is to perform a short hop + Gamma, as the grouned Gamma animation is actually slower than the jump startup animation and air Gamma animation combined. It's a minor optimization, but it has more uses in combos. 
 ## Combos
 I smack you here, there, bang, boom, yoink and pew! Then I animation-cancel into a fire kick and you DEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD BOIIIIII
 ## Match-Ups
