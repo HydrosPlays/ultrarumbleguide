@@ -46,7 +46,7 @@ One of the Alpha's main uses consists of building structures; when firing at you
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement5.gif" width="400" />
 </p>
 
-** Creating Cover **
+**Creating Cover**
 
 Cementoss can use both his **Beta Skill** and **Gamma Skill** on top of his pillars at any time, with both having their uses. 
 
