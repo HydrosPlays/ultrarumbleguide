@@ -143,22 +143,28 @@ This move is usually fairly bad on Full Bullet but it has a few key advantages. 
 
 ## Leveling Paths
 ### Beamer Path
-Ideal for individuals with good aim, a path that makes the best use out of your alpha from the very beginning. Bro this so peak...
+Ideal for individuals with good aim, a path that makes the best use out of your alpha from the very beginning, recommended path for anyone not interested in beta-cancelling. Just stay in the backline and shoot alphas.
 <p align="left">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/a9b4y4b9.png"  width="800"/></br>
 </p>
 
 ### All-Rounder Path
-A strong alternative. The second beta charge can make you more versatile in the early game, or something like that idk man 😭
+This path gives access to beta cancels immediately, which opens up the combo game almost entirely and gives significantly increased survivability in the melee game due to beta cancels massively reducing beta endlag.
 <p align="left">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/b4a9y4b9.png"  width="800"/></br>
 </p>
 
 ### Melee Path
-Catch ma hands, SIKE!
+An alternative for those uninterested in aiming. However, this path is the worst of the three, as alpha levels contribute significantly to Full Bullet's raw damage, so it's hard to ignore them for so long.
 <p align="left">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/b4y4a9b9.png"  width="800"/></br>
 </p>
+
+### Why is Gamma Lvl.4 recommended before Beta Lvl.9?
+A third beta is nice, but often redundant as 2 allow you to do most things well, meanwhile, the size increase at Gamma Lvl.4 is very good at blocking doorways and making raw gamma viable.
+
+### What about Gamma Lvl.9?
+At Lvl.9, Gamma doesn't change most interactions even though it gets bigger, that's why it's recommended to instead lend the level cards to trusted teammates instead if you're at Alpha Lvl.9, Beta Lvl.4-9 and Gamma Lvl.4, especially if they're falling behind level-wise.
 
 ## Techs
 No deku aint tech yet :(
