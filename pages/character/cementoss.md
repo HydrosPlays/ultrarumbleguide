@@ -40,7 +40,7 @@ Up to **3** Alpha pillars can exist at the same time; trying to create a 4th one
 
 ### Alpha: Building
 
-One of the Alpha's main uses consists of building structures; when firing at your feet you will automatically ride the pillar, esential for his overall gameplay. The pillar can be piled up on virtually any surface, including itself, Beta and Gamma. This fact, mixed with the ammount of charges and its size-shape make it the perfect building block for any sort of structures. The most common one consists of piling 3 alphas on top of eachother (often finishing the top with a Gamma), often used to heal from a high and safe place.
+One of the Alpha's main uses consists of building structures; when firing at your feet you will automatically ride the pillar, esential for his overall gameplay. The pillar can be piled up on virtually any surface, including itself, Beta and Gamma. It's one of the best forms of vertical mobility in the game and can even nullify entire characters. Pillars can be stacked up to 3 times due to the natural limit, resulting in different scenarios like safe healing, pulling a downed ally from danger or creating quick cover in a fight. 
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement5.gif" width="400" />
