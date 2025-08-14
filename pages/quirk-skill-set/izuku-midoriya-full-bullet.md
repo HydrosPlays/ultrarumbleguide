@@ -191,6 +191,14 @@ This tech can only be used at Beta level 4 or above, as the canceling requires a
         
 ## Combos
 The different ways you can combine and chain various skills for higher damage. DMG displayed from all level 1 to all level 9.
+
+### Beta (Heel) -> Beta Cancel -> Beta (Heel)
+A basic yet strong combo that performs better against walls, as otherwise people can easily avoid the second beta by waking early.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101c0-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101c0.png" width="400" />
+</p>
+
 ### Melee 1 -> Melee 2 -> Gamma Hold -> Beta
 A simple combo consisting of the first two melees, followed by a gamma that will push the enemy forward, and that you will be able to catch with a beta after jumping. This combo can be followed by a beta cancel, but it's outclassed by other combos, it also doesn't work on GP if the the gamma or the melees don't manage to cause guardbreak, as the beta will miss.
 <p align="center">
@@ -233,8 +241,21 @@ Another really strong combo that has the possibility of a follow up with alpha f
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101c6.png" width="400" />
 </p>
 
+### Gamma -> Dash -> Gamma -> Beta
+A variation of the Gamma into Gamma Hold into Beta combo. It gets outclassed by the previous version. Angling the second gamma makes it more consistent, and you can use alpha as a follow up, but the enemy can avoid it with an early wake.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101c6.png" width="400" />
+</p>
+
+### Beta (Heel) -> Beta Cancel -> Gamma Hold -> Beta
+An extremely powerful combo that makes use of all 3 beta charges, for this reason, beta level 9 is mandatory to perform this combo. Performing this combo isn't very difficult if you're surroundings are open enough, and it can be made easier if you angle gamma to the sides. This combo has no follow up.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101c8-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101c8.png" width="400" />
+</p>
+
 ## Match-Ups
-istg if this kaminari shoots me one more time imma... imma... imma EAT HIM
+Upcoming...
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title3.png" /></br>
