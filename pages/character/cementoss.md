@@ -83,11 +83,11 @@ Beta can be molded by using various inputs as its being built (if no input is gi
 </p>
 
 Launches a blob of cement which forms a slab on impact. Both the projectile and slab deal damage, with the projectile flinching on hit. If used in the air, Cementoss will get launched in the opposite direction of where he’s facing. Using gamma on jump wakeup towards the ground will launch you into the air, a great escape tool and a good mixup.
-This skill is a great combo tool thanks to the blob's flinch effect, aswell as an alternative mobility tool.
+
 
 (gif)
 
-Gamma is often used as a damage tool and as a structure element (finishing off Alpha towers). While it can be used to block passages, it isn't as practical as Alpha or Beta.
+This skill is a great combo tool thanks to the blob's flinch effect, aswell as an alternative mobility tool. Gamma is also often used as a damage tool and as a structure element (finishing off Alpha towers). While it can be used to block passages, it isn't as practical as Alpha or Beta.
 
 (gif)
 
