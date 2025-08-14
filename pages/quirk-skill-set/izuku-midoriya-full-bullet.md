@@ -185,15 +185,38 @@ This tech can only be used at Beta level 4 or above, as the canceling requires a
 <p align="center">
     <small><em>Basic beta cancel.</em></small>
     <small><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></small>
-    <small><em>With Vs Without Beta Canceling
+    <small><em>With Vs Without Beta Canceling</em></small>
 </p>
 
+        
 ## Combos
+The different ways you can combine and chain various skills for higher damage. DMG displayed from all level 1 to all level 9.
 ### Melee 1 -> Melee 2 -> Gamma Hold -> Beta
 A simple combo consisting of the first two melees, followed by a gamma that will push the enemy forward, and that you will be able to catch with a beta after jumping. This combo can be followed by a beta cancel, but it's outclassed by other combos, it also doesn't work on GP if the the gamma or the melees don't manage to cause guardbreak, as the beta will miss.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101c1-gif.gif" width="400" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101c1.png" width="400" />
+</p>
+
+### Gamma -> Dash -> Gamma -> Alpha 
+A fairly easy combo that works on both GP and HP, but that has the downsides of trapping your opponents inside the gamma and expend both of your gamma charges, leaving you grounded. The combo leaves room for a second alpha, but due to the high downpower buildup, the damage will be minimal, so it's best to save that charge.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101c2-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101c2.png" width="400" />
+</p>
+
+### Beta (Heel) -> Beta Cancel -> Gamma
+A combo that works on both HP and GP. It's a mildly demanding combo, requiring two beta charges and fast inputs to not miss the gamma. Additionally, the beta can send the enemy in directions that might make it difficult or impossible to land the gamma.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101c3-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101c3.png" width="400" />
+</p>
+
+### Beta (No Heel) -> Beta Cancel -> Gamma
+A variation of the Beta into Beta Cancel into Gamma combo with lower damage that requires very specific positioning and doesn't work well up slopes, but follow ups are possible, especially with a wall.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101c4-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/images/101c4.png" width="400" />
 </p>
 
 ## Match-Ups
