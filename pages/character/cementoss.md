@@ -85,9 +85,9 @@ Beta can be molded by using various inputs as its being built (if no input is gi
 **Exceptional**: if there is an object blocking the wall from going horizontally on one side, holding any side input will make it be created on the opposite direction.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement7.gif" width="400" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement8.gif" width="400" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement9.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement7.gif" width="300" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement8.gif" width="300" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement9.gif" width="300" />
 </p>
 
 ## Gamma Skill - Structural Slab
