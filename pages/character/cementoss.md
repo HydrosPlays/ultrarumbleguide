@@ -84,10 +84,11 @@ Beta can be molded by using various inputs as its being built (if no input is gi
 
 **Exceptional**: if there is an object blocking the wall from going horizontally on one side, holding any side input will make it be created on the opposite direction.
 
-
-
-(gif)
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement7.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement8.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement9.gif" width="400" />
+</p>
 
 ## Gamma Skill - Structural Slab
 <p align="center">
@@ -96,11 +97,13 @@ Beta can be molded by using various inputs as its being built (if no input is gi
 
 Launches a blob of cement which forms a slab on impact. Both the projectile and slab deal damage, with the projectile flinching on hit. This skill is a great combo tool thanks to the flinch effect, aswell as an alternative mobility tool: if used in the air, Cementoss will get launched in the opposite direction of where he’s facing. This technique can be improved further by performing it on jumping wakeup towards the ground, which will launch you into the air, leading to escaping or combos.
 
-(gif)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement10.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement11.gif" width="400" />
+</p>
 
 Gamma is also often used as a structure element (finishing off Alpha towers as we saw previously) and damage tool. 
 While it can be used to block passages, it isn't recommended since it isn't as practical as Alpha or Beta blocking.
-
 
 ## Special Action - Defensive Wall
 <p align="center">
