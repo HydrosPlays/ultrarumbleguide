@@ -26,8 +26,6 @@ Pillar Split is his main form of damage, mobility, cover and movement. With Quir
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement1.gif" width="400" />
-</p>
-<p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement2.gif" width="400" />
 </p>
 
@@ -35,8 +33,13 @@ Up to **3** Alpha pillars can exist at the same time; trying to create a 4th one
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement4.gif" width="400" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/10100Alpha.png" /><br/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/10100Alpha.jpg" width="400" /><br/>
 </p>
+<p align="center">
+    <small><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></small>
+    <small><em>Level 1 vs. Level 9</em></small>
+</p>
+
 
 ### Alpha: Building
 
@@ -74,13 +77,7 @@ When activated, this skill will create a cement wall in front of you at your aim
 Beta can be molded by using various inputs as its being built (if no input is given the wall will default to a vertical wall):
 
 **Basic**: holding the left or right input will create a horizontal wall, while holding forward will create a vertical wall. 
-
-(gif)
-
 **Mixed**: by inputting forward and then either left or right the wall will be created in a "T" shape. If you switch the order, the wall will become a "U" shape instead.
-
-(gif)
-
 **Exceptional**: if there is an object blocking the wall from going horizontally on one side, holding any side input will make it be created on the opposite direction.
 
 (gif)
