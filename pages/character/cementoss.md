@@ -47,11 +47,17 @@ When firing at your feet you will automatically ride the pillar, esential for hi
 
 One of the Alpha's main uses consists of building structures. It can be piled up on virtually any surface, including itself, Beta and Gamma. This fact, mixed with the ammount of charges and its size-shape make it the perfect building block for any sort of structures. The most common one consists of piling 3 alphas on top of eachother (often finishing the top with a Gamma), often used to heal from a high and safe place.
 
-(gif)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement5.gif" width="400" />
+</p>
 
 ### Alpha: Blockage
 
 Due to the Alpha pillar size, it's one of the best methods to block passages and entrances in My Hero Ultra Rumble. Since the pillar can be created in almost every surface blocking is very easy and rewarding to perform. Furthermore, Alpha pillars are resistant and will take many hits from the enemy to break. While this is often recomended, full teams or certain skills like charged [All For One's](https://ultrarumble.com/character/16) Alpha can break the pillar fast.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/cement6.gif" width="400" />
+</p>
 
 ## Beta Skill - Load-Bearing Wall 
 <p align="center">
