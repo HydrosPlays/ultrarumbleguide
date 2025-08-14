@@ -77,8 +77,12 @@ When activated, this skill will create a cement wall in front of you at your aim
 Beta can be molded by using various inputs as its being built (if no input is given the wall will default to a vertical wall):
 
 **Basic**: holding the left or right input will create a horizontal wall, while holding forward will create a vertical wall. 
+
 **Mixed**: by inputting forward and then either left or right the wall will be created in a "T" shape. If you switch the order, the wall will become a "U" shape instead.
+
 **Exceptional**: if there is an object blocking the wall from going horizontally on one side, holding any side input will make it be created on the opposite direction.
+
+
 
 (gif)
 
@@ -88,14 +92,12 @@ Beta can be molded by using various inputs as its being built (if no input is gi
     <img src="https://ultrarumble.com/assets/Character/Ch101/GUI/Skill/T_ui_Skill_Ch101_Unique3.png" width="400" /></br>
 </p>
 
-Launches a blob of cement which forms a slab on impact. Both the projectile and slab deal damage, with the projectile flinching on hit. If used in the air, Cementoss will get launched in the opposite direction of where he’s facing. Using gamma on jump wakeup towards the ground will launch you into the air, a great escape tool and a good mixup.
-
-
-(gif)
-
-This skill is a great combo tool thanks to the blob's flinch effect, aswell as an alternative mobility tool. Gamma is also often used as a damage tool and as a structure element (finishing off Alpha towers). While it can be used to block passages, it isn't as practical as Alpha or Beta.
+Launches a blob of cement which forms a slab on impact. Both the projectile and slab deal damage, with the projectile flinching on hit. This skill is a great combo tool thanks to the flinch effect, aswell as an alternative mobility tool: if used in the air, Cementoss will get launched in the opposite direction of where he’s facing. This technique can be improved further by performing it on jumping wakeup towards the ground, which will launch you into the air, leading to escaping or combos.
 
 (gif)
+
+Gamma is also often used as a structure element (finishing off Alpha towers as we saw previously) and damage tool. 
+While it can be used to block passages, it isn't recommended since it isn't as practical as Alpha or Beta blocking.
 
 
 ## Special Action - Defensive Wall
@@ -112,11 +114,10 @@ Some noteworthy interactions:
 
 ## Basic Attacks
 <br>**Ground Melee**</br>
-There's a little too... EUGH
+A 3 hit combo in which Cementoss does 2 slaps for 20 damage followed by a series of repeated strikes, hitting for around 110 to 120 in total. While it is a decent combo tool, Ground Melee is hard to reliably use due to Cementoss' knockback and how short range it is. Where Cementoss' Melee shines is in breaking his own structures: Cementoss' Pillars have a unique property that is shared among other characters who can generate structures aswell, being that he can break his own structures very quickly meanwhile both allies and enemies require a big amount of hits. Ground melee requires all 3 hits of the move to break a structure at all levels. 
 
 **Air Melee**<br>
-Melee but in the air
-
+Air melee consists on an uppercut which hits for 65 damage. Air melee is easier to use than his regular Melee due to the versatile nature of air melees, but also due to the fact that you can use this move while dropping from Pillars. Similar to his Grounded Melee, Cementoss can break his own structures with this move, taking only 1 hit for all structures under Level 9 and 2 for this last one.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title2.png" /></br>
