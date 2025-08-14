@@ -57,7 +57,7 @@ Cementoss can use both his **Beta Skill** and **Gamma Skill** on top of his pill
 
 - **Gamma** creates a platform when used on top of a pillar and becomes an excellent way to block line of sight and expanding the surface area of your structure. It can be used to **revive teammates** from a high place that a lot of characters can't reach or shoot through and also healing. However it does come with some weaknesses, such as being very open to attacks from characters who **can** get above you and, while it does block line of sight, most opponents will know where to look for you on top of your pillar if you use a gamma to top it off.
 
-- **Both** Beta and Gamma can be used 
+- **Both** Beta and Gamma can be used one after another to get the best of both worlds. To do this, just pile 3 Alpha Pillars, create a Gamma Slab and finally create a horizontal Beta barrier. This will give you both Beta and Gamma's benefits: a big surface area on your tower with a temporary cover, both blocking line of sight. But this method also inherits their weaknesses, making you vulnerable to attacks from behind and easily located.
 
 ### Alpha: Blockage
 
