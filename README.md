@@ -10,7 +10,7 @@
 <br/>
 
 ## Characters & Quirk Skill Sets:
-<ol>
+<ol style="margin-left: 10px;">
   <li value="100">Izuku Midoriya (Default)</li>
   <li value="101">Izuku Midoriya (Full Bullet)</li>
   <li value="200">Katsuki Bakugo (Default)</li>
