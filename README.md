@@ -10,7 +10,54 @@
 <br/>
 
 ## Characters & Quirk Skill Sets:
-100. Izuku Midoriya (Default)
+<ol>
+  <li value="100">Izuku Midoriya (Default)</li>
+  <li value="101">Izuku Midoriya (Full Bullet)</li>
+  <li value="200">Katsuki Bakugo (Default)</li>
+  <li value="201">Katsuki Bakugo (Machine Gun)</li>
+  <li value="300">Ochaco Uraraka (Default)</li>
+  <li value="301">Ochaco Uraraka (Zero Satellites)</li>
+  <li value="400">Shoto Todoroki (Default)</li>
+  <li value="401">Shoto Todoroki (Ice Fang Wind Flame)</li>
+  <li value="500">Tenya Iida (Default)</li>
+  <li value="600">Tsuyu Asui (Default)</li>
+  <li value="700">Denki Kaminari (Default)</li>
+  <li value="701">Denki Kaminari (Lightning)</li>
+  <li value="800">Eijiro Kirishima (Default)</li>
+  <li value="801">Eijiro Kirishima (Red Drive)</li>
+  <li value="1000">Momo Yaoyorozu (Default)</li>
+  <li value="1200">All Might (Default)</li>
+  <li value="1201">All Might (Gatling)</li>
+  <li value="1300">Shota Aizawa (Default)</li>
+  <li value="1500">Tomura Shigaraki (Default)</li>
+  <li value="1501">Tomura Shigaraki (Catastrophe)</li>
+  <li value="1600">All For One (Default)</li>
+  <li value="1700">Dabi (Default)</li>
+  <li value="1701">Dabi (Crazy Torch)</li>
+  <li value="1800">Himiko Toga (Default)</li>
+  <li value="1801">Himiko Toga (Sting Dance)</li>
+  <li value="2300">Endeavor (Default)</li>
+  <li value="2301">Endeavor (Inferno Fist)</li>
+  <li value="2400">Mirio Togata (Default)</li>
+  <li value="2401">Mirio Togata (Sheer Counter)</li>
+  <li value="2500">Nejire Hado (Default)</li>
+  <li value="2600">Tamaki Amajiki (Default)</li>
+  <li value="3400">Overhaul (Default)</li>
+  <li value="3700">Twice (Default)</li>
+  <li value="3800">Mr. Compress (Default)</li>
+  <li value="4300">Hawks (Default)</li>
+  <li value="4600">Itsuka Kendo (Default)</li>
+  <li value="4601">Itsuka Kendo (Twin Palm Strike)</li>
+  <li value="10000">Mt. Lady (Default)</li>
+  <li value="10100">Cementoss (Default)</li>
+  <li value="10200">Ibara Shiozaki (Default)</li>
+  <li value="10300">Kurogiri</li>
+  <li value="10400">Neito Monoma</li>
+  <li value="10500">Hitoshi Shinso</li>
+  <li value="10900">Present Mic</li>
+</ol>
+
+<!--100. Izuku Midoriya (Default)
 101. Izuku Midoriya (Full Bullet)
 200. Katsuki Bakugo (Default)
 201. Katsuki Bakugo (Machine Gun)
@@ -53,7 +100,7 @@
 10300. Kurogiri
 10400. Neito Monoma
 10500. Hitoshi Shinso
-10900. Present Mic
+10900. Present Mic-->
 
 <br/>
 
