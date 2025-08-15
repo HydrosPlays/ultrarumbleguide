@@ -7,6 +7,7 @@
 | [Quick Guide](#quickguide) | [In-Depth Guide](#indepthguide) | 
 |----------------------------|---------------------------------|
 
+<hr>
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title1.png" /></br>
 </p>
