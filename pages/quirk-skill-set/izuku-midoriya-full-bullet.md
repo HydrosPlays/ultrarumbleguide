@@ -138,6 +138,7 @@ This move is usually fairly bad on Full Bullet but it has a few key advantages. 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/100ma-gif.gif" width="400" />
 </p>
+<hr>
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title2.png" /></br>
 </p>
