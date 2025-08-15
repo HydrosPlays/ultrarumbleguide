@@ -8,6 +8,15 @@
 - When the guide is updated, the database website automatically updates with the latest version.
 
 <br/>
+
+## Characters:
+100. Izuku Midoriya (Default)
+101. Izuku Midoriya (Full Bullet)
+200. Katsuki Bakugo
+201. Katsuki Bakugo (Machine Gun)
+300. Ochaco Uraraka
+301. Ochaco Uraraka (Zero Satellites)
+
 <br/>
 
 *Made for the community by the community*
