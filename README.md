@@ -154,6 +154,8 @@ DO NOT DELETE THIS LIST!
 *Made for the community by the community*
 
 ## Contributors
+- Yurina
+  - Character guide compilations and editing
 - Lemon (lemollion)
   - Created the character banner images
 
