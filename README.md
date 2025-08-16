@@ -1,16 +1,16 @@
 <p align="center">
-    <img width="100%" src="https://ultrarumble.com/assets/Character/Ch026/GUI/Variation/T_ui_Ch026_Variation_2600.png" />
+    <img width="100%" src="https://ultrarumble.com/assets/guide/guide.jpg" />
 </p>
 
 # Ultimate Player Guide to My Hero Ultra Rumble
-## Work In Progress!
+## CHARACTER GUIDES
+Click this image-button to go to the character guide selection!
+[![alt text](https://ultrarumble.com/assets/guide/guide-characters.jpg)](https://ultrarumble.com/guide/characters)
 
 ### Guide
 - https://ultrarumble.com/guide
   - When the guide is updated, the database website automatically updates with the latest version.
-### Character Selection
-- https://ultrarumble.com/guide/characters
-  - Explore every character in My Hero Ultra Rumble and dive into their guides to learn tips, tricks, and how to master each one!
+
 
 ### Characters & Quirk Skill Sets Page ID:
 - 100 - Izuku Midoriya 
