@@ -12,9 +12,7 @@
 - https://ultrarumble.com/guide/characters
   - Explore every character in My Hero Ultra Rumble and dive into their guides to learn tips, tricks, and how to master each one!
 
-<br/>
-
-## Characters & Quirk Skill Sets Page ID:
+### Characters & Quirk Skill Sets Page ID:
 - 100 - Izuku Midoriya 
 - 101 - Izuku Midoriya (Full Bullet)
 - 200 - Katsuki Bakugo 
