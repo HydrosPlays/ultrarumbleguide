@@ -2,10 +2,12 @@
     <img width="100%" src="https://ultrarumble.com/assets/Character/Ch026/GUI/Variation/T_ui_Ch026_Variation_2600.png" />
 </p>
 
-# Ultimate Guide to My Hero Ultra Rumble
-### [Work In Progress](https://ultrarumble.com/guide)
+# Ultimate Player Guide to My Hero Ultra Rumble
+## Work In Progress!
 
-- When the guide is updated, the database website automatically updates with the latest version.
+### Guide
+- https://ultrarumble.com/guide
+  - When the guide is updated, the database website automatically updates with the latest version.
 
 <br/>
 
