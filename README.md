@@ -8,6 +8,9 @@
 ### Guide
 - https://ultrarumble.com/guide
   - When the guide is updated, the database website automatically updates with the latest version.
+### Character Selection
+- https://ultrarumble.com/guide/characters
+  - Explore every character in My Hero Ultra Rumble and dive into their guides to learn tips, tricks, and how to master each one!
 
 <br/>
 
