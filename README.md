@@ -10,7 +10,51 @@
 <br/>
 
 ## Characters & Quirk Skill Sets:
-<ol>
+100) Izuku Midoriya (Default)
+101) Izuku Midoriya (Full Bullet)
+200) Katsuki Bakugo (Default)
+201) Katsuki Bakugo (Machine Gun)
+300) Ochaco Uraraka (Default)
+301) Ochaco Uraraka (Zero Satellites)
+400) Shoto Todoroki (Default)
+401) Shoto Todoroki (Ice Fang Wind Flame)
+500) Tenya Iida (Default)
+600) Tsuyu Asui (Default)
+700) Denki Kaminari (Default)
+701) Denki Kaminari (Lightning)
+800) Eijiro Kirishima (Default)
+801) Eijiro Kirishima (Red Drive)
+1000) Momo Yaoyorozu (Default)
+1200) All Might (Default)
+1201) All Might (Gatling)
+1300) Shota Aizawa (Default)
+1500) Tomura Shigaraki (Default)
+1501) Tomura Shigaraki (Catastrophe)
+1600) All For One (Default)
+1700) Dabi (Default)
+1701) Dabi (Crazy Torch)
+1800) Himiko Toga (Default)
+1801) Himiko Toga (Sting Dance)
+2300) Endeavor (Default)
+2301) Endeavor (Inferno Fist)
+2400) Mirio Togata (Default)
+2401) Mirio Togata (Sheer Counter)
+2500) Nejire Hado (Default)
+2600) Tamaki Amajiki (Default)
+3400) Overhaul (Default)
+3700) Twice (Default)
+3800) Mr) Compress (Default)
+4300) Hawks (Default) 
+4600) Itsuka Kendo (Default)
+4601) Itsuka Kendo (Twin Palm Strike)
+10000) Mt) Lady (Default)
+10100) Cementoss (Default)
+10200) Ibara Shiozaki (Default)
+10300) Kurogiri
+10400) Neito Monoma
+10500) Hitoshi Shinso
+10900) Present Mic
+<!--<ol>
   <li value="100">Izuku Midoriya</li>
   <li value="101">Izuku Midoriya (Full Bullet)</li>
   <li value="200">Katsuki Bakugo</li>
@@ -55,7 +99,7 @@
   <li value="10400">Neito Monoma</li>
   <li value="10500">Hitoshi Shinso</li>
   <li value="10900">Present Mic</li>
-</ol>
+</ol>-->
 <!--
 DO NOT DELETE THIS LIST!
 100. Izuku Midoriya (Default)
