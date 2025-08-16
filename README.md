@@ -47,7 +47,7 @@
 4300 - Hawks <br/> 
 4600 - Itsuka Kendo <br/>
 4601 - Itsuka Kendo (Twin Palm Strike)<br/>
-10000 - Mt - Lady <br/>
+10000 - Mt. Lady <br/>
 10100 - Cementoss <br/>
 10200 - Ibara Shiozaki <br/>
 10300 - Kurogiri <br/>
