@@ -10,50 +10,50 @@
 <br/>
 
 ## Characters & Quirk Skill Sets:
-100 - Izuku Midoriya <br/>
-101 - Izuku Midoriya (Full Bullet)<br/>
-200 - Katsuki Bakugo <br/>
-201 - Katsuki Bakugo (Machine Gun)<br/>
-300 - Ochaco Uraraka <br/>
-301 - Ochaco Uraraka (Zero Satellites)<br/>
-400 - Shoto Todoroki <br/>
-401 - Shoto Todoroki (Ice Fang Wind Flame)<br/>
-500 - Tenya Iida <br/>
-600 - Tsuyu Asui <br/>
-700 - Denki Kaminari <br/>
-701 - Denki Kaminari (Lightning)<br/>
-800 - Eijiro Kirishima <br/>
-801 - Eijiro Kirishima (Red Drive)<br/>
-1000 - Momo Yaoyorozu <br/>
-1200 - All Might <br/>
-1201 - All Might (Gatling)<br/>
-1300 - Shota Aizawa <br/>
-1500 - Tomura Shigaraki <br/>
-1501 - Tomura Shigaraki (Catastrophe)<br/>
-1600 - All For One <br/>
-1700 - Dabi <br/>
-1701 - Dabi (Crazy Torch)<br/>
-1800 - Himiko Toga <br/>
-1801 - Himiko Toga (Sting Dance)<br/>
-2300 - Endeavor <br/>
-2301 - Endeavor (Inferno Fist)<br/>
-2400 - Mirio Togata <br/>
-2401 - Mirio Togata (Sheer Counter)<br/>
-2500 - Nejire Hado <br/>
-2600 - Tamaki Amajiki <br/>
-3400 - Overhaul <br/>
-3700 - Twice <br/>
-3800 - Mr. Compress <br/>
-4300 - Hawks <br/> 
-4600 - Itsuka Kendo <br/>
-4601 - Itsuka Kendo (Twin Palm Strike)<br/>
-10000 - Mt. Lady <br/>
-10100 - Cementoss <br/>
-10200 - Ibara Shiozaki <br/>
-10300 - Kurogiri <br/>
-10400 - Neito Monoma <br/>
-10500 - Hitoshi Shinso <br/>
-10900 - Present Mic <br/>
+- 100 - Izuku Midoriya 
+- 101 - Izuku Midoriya (Full Bullet)
+- 200 - Katsuki Bakugo 
+- 201 - Katsuki Bakugo (Machine Gun)
+- 300 - Ochaco Uraraka 
+- 301 - Ochaco Uraraka (Zero Satellites)
+- 400 - Shoto Todoroki 
+- 401 - Shoto Todoroki (Ice Fang Wind Flame)
+- 500 - Tenya Iida 
+- 600 - Tsuyu Asui 
+- 700 - Denki Kaminari 
+- 701 - Denki Kaminari (Lightning)
+- 800 - Eijiro Kirishima 
+- 801 - Eijiro Kirishima (Red Drive)
+- 1000 - Momo Yaoyorozu 
+- 1200 - All Might 
+- 1201 - All Might (Gatling)
+- 1300 - Shota Aizawa 
+- 1500 - Tomura Shigaraki 
+- 1501 - Tomura Shigaraki (Catastrophe)
+- 1600 - All For One 
+- 1700 - Dabi 
+- 1701 - Dabi (Crazy Torch)
+- 1800 - Himiko Toga 
+- 1801 - Himiko Toga (Sting Dance)
+- 2300 - Endeavor 
+- 2301 - Endeavor (Inferno Fist)
+- 2400 - Mirio Togata 
+- 2401 - Mirio Togata (Sheer Counter)
+- 2500 - Nejire Hado 
+- 2600 - Tamaki Amajiki 
+- 3400 - Overhaul 
+- 3700 - Twice 
+- 3800 - Mr. Compress 
+- 4300 - Hawks  
+- 4600 - Itsuka Kendo 
+- 4601 - Itsuka Kendo (Twin Palm Strike)
+- 10000 - Mt - Lady 
+- 10100 - Cementoss 
+- 10200 - Ibara Shiozaki 
+- 10300 - Kurogiri 
+- 10400 - Neito Monoma 
+- 10500 - Hitoshi Shinso 
+- 10900 - Present Mic 
 <!--<ol>
   <li value="100">Izuku Midoriya</li>
   <li value="101">Izuku Midoriya (Full Bullet)</li>
