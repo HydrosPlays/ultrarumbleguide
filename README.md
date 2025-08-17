@@ -1,12 +1,11 @@
 <p align="center">
-    <img width="100%" src="https://ultrarumble.com/assets/guide/guide.jpg" />
+    <img src="https://ultrarumble.com/assets/guide/guide.jpg" width="500"/>
 </p>
 
 # Ultimate Player Guide to My Hero Ultra Rumble
 ## CHARACTER GUIDES
-Click this image-button to go to the character guide selection!
-[![alt text](https://ultrarumble.com/assets/guide/guide-characters.jpg)](https://ultrarumble.com/guide/characters)
-
+-# Click this image-button to go to the character guide selection!
+<a href="https://ultrarumble.com/guide/characters" target="_blank"><img src="https://ultrarumble.com/assets/guide/guide-characters.jpg" width="500" /></a>
 ### Guide
 - https://ultrarumble.com/guide
   - When the guide is updated, the database website automatically updates with the latest version.
