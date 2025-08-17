@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://ultrarumble.com/assets/guide/guide.jpg" width="500"/>
+    <img src="https://ultrarumble.com/assets/guide/guide.jpg" width="750"/>
 </p>
 
 # Ultimate Player Guide to My Hero Ultra Rumble
@@ -7,7 +7,7 @@
 Click this image-button to go to the character guide selection!
 
 <p align="center">
-    <a href="https://ultrarumble.com/guide/characters" target="_blank"><img src="https://ultrarumble.com/assets/guide/guide-characters.jpg" width="500" /></a>
+    <a href="https://ultrarumble.com/guide/characters" target="_blank"><img src="https://ultrarumble.com/assets/guide/guide-characters.jpg" width="750" /></a>
 </p>
 
 ### Guide
