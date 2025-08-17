@@ -4,9 +4,11 @@
 
 # Ultimate Player Guide to My Hero Ultra Rumble
 ## CHARACTER GUIDES
--# Click this image-button to go to the character guide selection!
+Click this image-button to go to the character guide selection!
 
-<a href="https://ultrarumble.com/guide/characters" target="_blank"><img src="https://ultrarumble.com/assets/guide/guide-characters.jpg" width="500" /></a>
+<p align="center">
+    <a href="https://ultrarumble.com/guide/characters" target="_blank"><img src="https://ultrarumble.com/assets/guide/guide-characters.jpg" width="500" /></a>
+</p>
 
 ### Guide
 - https://ultrarumble.com/guide
