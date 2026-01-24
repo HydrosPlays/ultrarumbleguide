@@ -219,7 +219,7 @@ Stack patties on buns with toppings and serve hot<br/></div>
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/pneulysta2.png" />
   <div class="name">Pneulysta</div>
   <div class="discord-tag">pneulysta</div>
-  <div class="role">Contributor<br/>(Lady Nagant)</div>
+  <div class="role">Lead Guidemaker<br/>(Armored All Might)<br/>Contributor<br/>(Lady Nagant)</div>
   <div class="quote"><b>Play Tokyo Mirage Sessions #FE Encore</b>
   </b>
   Also,</b>
