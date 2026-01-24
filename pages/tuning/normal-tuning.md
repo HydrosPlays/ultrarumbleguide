@@ -226,7 +226,7 @@ Increases the character's jump height when they are jumping off a wall. Each tun
 Increases the character's climbing speed. Each tune increases Climbing Speed by 3% at Level 3, by 4% at Level 4.
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/froppy_rapid.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_rapid.png" />
 </div>
 
 ## Downed Crawl Speed+

@@ -1,9 +1,9 @@
 <div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/yurinamaekawa.png" />
-  <div class="name">Yurina (Staff))</div>
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/ladyrinna.png" />
+  <div class="name">Lady Rinna</div>
   <div class="discord-tag">maekawayurina</div>
   <div class="role">Ultimate Guide Project Director<br/>Graphic Artist<br/>Draft Adapter</div>
-  <div class="quote">Hamsters are so edible</div>
+  <div class="quote">Hamsters are so edible, and so are you, so if you want to survive, channel your menace and oppress my DANGER.</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/pfp.png" />
@@ -37,6 +37,28 @@ Now add Jiro and Mina. This is not a request. Further details will be given at t
 <br/>
 If a response is not provided within 24 hours then a “correctional officer” will be sent to your business office’s premises.</div>
 </div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/vateilika.png" />
+  <div class="name">Vateilika (Staff)</div>
+  <div class="discord-tag">vateilika</div>
+  <div class="role">Draft Adapter<br/>CSS Helper</div>
+  <div class="quote">1 lb 80/20 ground beef (for 4 patties)<br/>
+4 slices American or cheddar cheese<br/>
+4 soft buns (brioche, potato)<br/>
+Kosher salt & black pepper<br/>
+Pickles<br/>
+Shredded lettuce<br/>
+Onions<br/>
+<br/>
+
+Get your cast-iron skillet or griddle extremely hot (around 400-450°F).<br/>
+Divide beef into 3-4 oz balls; don't overwork.<br/>
+Place ball on hot surface (use parchment paper to prevent sticking), season the top, and smash thin with a stiff spatula.<br/>
+Cook for 1-2 minutes until edges are browned and crispy.<br/>
+Scrape to release, flip, immediately add cheese, and cook for another 30-60 seconds.<br/>
+Briefly toast buns on the griddle.<br/>
+Stack patties on buns with toppings and serve hot<br/></div>
+</div>
 
 
 <div class="credit-box">
@@ -47,11 +69,11 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">Bratty Femboys are the best</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nolife.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nolife2.png" />
   <div class="name">no_life456780</div>
   <div class="discord-tag">no_life456780</div>
-  <div class="role">Lead Guidemaker<br/>(Full Bullet)<br/>(Slicing Wind)<br/><br/>Contributor<br/>(Lady Nagant)</div>
-  <div class="quote">fix full bullet beta momentum</div>
+  <div class="role">Lead Guidemaker<br/>(Full Bullet)<br/>(Slicing Wind)<br/><br/>Contributor<br/>(Lady Nagant)<br/>(Armored All Might)</div>
+  <div class="quote">Space hop needs nerfed, stop pretending it doesn't</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/volco.png" />
@@ -155,7 +177,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
   <div class="name">Nugget</div>
   <div class="discord-tag">nugget0575</div>
-  <div class="role">Contributor<br/>(Shoto Todoroki)</div>
+  <div class="role">Contributor<br/>(Shoto Todoroki)<br/>(Armored All Might)</div>
   <div class="quote">Mhur is the only game where five people hunt a child and fight for who gets to touch him</div>
 </div>
 <div class="credit-box">
@@ -216,4 +238,11 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="discord-tag">brinyspy1393</div>
   <div class="role">Contributor<br/>(Lady Nagant)</div>
   <div class="quote"><b>*Empty Message*</b></div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/vateilika2.png" />
+  <div class="name">Vateilika</div>
+  <div class="discord-tag">vateilika</div>
+  <div class="role">Contributor<br/>(Itsuka Kendo)<br/>(Mr. Compress)</div>
+  <div class="quote">🍔</div>
 </div>
