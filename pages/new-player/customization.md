@@ -101,6 +101,7 @@ You can choose between 3 My Room backgrounds
 - Briefing Room: The default background that changes with every season.
 - U.A. High School (Ruins): A background based on the Coffin in the Sky, available to use from the very beginning.
 - League of Villains' Bar: A background you can unlock by logging into the game 10 days. Claim it from your "Special" missions.
+- Heights Alliance: You can unlock this background by battling 3 times in Season 15. Claim it from your "Seasonal" missions.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/rm123.png" width="1000"/>
 </p>
@@ -115,6 +116,8 @@ You can also remove them by clicking them on the right side of the My Room Chara
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto21.png" width="400"/>
 </p>
+
+Excluding Briefing Room, all backgrounds have different "skins" or "appearances" you can apply to them. These are unlocked from both Seasonal and Special Missions.
 
 # Customization: My Banner
 The "My Banner" feature allows you to setup an "animated" image in your profile, as well as broadcast it to the rest of the world, showing up in the top left corner of the Play screen.
