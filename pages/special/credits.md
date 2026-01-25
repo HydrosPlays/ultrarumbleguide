@@ -174,7 +174,7 @@ Stack patties on buns with toppings and serve hot<br/></div>
   <div class="quote">Give strike shoto gamma cancels</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nugget.jpg" />
   <div class="name">Nugget</div>
   <div class="discord-tag">nugget0575</div>
   <div class="role">Contributor<br/>(Shoto Todoroki)<br/>(Armored All Might)</div>
