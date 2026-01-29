@@ -1,11 +1,4 @@
 <div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/ladyrinna.png" />
-  <div class="name">Lady Rinna</div>
-  <div class="discord-tag">maekawayurina</div>
-  <div class="role">Ultimate Guide Project Director<br/>Graphic Artist<br/>Draft Adapter</div>
-  <div class="quote">Hamsters are so edible, and so are you, so if you want to survive, channel your menace and oppress my DANGER.</div>
-</div>
-<div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/pfp.png" />
   <div class="name">Hydros</div>
   <div class="discord-tag">hydros</div>
@@ -61,13 +54,6 @@ Stack patties on buns with toppings and serve hot<br/></div>
 </div>
 
 
-<div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/yurinamaekawa.png" />
-  <div class="name">Yurina</div>
-  <div class="discord-tag">maekawayurina</div>
-  <div class="role">Lead Guidemaker<br/>(New and General Guides)</div>
-  <div class="quote">Bratty Femboys are the best</div>
-</div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nolife2.png" />
   <div class="name">no_life456780</div>
@@ -174,7 +160,7 @@ Stack patties on buns with toppings and serve hot<br/></div>
   <div class="quote">Give strike shoto gamma cancels</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nugget.jpg" />
   <div class="name">Nugget</div>
   <div class="discord-tag">nugget0575</div>
   <div class="role">Contributor<br/>(Shoto Todoroki)<br/>(Armored All Might)</div>
@@ -219,7 +205,7 @@ Stack patties on buns with toppings and serve hot<br/></div>
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/pneulysta2.png" />
   <div class="name">Pneulysta</div>
   <div class="discord-tag">pneulysta</div>
-  <div class="role">Contributor<br/>(Lady Nagant)</div>
+  <div class="role">Lead Guidemaker<br/>(Armored All Might)<br/>Contributor<br/>(Lady Nagant)</div>
   <div class="quote"><b>Play Tokyo Mirage Sessions #FE Encore</b>
   </b>
   Also,</b>

@@ -207,9 +207,15 @@ The mist does little damage at the beginning, taking 10 HP per second, which mea
 </p>
 
 # Gameplay: Stage Gimmicks
-When traversing the map you will notice the presence of Jump Pads. These make you jump high in the direction their trail points to, and they're useful for mobility, especially for characters that lack mobility options. Touching one while in a skill animation or while drinking a healing item won't make you jump until the animation is over, and if you try to use one while DOWNd, you will get pushed away.
+When traversing the map you will notice the presence of Jump Pads and Teleporters.
+Jump Pads make you jump high in the direction their trail points to, they're useful for mobility, especially for characters that lack mobility options. Touching one while in a skill animation or while drinking a healing item won't make you jump until the animation is over, and if you try to use one while DOWNd, you will get pushed away.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/jumppad.png" width="400"/>
+</p>
+<br>
+Teleporters are special devices only found in the Neo Academia map, they serve as quick entry and exit to/from the Coffin in the Sky area. These aren't linked to another teleporter, so once you use one, you will have to find another one if you wish to go back, they're 1-way teleporters. It's important to note that once Teleporters are engulfed by the Poison Mist, they will despawn soon after, so make sure to keep this in mind so you don't get trapped outside the Sky Area.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/teleporter.jpg" width="400"/>
 </p>
 
 # Gameplay: Movement and Agility
