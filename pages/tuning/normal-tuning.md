@@ -192,7 +192,7 @@ Increases the character's Running Speed. Each tune increases Running Speed by 3%
 
 ## Dash Speed+
 <a style="color: red !important;">**This effect is bugged and does not work.**</a><br>
-Increases the character's Running Speed. Each tune increases Running Speed by 3% at Level 3, by 4% at Level 4.
+Increases the character's Running Speed. Each tune increases Dashing Speed by 3% at Level 3, by 4% at Level 4.
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/iida_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_rapid.png" />
