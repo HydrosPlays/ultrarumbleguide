@@ -1,4 +1,11 @@
 <div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/ladyrinna.png" />
+  <div class="name">Lady Rinna</div>
+  <div class="discord-tag">maekawayurina</div>
+  <div class="role">Ultimate Guide Project Director</div>
+  <div class="quote">An enchanting gaze reaching your soul, its touch makes you savor yours very own tears, as they reveal your longing.</div>
+</div>
+<div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/pfp.png" />
   <div class="name">Hydros</div>
   <div class="discord-tag">hydros</div>
@@ -52,20 +59,27 @@ Scrape to release, flip, immediately add cheese, and cook for another 30-60 seco
 Briefly toast buns on the griddle.<br/>
 Stack patties on buns with toppings and serve hot<br/></div>
 </div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/volco2.jpg" />
+  <div class="name">Volco (Staff)</div>
+  <div class="discord-tag">volcos</div>
+  <div class="role">Draft Adapter<br/>CSS Helper</div>
+  <div class="quote">When life gives you lemons, don’t make lemonade. Make life take the lemons back! Get mad! I don’t want your damn lemons, what the hell am I supposed to do with these? Demand to see life’s manager! Make life rue the day it thought it could give Cave Johnson lemons! Do you know who I am? I’m the man who’s gonna burn your house down! With the lemons! I’m gonna get my engineers to invent a combustible lemon that burns your house down!</div>
+</div>
 
 
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nolife2.png" />
   <div class="name">no_life456780</div>
   <div class="discord-tag">no_life456780</div>
-  <div class="role">Lead Guidemaker<br/>(Full Bullet)<br/>(Slicing Wind)<br/><br/>Contributor<br/>(Lady Nagant)<br/>(Armored All Might)</div>
+  <div class="role">Lead Guidemaker<br/>(Full Bullet)<br/>(Slicing Wind)<br/><br/>Contributor<br/>(Lady Nagant)<br/>(Armored All Might)<br/>(Overhaul)</div>
   <div class="quote">Space hop needs nerfed, stop pretending it doesn't</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/volco.png" />
   <div class="name">Volco</div>
   <div class="discord-tag">volcos</div>
-  <div class="role">Lead Guidemaker<br/>(Catastrophe)</div>
+  <div class="role">Lead Guidemaker<br/>(Catastrophe)<br/>Contributor and Supervisor<br/>(Thousand-Hand Break)</div>
   <div class="quote">BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK </div>
 </div>
 <div class="credit-box">
@@ -231,4 +245,33 @@ Stack patties on buns with toppings and serve hot<br/></div>
   <div class="discord-tag">vateilika</div>
   <div class="role">Contributor<br/>(Itsuka Kendo)<br/>(Mr. Compress)</div>
   <div class="quote">🍔</div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/lfj.gif" />
+  <div class="name">LFJ</div>
+  <div class="discord-tag">lfj_lfj</div>
+  <div class="role">Lead Guidemaker<br/>(Thousand-Hand Break)</div>
+  <div class="quote">I’m glad I had the opportunity to work on this guide. This is an amazing project, and I’m excited to see how it develops. One of my main goals for this game is to help players, and an extension of that is making it easier for people to decide if they want to play or pull a character, so they can better allocate their time and resources. This guide helps a lot by teaching the ins and outs of many characters in a way that a video or short explanation alone cannot.<br/><br/>Also, sneaky little channel plug:
+https://youtube.com/@lfj_lfj?sub_confirmation=1 </div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <div class="name">Yoboispongi</div>
+  <div class="discord-tag">jamalloves_smash</div>
+  <div class="role">Contributor and Supervisor<br/>(Thousand-Hand Break)</div>
+  <div class="quote">*Empty Message*</div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/redgemboi.png" />
+  <div class="name">REDgemboi</div>
+  <div class="discord-tag">redgemflame</div>
+  <div class="role">Lead Guidemaker<br/>(Overhaul)</div>
+  <div class="quote">Hii 𝕄𝕠𝕥𝕙 𝕏𝕩 ♡</div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <div class="name">Rotana</div>
+  <div class="discord-tag">rotana2</div>
+  <div class="role">Contributor<br/>(Overhaul)</div>
+  <div class="quote">*Empty Message*</div>
 </div>
