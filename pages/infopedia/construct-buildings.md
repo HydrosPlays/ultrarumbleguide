@@ -62,9 +62,11 @@ In this sub-guide you'll learn about the health/durability of My Hero Ultra Rumb
 |----|--|
 | <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/large_orange_building.png" width="125"> | **Large Orange Building**: <a style="color: orange !important;">600 HP</a>|
 | <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/large_gray_building.png" width="125"> | **Large Gray Building**: <a style="color: orange !important;">600 HP</a>|
-| <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/medium_orange_building.png" width="125"> | **Medium Gray Building**: <a style="color: orange !important;">600 HP</a>|
+| <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/medium_gray_building.png" width="125"> | **Medium Gray Building**: <a style="color: orange !important;">600 HP</a>|
 | <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/medium_white_building.png" width="125"> | **Medium White Building**: <a style="color: orange !important;">600 HP</a>|
-| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch012_01.png" width="125"> | **Medium White Building**: <a style="color: orange !important;">600 HP</a>|
+| <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/u_shaped_tunnel.png" width="125"> | **U-Shaped Tunnel**: <a style="color: orange !important;">120 HP</a>|
+| <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/l_shaped_tunnel.png" width="125"> | **L-Shaped Tunnel**: <a style="color: orange !important;">120 HP</a>|
 | <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/inflatable_tunnel_tent.png" width="125"> | **Inflatable Tunnel Tent**: <a style="color: orange !important;">120 HP</a>|
+| <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/food_booth.png" width="125"> | **Food Booth**: <a style="color: orange !important;">120 HP</a>|
 | <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/medium_booth.png" width="125"> | **Medium Booth**: <a style="color: orange !important;">120 HP</a>|
 | <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch034_00.png" width="125"> | **Reinforced Revive** <br>Teammates revived by the user of this tune are revived with GP.|
