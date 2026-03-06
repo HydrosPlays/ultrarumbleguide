@@ -87,13 +87,24 @@ Click the effect you wish to learn about. Click the gray arrow button on the bot
     <a href="https://ultrarumble.com/guide/character-conditions#blue_burn" target="_self">
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/burnblue_condition.png" />
     </a>
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/infectiondecay_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shock_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/erasure_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/decreasehealth_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/recoverhealth_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/continuousrecoverhealth_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/influenceheal_condition.png" />
+    <a href="https://ultrarumble.com/guide/character-conditions#shock" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shock_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#erasure" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/erasure_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#decreasehealth" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/decreasehealth_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#recoverhealth" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/recoverhealth_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#continuousrecoverhealth" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/continuousrecoverhealth_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#influenceheal" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/influenceheal_condition.png" />
+    </a>
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dying_condition.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/transform_condition.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bloodholder_condition.png" />
