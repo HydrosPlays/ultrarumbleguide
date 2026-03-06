@@ -72,11 +72,21 @@ You will notice that all conditions have a section called Condition Data. If you
 Click the effect you wish to learn about. Click the gray arrow button on the bottom right of the page to quickly scroll up.
 
 <div class="image-container">
-    <a href="https://ultrarumble.com/guide/character-conditions#poison_mist" target="_self"> <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/poison_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/burn_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/burnblue_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/freeze_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/decay_condition.png" />
+    <a href="https://ultrarumble.com/guide/character-conditions#poison_mist" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/poison_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#burn" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/burn_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#freeze" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/freeze_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#decay" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/decay_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#blue_burn" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/burnblue_condition.png" />
+    </a>
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/infectiondecay_condition.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shock_condition.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/erasure_condition.png" />
@@ -96,10 +106,9 @@ Click the effect you wish to learn about. Click the gray arrow button on the bot
 
 # Character Conditions
 
-## Poison
-
+## Poison 
+<a id="poison_mist">
 <p align="center">
-    <a id="poison_mist">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_poison.png" width="380" />
 </p>
 
@@ -116,7 +125,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Burn
-
+<a id="burn">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_burn.png" width="280" />
 </p>
@@ -155,7 +164,7 @@ The distribution of characters that can apply Burn is as follows:
 </div>
 
 ## Freeze
-
+<a id="freeze">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_freeze.png" width="280" />
 </p>
@@ -193,7 +202,7 @@ The distribution of characters that can apply Freeze is as follows:
 </div>
 
 ## Decay
-
+<a id="decay">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_decay.png" width="280" />
 </p>
@@ -226,7 +235,7 @@ The distribution of characters that can apply Decay is as follows:
 </div>
 
 ## Blue Burn
-
+<a id="blue_burn">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_burnblue.png" width="280" />
 </p>
