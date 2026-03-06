@@ -188,7 +188,55 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
     <a href="https://ultrarumble.com/guide/normal-tuning" >
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-specialtuning.png"/>
     </a>
-  </div>    
+  </div>
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/special-tuning" >
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-specialtuning3.png"/>
+    </a>
+  </div>
+</div>
+
+<hr class="my-5">
+
+<p align="center">
+    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/guide-infopedia.jpg" width="100%" />
+</p>
+
+<div class="guides-menu-row">
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/damage-health" >
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/i-damagehealth.png"/>
+    </a>
+  </div>
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/character-conditions" >
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/i-characterconditions.png"/>
+    </a>
+  </div>
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/construct-buildings" >
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/i-constructbuildings.png"/>
+    </a>
+  </div>
+</div>
+
+<hr class="my-5">
+
+<p align="center">
+    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/guide-archive.jpg" width="100%" />
+</p>
+
+<div class="guides-menu-row">
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/seasons-betas" >
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/ta-seasonsbetas.png"/>
+    </a>
+  </div>
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/tournaments" >
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/ta-tournaments.png"/>
+    </a>
+  </div>
 </div>
 
 <hr class="my-5">
