@@ -69,7 +69,7 @@ You will notice that all conditions have a section called Condition Data. If you
 - The rest: No idea, but it seems either KoAssistTimeMargin or KoAssistEndConditionTimerMargin indicate for how long will the "this is your KO assist" linger for until it goes away and the kill no longer counts as your assist.
 
 ## Navigation
-Click the effect you wish to learn about. Click the gray arrow button on the bottom right of the page to quickly scroll up.
+(WIP) Click the effect you wish to learn about. Click the gray arrow button on the bottom right of the page to quickly scroll up.
 
 <div class="image-container">
     <a href="https://ultrarumble.com/guide/character-conditions#poison_mist" target="_self">
@@ -149,6 +149,36 @@ Click the effect you wish to learn about. Click the gray arrow button on the bot
     </a>
     <a href="https://ultrarumble.com/guide/character-conditions#assaultboost" target="_self">
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/assaultboost_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#rapidboost" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/rapidboost_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#supportboost" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/supportboost_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#technicalboost" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/technicalboost_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#superarmor" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/superarmor_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#plusultra" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/plusultra_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#invincible" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/invincible_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#compression" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/compression_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#compressionregen" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/compressionregen_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#camouflage" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/camouflage_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#permeation" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/permeation_condition.png" />
     </a>
 </div>
 
