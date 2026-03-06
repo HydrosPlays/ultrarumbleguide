@@ -105,14 +105,51 @@ Click the effect you wish to learn about. Click the gray arrow button on the bot
     <a href="https://ultrarumble.com/guide/character-conditions#influenceheal" target="_self">
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/influenceheal_condition.png" />
     </a>
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dying_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/transform_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bloodholder_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/guard_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/levelup_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/speeddown_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/piggyback_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/lowgravity_condition.png" />
+    <a href="https://ultrarumble.com/guide/character-conditions#dying" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dying_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#transform" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/transform_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#guard" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/guard_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#levelup" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/levelup_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#speeddown" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/speeddown_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#piggyback" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/piggyback_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#lowgravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/lowgravity_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#reciproboost" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/reciproboost_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#reciproout" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/reciproout_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#dumb" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dumb_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#hardening" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hardening_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#giant" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/giant_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#infectiondecay" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/infectiondecay_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#strikeboost" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/strikeboost_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#assaultboost" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/assaultboost_condition.png" />
+    </a>
 </div>
 
 # Character Conditions
