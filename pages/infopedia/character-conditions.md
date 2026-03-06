@@ -61,11 +61,9 @@ In this sub-guide you'll learn about My Hero Ultra Rumble's Character Conditions
 Character Conditions are effects/states that can be applied to characters, anything that gets applied to a character, such a Burn, Freeze, Deafen and Low Gravity, as well as more complex ones such as Hardening, Blueflame and Gearshift. In this page you will also learn about interesting and unexplored facts about these states, such as their relationship with the KO Assist stat.
 
 You will notice that all conditions have a section called Condition Data. If you're wondering what each tag means, use your best guess, since the meaning of each of them isn't written anywhere, however here's what they could mean:
-
+- Condition Number: The lower the number, the earlier on the CharacterCondition blueprint this condition is located, while those with higher numbers are closer to the end. Might to a degree indicate addition chronological order.
 - Priority: Likely which one has the highest priority when it comes to rendering, so that players with many effects don't look like a colorful mass.
 - NotUseResult: No idea, probably related to the result screen, or maybe it determines whether damage caused by this effect counts towards your damage count.
-- AllyBuff: Specifies if this is an ally buff or not.
-- EnemyDebuff: Specifies if this is an enemy debuff or not.
 - The rest: No idea, but it seems either KoAssistTimeMargin or KoAssistEndConditionTimerMargin indicate for how long will the "this is your KO assist" linger for until it goes away and the kill no longer counts as your assist.
 
 ## Navigation
@@ -180,6 +178,34 @@ You will notice that all conditions have a section called Condition Data. If you
     <a href="https://ultrarumble.com/guide/character-conditions#permeation" target="_self">
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/permeation_condition.png" />
     </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#displayhp" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/displayhp_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#displaygp" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/displaygp_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#mark" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mark_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#orbpenalty" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/orbpenalty_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#leader" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/leader_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#bloodholder" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bloodholder_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#permeation" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/restoration_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#deafen" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deafen_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/zerogravity_condition.png" />
+    </a>
+    
 </div>
 
 # Character Conditions
