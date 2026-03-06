@@ -196,8 +196,8 @@ You will notice that all conditions have a section called Condition Data. If you
     <a href="https://ultrarumble.com/guide/character-conditions#bloodholder" target="_self">
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bloodholder_condition.png" />
     </a>
-    <a href="https://ultrarumble.com/guide/character-conditions#permeation" target="_self">
-        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/restoration_condition.png" />
+    <a href="https://ultrarumble.com/guide/character-conditions#restoration" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allyrestoration_condition.png" />
     </a>
     <a href="https://ultrarumble.com/guide/character-conditions#deafen" target="_self">
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deafen_condition.png" />
