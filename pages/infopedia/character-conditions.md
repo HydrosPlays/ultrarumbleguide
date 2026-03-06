@@ -72,7 +72,7 @@ You will notice that all conditions have a section called Condition Data. If you
 Click the effect you wish to learn about. Click the gray arrow button on the bottom right of the page to quickly scroll up.
 
 <div class="image-container">
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/poison_condition.png" />
+    <a href="https://ultrarumble.com/guide/character-conditions#poison_mist" target="_self"> <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/poison_condition.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/burn_condition.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/burnblue_condition.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/freeze_condition.png" />
@@ -99,6 +99,7 @@ Click the effect you wish to learn about. Click the gray arrow button on the bot
 ## Poison
 
 <p align="center">
+    <a id="poison_mist">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_poison.png" width="380" />
 </p>
 
