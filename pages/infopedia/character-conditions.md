@@ -1490,6 +1490,7 @@ The distribution of characters that can use copied abilities is as follows::
 
 ### Conditional Copy Characters
 <div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
@@ -1500,7 +1501,7 @@ The distribution of characters that can use copied abilities is as follows::
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_copyholder.png" width="280" />
 </p>
 
-Copy is another of Neito Monoma's signature conditions, which stores copied abilities that can be used through the condition above.<br>
+Copyholder is another of Neito Monoma's signature conditions, which stores copied abilities that can be used through the condition above.<br>
 <br>
 Condition Data:
 - Internal Name: <a style="color: orange !important;">Copy_Stocking</a><br>
@@ -1521,6 +1522,7 @@ The distribution of characters that can store copied abilities is as follows::
 
 ### Conditional Copyholder Characters
 <div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
