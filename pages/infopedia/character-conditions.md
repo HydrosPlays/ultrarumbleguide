@@ -233,7 +233,7 @@ You will notice that all conditions have a section called Condition Data. If you
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/teleport_condition.png" />
     </a>
     <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
-        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allyrestoration_condition.png" />
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/restoration_condition.png" />
     </a>
     <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/petrify_condition.png" />
@@ -249,6 +249,42 @@ You will notice that all conditions have a section called Condition Data. If you
     </a>
     <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/electrified_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/furiousascentarmor_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/steel_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/transmission_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/fajin_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/specialactionseal_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/perfectpermeation_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/superrecovery_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#wave_veil" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/waveveil_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#black_ankh" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/blackankh_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#grab" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/grab_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#sleep" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/sleep_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#double_impact" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/doubleimpact_condition.png" />
     </a>
     
 </div>
@@ -2080,7 +2116,7 @@ The distribution of characters that can use Super Recovery are as follows::
 </div>
 
 ## Wave Veil
-
+<a id="wave_veil">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_waveveil.png" width="280" />
 </p>
@@ -2113,7 +2149,7 @@ The distribution of characters that can grant Wave Veil are as follows::
 </div>
 
 ## Black Ankh
-
+<a id="blackankh">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_blackankh.png" width="280" />
 </p>
@@ -2144,7 +2180,7 @@ The distribution of characters that can use Black Ankh are as follows::
 </div>
 
 ## Grab
-
+<a id="grab">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_grab.png" width="280" />
 </p>
@@ -2181,7 +2217,7 @@ The distribution of characters that can Grab are as follows::
 </div>
 
 ## Sleep
-
+<a id="sleep">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_sleep.png" width="280" />
 </p>
@@ -2189,7 +2225,7 @@ The distribution of characters that can Grab are as follows::
 Sleep is an unknown condition that was found in a previous recent season but is currently removed. Apparently, this condition is applied to allies, not to enemies, which is definitely interesting considering sleep effects are often a debuff in games.
 
 ## Double Impact
-
+<a id="double_impact">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_twinimpact.png" width="280" />
 </p>
