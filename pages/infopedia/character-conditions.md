@@ -67,7 +67,7 @@ You will notice that all conditions have a section called Condition Data. If you
 - The rest: No idea, but it seems either KoAssistTimeMargin or KoAssistEndConditionTimerMargin indicate for how long will the "this is your KO assist" linger for until it goes away and the kill no longer counts as your assist.
 
 ## Navigation
-(WIP) Click the effect you wish to learn about. Click the gray arrow button on the bottom right of the page to quickly scroll up.
+Click the condition you wish to learn about. Click the gray arrow button/orange button on the bottom right of the page to quickly scroll up (This button might not be available in some mobile modes).
 
 <div class="image-container">
     <a href="https://ultrarumble.com/guide/character-conditions#poison_mist" target="_self">
@@ -456,7 +456,7 @@ The distribution of characters that can apply Blue Burn is as follows:
 </div>
 
 ## Shock
-
+<a id="shock">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_shock.png" width="280" />
 </p>
@@ -493,7 +493,7 @@ The distribution of characters that can apply Shock is as follows:
 </div>
 
 ## Erasure
-
+<a id="erasure">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_erasure.png" width="230" />
 </p>
@@ -524,7 +524,7 @@ The distribution of characters that can apply Erasure is as follows:
 </div>
 
 ## Decrease Health
-
+<a id="decreasehealth">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_decreasehealth.png" width="280" />
 </p>
@@ -542,7 +542,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Recover Health
-
+<a id="recoverhealth">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_recoverhealth.png" width="280" />
 </p>
@@ -560,7 +560,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Continuous Recover Health
-
+<a id="continuousrecoverhealth">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_continuousrecoverhealth.png" width="280" />
 </p>
@@ -578,7 +578,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Influence of Ally Ability Heal
-
+<a id="influenceheal">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_influenceheal.png" width="280" />
 </p>
@@ -596,7 +596,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Down
-
+<a id="dying">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_dying.png" width="280" />
 </p>
@@ -614,7 +614,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Transform
-
+<a id="transform">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_transform.png" width="280" />
 </p>
@@ -640,7 +640,7 @@ The distribution of characters who can Transform is as follows:
 </div>
 
 ## Guard
-
+<a id="guard">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_guard.png" width="280" />
 </p>
