@@ -242,10 +242,10 @@ You will notice that all conditions have a section called Condition Data. If you
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tuning_condition.png" />
     </a>
     <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
-        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/confusion_condition.png" />
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/brainwash_condition.png" />
     </a>
     <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
-        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/specialconfusion_condition.png" />
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/specialbrainwash_condition.png" />
     </a>
     <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/electrified_condition.png" />
