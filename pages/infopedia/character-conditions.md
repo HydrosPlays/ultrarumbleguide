@@ -205,6 +205,51 @@ You will notice that all conditions have a section called Condition Data. If you
     <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/zerogravity_condition.png" />
     </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/copy_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/copyholder_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/duplicate_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hprule_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/gprule_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/respawnrule_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/crazytorch_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/steal_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/teleport_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allyrestoration_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/petrify_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tuning_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/confusion_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/specialconfusion_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/electrified_condition.png" />
+    </a>
     
 </div>
 
