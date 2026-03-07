@@ -204,6 +204,11 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
 
 <div class="guides-menu-row">
   <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/stages" >
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/i-stages.png"/>
+    </a>
+  </div>
+  <div class="guide-icon">
     <a href="https://ultrarumble.com/guide/damage-health" >
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/i-damagehealth.png"/>
     </a>
