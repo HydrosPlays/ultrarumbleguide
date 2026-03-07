@@ -658,7 +658,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Quirk Level Up
-
+<a id="levelup">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_levelup.png" width="280" />
 </p>
@@ -676,7 +676,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Speed Down
-
+<a id="speeddown">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_speeddown.png" width="280" />
 </p>
@@ -694,7 +694,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Piggyback
-
+<a id="piggyback">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_piggyback.png" width="280" />
 </p>
@@ -727,7 +727,7 @@ Condition Data:
 </div>
 
 ## Low Gravity
-
+<a id="lowgravity">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_lowgravity.png" width="280" />
 </p>
@@ -760,7 +760,7 @@ The distribution of characters that can use Low Gravity are as follows::
 </div>
 
 ## Recipro Boost
-
+<a id="reciproboost">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_reciproboost.png" width="280" />
 </p>
@@ -793,7 +793,7 @@ The distribution of characters that can use Recipro Boost is as follows:
 </div>
 
 ## Recipro Out
-
+<a id="reciproout">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_reciproout.png" width="280" />
 </p>
@@ -826,7 +826,7 @@ The distribution of characters that can suffer Recipro Out is as follows:
 </div>
 
 ## Dumb
-
+<a id="dumb">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_dumb.png" width="280" />
 </p>
@@ -844,7 +844,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Hardening
-
+<a id="hardening">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_hardening.png" width="280" />
 </p>
@@ -862,7 +862,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Giant
-
+<a id="giant">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_giant.png" width="280" />
 </p>
@@ -880,7 +880,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Infection Decay
-
+<a id="infectiondecay">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_infectiondecay.png" width="280" />
 </p>
@@ -917,7 +917,7 @@ The distribution of characters that can apply Infection Decay is as follows:
 </div>
 
 ## Strike Boost
-
+<a id="strikeboost">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_strikeboost.png" width="280" />
 </p>
@@ -935,7 +935,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Assault Boost
-
+<a id="assaultboost">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_assaultboost.png" width="280" />
 </p>
@@ -953,7 +953,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Rapid Boost
-
+<a id="rapidboost">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_rapidboost.png" width="280" />
 </p>
@@ -971,7 +971,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Support Boost
-
+<a id="supportboost">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_supportboost.png" width="280" />
 </p>
@@ -989,7 +989,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Technical Boost
-
+<a id="technicalboost">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_technicalboost.png" width="280" />
 </p>
@@ -1007,7 +1007,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Superarmor
-
+<a id="superarmor">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_superarmor.png" width="280" />
 </p>
@@ -1062,7 +1062,7 @@ Characters that at least can use 1 ability with at least 1 instance of Superarmo
 </div>
 
 ## Plus Ultra
-
+<a id="plusultra">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_plusultra.png" width="280" />
 </p>
@@ -1080,7 +1080,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Invincibility
-
+<a id="invincible">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_invincible.png" width="280" />
 </p>
@@ -1098,7 +1098,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Compression 
-
+<a id="compression">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_compression.png" width="280" />
 </p>
@@ -1130,7 +1130,7 @@ Characters that can compress.
 </div>
 
 ## Compression Regeneration
-
+<a id="compressionregen">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_compressionregen.png" width="280" />
 </p>
