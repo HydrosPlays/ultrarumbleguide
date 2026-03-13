@@ -16,13 +16,17 @@ All the modes listed below use either the Battle Royale gamemode or the Area Con
 ## 3-Player Team Battle - Ranked Match (BATTLE ROYALE)
 This is Ultra Rumble's competitive mode, where you can gain points from your performance and climb higher in the ranking. This mode uses Skill Based Matchmaking, so the difficulty will be adjusted to your performance. (in theory).
   
-- If you wish to know how ranked points gain and rankings work, click this sentence!
-
 <p align="left">
     <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/button-ranked.png" width="50%"/>
     <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/RoyaleGirls.png" width="40%"/>
 </p>
 <br>
+
+- If you wish to know how ranked points gain and rankings work, click the button below
+<p align="center">
+    <a href="https://ultrarumble.com/guide/ranking" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-ranked.png" width="20%"/></a>
+</p>
+
 
 ## 3-Player Team Battle - Unranked Match (BATTLE ROYALE)
 This is the "chill" version of Ranked Match, however this is half true half false, as the lack of Skill Based Matchmaking here can pair you with top players tha tdecided to play some unranked matches, so be careful.
@@ -51,7 +55,7 @@ An alternative way of playing the game, where instead of fighting real players, 
 <br>
 
 ## Area Control Battle - Event Match (AREA CONTROL)
-A currently unavailable special event-only gamemode that, unlike every other gamemode, doesn't use the Battle Royale mode. Here, you form two teams of three people and compete against another two enemy teams of three for areas. Capturing these areas allows you to earn points, and whichever team has the most points when the timer ends wins.
+A special event-only gamemode that, unlike every other gamemode, doesn't use the Battle Royale mode. Here, you form two teams of three people and compete against another two enemy teams of three for areas. Capturing these areas allows you to earn points, and whichever team has the most points when the timer ends wins.
 <p align="left">
     <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/button-acb.png" width="50%"/>
     <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/IWannaControlUrAreaAt5PM.png" width="40%"/>
