@@ -30,39 +30,37 @@ In this sub-guide you'll learn about unlocking each character in the game!
     overflow: hidden;
 }
 
-.character-image {
-    max-height: 135px;
-    align-self: center;
-}
+    .image-container {
+        flex-direction: row;
+        padding: 15px;
+    }
 
-.currency-image {
-    max-width: 35px;
-    max-height: 35px;
-    vertical-align: middle;  
-}
+    
+    .container-image-icon {
+        flex: 1 1 auto;
+        max-width: 100px;
+        max-height: 150px;
+        object-fit: contain;
+    }
 
-.currency-heading {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-}
+    .role-image {
+        max-width: 35px;
+        max-height: 35px;  
+    }
 
-.image-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-    margin-bottom: 20px;
-    padding: 15px;
-}
+    .role-heading {
+        display: flex;
+        font-weight: 700;
+        align-items: center;
+        gap: 8px;
+    }
 
-.container-image-icon {
-    flex: 1 1 auto;
-    max-width: 100px;
-    max-height: 150px;
-    object-fit: contain;
-}
+    .role-heading p {
+        margin: 0;
+        line-height: 1.2;
+        display: flex;
+        align-items: center;
+    }
 
 @media (max-width: 768px) {
         .container-image-icon {
@@ -77,6 +75,9 @@ In this sub-guide you'll learn about unlocking each character in the game!
         }
 }
 
+.container-image-icon {
+    max-width: 100px !important;
+}
 
 </style>
 
