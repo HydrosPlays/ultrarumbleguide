@@ -141,8 +141,10 @@ Here fall all unique banners. Each banner has its own rules so make sure to chec
 
 <hr style="height: 10px; background-color: white; border: none;">
 
+<br>
+
 # Beating The Gacha
-There are a few ways to optimize 
+There are a few ways to optimize your pulls in My Hero Ultra Rumble.
 
 ## Pull Only When You Have 2000 Tickets or equivalent
 Obtaining a Battle Style is only guaranteed through exchanging 200 points for the Battle Style you want, which you get from pulling 200 singles/20 multi-pulls. After a banner ends, those points don't carry over to the next banner, so if you want to maximize ticket utility, make sure to only pull if you have 2000 tickets to use. If you get the Battle Style beforehand, you can redeem a costume with those points instead, or let them convert into Hero Souls once the banner ends, but there's also another strategy right below.
