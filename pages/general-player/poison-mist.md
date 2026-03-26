@@ -111,6 +111,10 @@ HP Defense tunes can reduce the damage of the Poison Mist if you have enough of 
 <br>
 <br>
 
+# Poison Sickness
+
+In Season 16, a new mechanic was added where the Poison Mist does 50% more damage when the player has been inside the Poison Mist for over 10 seconds. This makes prolonged exposure to the Poison Mist more dangerous than usual, requiring more healing items and being overall less forgiving to those wanting to stay inside for long amounts of time (or even short ones). The special tune "Area Reduction" from Star and Stripe helps mitigate Poison Mist damage for 13 minutes (at level 11), as well as Support Ability Cards and Star's special action. Be careful with timing your heals before the 10 seconds mark, as the damage might increase right before you finish drinking your healing item.
+
 # The Poison Mist: Repositioning and Safe Pockets
 
 The first defensive use of the Poison Mist (and also the safest) is to not treat it like an absolute wall, and instead, go inside and exit it from another point. This can be useful when the mist has engulfed part of a building, where if you go inside the mist you can access the stairs that lead to the second floor and leave the mist in this second floor. Many new players (and sometimes even the average player) treat the mist like an absolute wall, which leaves them in a vulnerable and cornered position when attacked sometimes, however, if you're able to run away to a safer place by briefly entering the Poison Mist, do it.
@@ -219,6 +223,13 @@ When it comes to Mistbanning, you want characters that have Long Range Wall-Thro
         <div>
             <h3>Momo Yaoyorozu</h3>
             <p>Having 350 HP and a Special Action that spawns healing items allows her to take refuge or revive allies inside the Poison Mist with more ease than other characters, especially in buildings, where she thrives.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/star_strike.png">
+        <div>
+            <h3>Star and Stripe</h3>
+            <p>Star and Stripe is really good at seeking refuge in the Poison Mist, as her special action allows her to not only nullify the Poison Mist, but also use its damage to heal herself. This special action gets shorter every phase, so while it's useful in every phase, it really shines in early ones, where her field can remain in the battlefield for longer.</p>
         </div>
     </div>
     <div class="character-card">
