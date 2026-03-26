@@ -277,6 +277,12 @@ Click the condition you wish to learn about. Click the gray arrow button/orange 
     <a href="https://ultrarumble.com/guide/character-conditions#black_ankh" target="_self">
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/blackankh_condition.png" />
     </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#poison_inversion" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/poisoninversion_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#sweat_bomb" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/sweatbomb_condition.png" />
+    </a>
     <a href="https://ultrarumble.com/guide/character-conditions#grab" target="_self">
         <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/grab_condition.png" />
     </a>
@@ -1795,6 +1801,7 @@ Tuning often reuses conditions for its tuning effects, though in most cases this
 - RollSlot_Opticaldazzlepaint: <a style="color: orange !important;">79</a><br>
 - RollSlot_Acceleration: <a style="color: orange !important;">82</a><br>
 - RollSlot_Ability_Ch015_RECOVERY_HEALTH_GUARDPOINT: <a style="color: orange !important;">88</a><br>
+- RollSlot_Thunder: <a style="color: orange !important;">94</a><br>
 
 ## Brainwash
 <a id="brainwash">
@@ -2181,6 +2188,71 @@ The distribution of characters that can use Black Ankh are as follows::
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
+## Poison Inversion
+<a id="poison_inversion">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_poisoninversion.png" width="280" />
+</p>
+
+Poison Inversion is Star and Stripe's signature condition, which makes the user immune to Poison Mist damage and converts the damage that would normally be taken into healing.<br>
+<br>
+Condition Data:
+- Internal Name: <a style="color: orange !important;">Skill_ReversePoisonMistRecoverHealth</a><br>
+- Condition Number: <a style="color: orange !important;">91</a><br>
+- Priority: <a style="color: orange !important;">0</a><br>
+- NotUseResult: <a style="color: red !important;">false</a><br>
+- KoAssist: <a style="color: red !important;">false</a><br>
+- KoAssistTimeMargin: <a style="color: orange !important;">-</a><br>
+- KoAssistEndTypeList: -<br>
+- KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
+
+The distribution of characters that can use Poison Inversion are as follows::
+
+### Poison Inversion Characters
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/star_strike.png" />
+</div>
+
+### Conditional Poison Inversion Characters
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
+</div>
+
+## Sweat Bomb
+<a id="sweat_bomb">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_sweatbomb.png" width="280" />
+</p>
+
+Sweat Bomb is Katsuki Bakugo (Cluster)'s signature condition, which makes the affected user carry sparkles that explode upon being attacked, dealing extra damage.<br>
+<br>
+Condition Data:
+- Internal Name: <a style="color: orange !important;">Skill_Ch002V3_SweatBomb</a><br>
+- Condition Number: <a style="color: orange !important;">92</a><br>
+- Priority: <a style="color: orange !important;">0</a><br>
+- NotUseResult: <a style="color: red !important;">false</a><br>
+- KoAssist: <a style="color: red !important;">false</a><br>
+- KoAssistTimeMargin: <a style="color: orange !important;">-</a><br>
+- KoAssistEndTypeList: -<br>
+- KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
+
+The distribution of characters that can use Sweat Bomb are as follows::
+
+### Sweat Bomb Characters
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_technical.png" />
+</div>
+
+### Conditional Sweat Bomb Characters
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
+</div>
+
 ## Grab
 <a id="grab">
 <p align="center">
@@ -2191,7 +2263,7 @@ Grab is a condition applied by certain skills that immobilize the player while s
 <br>
 Condition Data:
 - Internal Name: <a style="color: orange !important;">grab</a><br>
-- Condition Number: <a style="color: orange !important;">91</a><br>
+- Condition Number: <a style="color: orange !important;">93</a><br>
 - Priority: <a style="color: orange !important;">0</a><br>
 - NotUseResult: <a style="color: red !important;">false</a><br>
 - KoAssist: <a style="color: red !important;">false</a><br>
