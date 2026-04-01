@@ -99,7 +99,7 @@ Tuning is a game system that allows players to create unique builds that signifi
 
 Each tuning build is exclusive to the outfit you apply it to, meaning you’ll have to equip the character's tuning by going to your chosen outfit and selecting “Tuning Equip”.
 
-In simple terms, this system allows the player to equip 10 small buffs (each with 1-2 attributes, such as Alpha DMG, Defense against Gamma skills, more health, etc...) and 2 passive abilities known as Special Tunes.<br
+In simple terms, this system allows the player to equip 10 small buffs (each with 1-2 attributes, such as Alpha DMG, Defense against Gamma skills, more health, etc...) and 2 passive abilities known as Special Tunes.<br>
 <br>
 Keep in mind that even though the game offers a feature that shows the recommended tunes for each character, this feature is flawed in many aspects and might display a mix of popular (yet not always ideal) special tunes, and a mix of wrongly assigned effects, since the game doesn't differentiate between builds used for, say, Yellow Kirishima and Red Kirishima when it comes to special and normal tunes, it only makes a distinction for costumes.
 
