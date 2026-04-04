@@ -95,15 +95,13 @@ In this sub-guide you'll learn about what's the T.U.N.I.N.G. System and how to u
 
 # What is the T.U.N.I.N.G. System
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/tuningmats.png" width="80%"/>
-</p>
-
 Tuning is a game system that allows players to create unique builds that significantly increase their character's power, defense, supportive capabilities, and mobility. It offers a wide variety of effects, from minor stat increases to those that completely change how you play.
 
 Each tuning build is exclusive to the outfit you apply it to, meaning you’ll have to equip the character's tuning by going to your chosen outfit and selecting “Tuning Equip”.
 
-In simple terms, this system allows the player to equip 10 small buffs (each with 1-2 attributes, such as Alpha DMG, Defense against Gamma skills, more health, etc...) and 2 passive abilities known as Special Tunes.
+In simple terms, this system allows the player to equip 10 small buffs (each with 1-2 attributes, such as Alpha DMG, Defense against Gamma skills, more health, etc...) and 2 passive abilities known as Special Tunes.<br>
+<br>
+Keep in mind that even though the game offers a feature that shows the recommended tunes for each character, this feature is flawed in many aspects and might display a mix of popular (yet not always ideal) special tunes, and a mix of wrongly assigned effects, since the game doesn't differentiate between builds used for, say, Yellow Kirishima and Red Kirishima when it comes to special and normal tunes, it only makes a distinction for costumes.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/tuningtuto1.png" width="40%"/>
@@ -113,40 +111,33 @@ In simple terms, this system allows the player to equip 10 small buffs (each wit
 # How to tune a character
 To tune a character, you must first select the costume you wish to tune. Keep in mind that PUR and non-PUR costumes have different tuning effectiveness, which will be discussed later.
 
-After opening the menu, you will see two sets of tuning slots. The five smaller slots are arranged in a row, with a single large, special tuning slot above them. The small slots are referred to as Normal Tuning Slots and the large ones are referred to as Special Tuning Slots.
+After opening the menu, you will see two sets of tuning slots. The five smaller slots are arranged in a row, with a single large special tuning slot above them. The small slots are referred to as Normal Tuning Slots and the ones above that stand out are referred to as Special Tuning Slots.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/tuningtuto3.png" width="60%"/>
 </p>
 
-What you need to do is fill the left column column first (except the Special Tuning slot at the top), to do that just click a slot and pick one of the buffs in the right side. You can only equip them if you have 50 Character Data or Character Data Exchange Tickets, the latter can replace normal Character Data if you don't have enough, but only for characters you own, for characters you don't own however you rely on luck to get enough of their Character Data from playing matches (which is how you obtain these materials).
-
-<div class="guide-row" align="center">
-    <img class="guide-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/characterdata.png"/>
-    <img class="guide-icon" src="https://ultrarumble.com/assets/Currency/T_ui_Thumb_2_40000_S.webp"/>
-</div>
-
-**When attempting to fill these slots you have to keep this in mind:**
-- Each slot has a color that matches one of the 5 classes, you can only equip tunes of battle styles that match that class, so red slots only support strike tunes.
-- You cannot equip Normal or Special tunes that match your character, so Bakugo can't equip neither Strike Bakugo's nor Rapid Bakugo's tuning.
-- You cannot equip the same tuning twice in the same build.
-- Some slots might be locked, to unlock them you need Slot Unlock Keys, if you have enough you can unlock a slot. On PUR Costumes only the right side is locked, while in Non-PUR costumes some slots in the left side are locked.
-- Some slots might have an H (Hero) or a V (Villain), which means you can only equip either heroes or villains in those. Villain slots are particularily hard to fill due to the lack of villain battle styles this game has.
-- If you don't have 50 of a character's data or 50 character data exchange tickets, you can use Hero Crystals instead, but this is NOT recommended, as Hero Crystals have way better uses.
+What you need to do is fill the left column's normal tuning slots by clicking them and selecting which buff you wish to set. To place a buff (normal tune) inside a slot, you will need 50 Character Data/Memories (same thing) or Character Data Exchange Tickets. Once you fill a whole column, you will be able to set the special tune of that column (which will cost you 100 character data/memories or character data exchange tickets). Do this in the right column too and you will have a character built. Keep in mind that Character Data Exchange Tickets serve as sort of a wild card that works on any normal tune if you lack the sufficient Character Data/Memories, but this only works with the effects from characters you own, meaning that if you try to set up Red Deku's normal tune (GP Attack Power+) but you don't have him or 50 of his data, then you won't be able to set this tune, you also can't set tunes that match the character you're building (Bakugo tune on a Bakugo build for example).<br>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/tuningtuto4.png" width="60%"/>
 </p>
+<br>
+Technically, you can use Hero Crystals to set up a slot if you lack Character Data/Memories or Character Data Exchange Tickets, but this is heavily discouraged.<br>
+<br>
 
-<p>Once you've filled the left column, you will be able to setup the left column's special tuning (since special tunings can only be placed on columns that have all 5 slots filled), filling these takes 100 Character Data / Character Data Exchange Tickets, and instead of just having small buffs to specific stats, they have special effects, like Willpower which let's you survive a deadly hit at 1 HP, or Wall Runner that let's you run up walls.</p>
+You might notice that some slots are locked. To unlock them you need Slot Unlock Keys, each slot will cost you 1 Key, 5 Keys or 50 Keys depending on whether the costume is Default/R, SR or PUR respectively. Some locked slots display a "MAX LEVEL" text with arrows in the background, this means that if you unlock those slots, the maximum level of the special tunes in both column will increase (for example, a PUR's max level for special tunes is 10 and 11, but if none of the slots are unlocked yet, it's 6 and 7). Unlocking right-column slots will also unlock auras for that specific costume (but only on PUR costumes).
 
-<p>To level up Normal Tunes you need Tuning Slot Enhancement Pieces (also known as white pieces), while for Special Tunes you need Special Tuning Slot Enhancement Pieces (black ones for Non-PUR costumes, rainbow ones for PUR costumes).</p>
+You can level up both normal and special tunes with Enhancement Parts, which there are 3 types of: Normal Tuning Enhancement Part (White Pieces), Special Tuning Enhancement Part (Black Pieces), and Special Tuning Enhancement Part PUR (Rainbow Pieces).<br>
+<br>
+The white ones are used to level normal tunes (maximum level 3-4), the black ones are used to level special tunes for non-PUR costumes, and the rainbow ones are used to level special tunes for PUR costumes. You might notice some slots have an H or a V, these stand for "Hero" and "Villain", and indicate you can only set tunes given by a Hero or a Villain, which might seem like bad news, but those slots can be leveled one extra level.
 
-<p>You can do all of this in the right column too, but you will have to unlock all slots in that one with keys (except the special one). Some locked slots in the right side (mainly in PUR costumes) have written on them "MAX LVL", this means that once you unlock that slot the max level of your special tunings will increase by 1, so you will be able to level them up again. In PUR costumes, unlocking slots also unlocks auras.</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/tuningmats.png" width="80%"/>
+</p>
+
 
 <h2> Normal Tuning Slot </h2>
 <p>When you set tuning data in one of these normal slots, it grants your character a small passive effect. Each Normal Tuning Slot can be enhanced using Tuning Slot Enhancement Parts. The maximum level for a Normal Tuning Slot is 3, though certain slots can be upgraded to level 4. This is marked by either an H (Hero) or V (Villain) icon on the slot</p>
-
-<p>Here is a small table to show you the effects of normal tuning slots:</p>
 
 <h2>Special Tuning Slot</h2>
 <p>The large tuning slot above the five normal ones is called the “Special Tuning Slot”. It grants your character a small passive ability when specific conditions are met. The Special Tuning Slots are a crucial factor in deciding which costume to tune. You can only fill these if the Normal Tunes below are filled. They require 100 Character Data / Character Data Exchange Tickets to fill, and can be leveled up with Special Tuning Slot Parts (black for non-PUR, rainbow for PUR). Keep in mind that most special tunes are pretty limited and/or bad below Level 6, though a few still provide good benefits below level 6.</p>
