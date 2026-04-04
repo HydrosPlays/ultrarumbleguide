@@ -58,6 +58,57 @@ You might have noticed that some characters appear more than once with a differe
     }
 </style>
 
+<style>
+    .image-container {
+        flex-direction: row;
+        padding: 15px;
+    }
+
+    
+    .container-image-icon {
+        flex: 1 1 auto;
+        max-width: 100px;
+        max-height: 150px;
+        object-fit: contain;
+    }
+
+    .role-image {
+        max-width: 35px;
+        max-height: 35px;  
+    }
+
+    .role-heading {
+        display: flex;
+        font-weight: 700;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .role-heading p {
+        margin: 0;
+        line-height: 1.2;
+        display: flex;
+        align-items: center;
+    }
+
+@media (max-width: 768px) {
+        .container-image-icon {
+            max-width: 75px; 
+            max-height: 100px;
+        }
+        
+        .image-container {
+            gap: 5px;
+            margin-bottom: 10px;
+            padding: 7px;
+        }
+}
+
+.container-image-icon {
+    max-width: 100px !important;
+}
+</style>
+
 <h2 class="role-heading">
     <p style="color: rgba(255,100,100,255)">Strike - The Damage and Aggression Class</p>
     <img class="role-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/strikebig.png" />
@@ -75,7 +126,9 @@ You might have noticed that some characters appear more than once with a differe
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/endeavor_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/star_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nagant_strike.png" />
 </div>
@@ -170,6 +223,7 @@ Characters with this class are often referred to by the community as "Green" or 
 </h2>
 
 <div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/todoroki_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />

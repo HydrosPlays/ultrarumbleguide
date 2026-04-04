@@ -32,15 +32,11 @@ These are the most basic type of banner, here you can spend Roll Tickets or Hero
 
 <style>
     .image-container {
-        display: flex;
         flex-direction: row;
-        flex-wrap: wrap;
-        gap: 10px;
-        justify-content: center;
-        margin-bottom: 20px;
         padding: 15px;
     }
 
+    
     .container-image-icon {
         flex: 1 1 auto;
         max-width: 100px;
@@ -48,18 +44,41 @@ These are the most basic type of banner, here you can spend Roll Tickets or Hero
         object-fit: contain;
     }
 
-    @media (max-width: 768px) {
-            .container-image-icon {
-                max-width: 75px; 
-                max-height: 100px;
-            }
-            
-            .image-container {
-                gap: 5px;
-                margin-bottom: 10px;
-                padding: 7px;
-            }
+    .role-image {
+        max-width: 35px;
+        max-height: 35px;  
     }
+
+    .role-heading {
+        display: flex;
+        font-weight: 700;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .role-heading p {
+        margin: 0;
+        line-height: 1.2;
+        display: flex;
+        align-items: center;
+    }
+
+@media (max-width: 768px) {
+        .container-image-icon {
+            max-width: 75px; 
+            max-height: 100px;
+        }
+        
+        .image-container {
+            gap: 5px;
+            margin-bottom: 10px;
+            padding: 7px;
+        }
+}
+
+.container-image-icon {
+    max-width: 100px !important;
+}
 </style>
 
 <div class="image-container"> 
@@ -74,8 +93,7 @@ These are the most basic type of banner, here you can spend Roll Tickets or Hero
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nejire_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shinso_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/armormight_technical.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_strike.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/star_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/yafo_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kurogiri_support.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nagant_strike.png" />
@@ -91,6 +109,7 @@ These are sometimes seen as more valuable to some players due to the fact that R
 </div>
 
 <div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/uraraka_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kirishima_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_technical.png" />
@@ -101,7 +120,7 @@ These are sometimes seen as more valuable to some players due to the fact that R
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/endeavor_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_technical.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/overhaul_assault.png" />
 </div>
 
@@ -121,6 +140,26 @@ These are rare banners that use a special system. The way these work is that eve
 Here fall all unique banners. Each banner has its own rules so make sure to check their inner workings. Banners in this category can include the Anniversary Special Gacha and the Beginner Mission Gacha. The Beginner Mission Gacha allows you to get one random gacha-only Original Battle Styles by using a special ticket for that banner, which you get after completing every beginner mission. 
 
 <hr style="height: 10px; background-color: white; border: none;">
+
+<br>
+
+# Beating The Gacha
+There are a few ways to optimize your pulls in My Hero Ultra Rumble.
+
+## Pull Only When You Have 2000 Tickets or equivalent
+Obtaining a Battle Style is only guaranteed through exchanging 200 points for the Battle Style you want, which you get from pulling 200 singles/20 multi-pulls. After a banner ends, those points don't carry over to the next banner, so if you want to maximize ticket utility, make sure to only pull if you have 2000 tickets to use. If you get the Battle Style beforehand, you can redeem a costume with those points instead, or let them convert into Hero Souls once the banner ends, but there's also another strategy right below.
+
+## Double Prize
+If you happen to be unlucky enough to get the Battle Style you wanted in the 180-200th pull, you might actually be lucky, since getting the Battle Style does not remove your points, meaning that you can get another Battle Style for free. For example, if you're at, say, the 180th pull, you can spend 200 more tickets to guarantee another Battle Style.
+
+## Roll For What You Truly Want
+Many people roll for a character and later realize they don't like them, either because of playstyle, power level, or mechanical feeling. Before rolling, make sure to try the character in training more or, if it's a Battle Style Original, then try them out in an actual match with Rental Tickets. The next character or the 2nd next might actually fit you more, even if at first glance it might not look like it, so make sure you're sure you want to pull for that character, surely you don't want to spend your whole stash for a character you'll use 4 matches alone.
+
+## Comfortable Barrier
+Stockpiling tickets for long periods of time is a great way to ensure you will never be screwed over, as you will have the ability to get everything in a season without having to spend money. This may be hard for many to do, but this may be worth considering if you are specifically waiting for your favorites to get added.
+
+## Wait For Season Trailer
+If a release happens late in the season and you are on the fence about it, then simply wait for the new season trailer to drop. If you are impressed by the releases they show then consider not getting the item in order to have more tickets for the season after, however, if the season only shows characters/costumes that you aren't intrested in then you likeely won't want to spend much next season anyway and can grab the item before the season ends.
 
 <style>
     .guides-menu {

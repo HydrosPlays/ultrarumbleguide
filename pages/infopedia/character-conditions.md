@@ -61,48 +61,249 @@ In this sub-guide you'll learn about My Hero Ultra Rumble's Character Conditions
 Character Conditions are effects/states that can be applied to characters, anything that gets applied to a character, such a Burn, Freeze, Deafen and Low Gravity, as well as more complex ones such as Hardening, Blueflame and Gearshift. In this page you will also learn about interesting and unexplored facts about these states, such as their relationship with the KO Assist stat.
 
 You will notice that all conditions have a section called Condition Data. If you're wondering what each tag means, use your best guess, since the meaning of each of them isn't written anywhere, however here's what they could mean:
-
+- Condition Number: The lower the number, the earlier on the CharacterCondition blueprint this condition is located, while those with higher numbers are closer to the end. Might to a degree indicate addition chronological order.
 - Priority: Likely which one has the highest priority when it comes to rendering, so that players with many effects don't look like a colorful mass.
 - NotUseResult: No idea, probably related to the result screen, or maybe it determines whether damage caused by this effect counts towards your damage count.
-- AllyBuff: Specifies if this is an ally buff or not.
-- EnemyDebuff: Specifies if this is an enemy debuff or not.
 - The rest: No idea, but it seems either KoAssistTimeMargin or KoAssistEndConditionTimerMargin indicate for how long will the "this is your KO assist" linger for until it goes away and the kill no longer counts as your assist.
 
 ## Navigation
-Click the effect you wish to learn about. Click the gray arrow button on the bottom right of the page to quickly scroll up.
+Click the condition you wish to learn about. Click the gray arrow button/orange button on the bottom right of the page to quickly scroll up (This button might not be available in some mobile modes).
 
 <div class="image-container">
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/poison_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/burn_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/burnblue_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/freeze_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/decay_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/infectiondecay_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shock_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/erasure_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/decreasehealth_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/recoverhealth_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/continuousrecoverhealth_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/influenceheal_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dying_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/transform_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bloodholder_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/guard_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/levelup_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/speeddown_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/piggyback_condition.png" />
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/lowgravity_condition.png" />
+    <a href="https://ultrarumble.com/guide/character-conditions#poison_mist" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/poison_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#burn" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/burn_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#freeze" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/freeze_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#decay" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/decay_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#blue_burn" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/burnblue_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#shock" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shock_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#erasure" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/erasure_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#decreasehealth" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/decreasehealth_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#recoverhealth" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/recoverhealth_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#continuousrecoverhealth" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/continuousrecoverhealth_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#influenceheal" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/influenceheal_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#dying" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dying_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#transform" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/transform_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#guard" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/guard_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#levelup" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/levelup_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#speeddown" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/speeddown_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#piggyback" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/piggyback_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#lowgravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/lowgravity_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#reciproboost" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/reciproboost_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#reciproout" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/reciproout_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#dumb" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dumb_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#hardening" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hardening_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#giant" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/giant_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#infectiondecay" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/infectiondecay_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#strikeboost" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/strikeboost_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#assaultboost" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/assaultboost_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#rapidboost" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/rapidboost_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#supportboost" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/supportboost_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#technicalboost" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/technicalboost_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#superarmor" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/superarmor_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#plusultra" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/plusultra_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#invincible" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/invincible_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#compression" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/compression_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#compressionregen" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/compressionregen_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#camouflage" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/camouflage_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#permeation" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/permeation_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#displayhp" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/displayhp_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#displaygp" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/displaygp_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#mark" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mark_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#orbpenalty" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/orbpenalty_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#leader" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/leader_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#bloodholder" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bloodholder_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#restoration" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allyrestoration_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#deafen" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deafen_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zerogravity" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/zerogravity_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#copy" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/copy_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#copyholder" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/copyholder_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#duplicate" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/duplicate_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#hprule" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hprule_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#gprule" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/gprule_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#respawnrule" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/respawnrule_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#crazytorch" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/crazytorch_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#steal" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/steal_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#teleport" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/teleport_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#restoration" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/restoration_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#petrify" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/petrify_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#tuning" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tuning_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#brainwash" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/brainwash_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#specialbrainwash" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/specialbrainwash_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#electrified" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/electrified_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#furiousascentarmor" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/furiousascentarmor_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#steel" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/steel_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#transmission" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/transmission_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#fajin" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/fajin_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#zspecialactionseal" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/specialactionseal_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#perfect_permeation" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/perfectpermeation_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#superrecovery" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/superrecovery_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#wave_veil" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/waveveil_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#black_ankh" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/blackankh_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#poison_inversion" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/poisoninversion_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#sweat_bomb" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/sweatbomb_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#grab" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/grab_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#sleep" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/sleep_condition.png" />
+    </a>
+    <a href="https://ultrarumble.com/guide/character-conditions#double_impact" target="_self">
+        <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/doubleimpact_condition.png" />
+    </a>
+    
 </div>
 
 # Character Conditions
 
-## Poison
-
+## Poison 
+<a id="poison_mist">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_poison.png" width="380" />
 </p>
 
-Poison is the Poison Mist's signature effect. To most players this wouldn't even be considered a condition per se, but in the game files they are one. Poison damage increases with a match's phase, dealing more damage as the match progresses. The name of this condition in the files is "PoizonMist", get used to seeing typos in the variable names.
+Poison is the Poison Mist's signature effect. To most players this wouldn't even be considered a condition per se, but in the game files they are one. Poison damage increases with a match's phase (and further increases if you stay inside of it for over 10 seconds without coming back), dealing more damage as the match progresses. It also blocks HP healing from certain sources such as Support Nejire's beta, Technical Shigaraki's gamma and the Revenge Support special tune. The name of this condition in the files is "PoizonMist", get used to seeing typos in the variable names.
 
 Condition Data:
 - Internal Name: <a style="color: orange !important;">PoizonMist</a><br>
@@ -115,7 +316,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Burn
-
+<a id="burn">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_burn.png" width="280" />
 </p>
@@ -148,13 +349,14 @@ The distribution of characters that can apply Burn is as follows:
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mrcompress_support.png" />
 </div>
 
 ## Freeze
-
+<a id="freeze">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_freeze.png" width="280" />
 </p>
@@ -186,13 +388,14 @@ The distribution of characters that can apply Freeze is as follows:
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mrcompress_support.png" />
 </div>
 
 ## Decay
-
+<a id="decay">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_decay.png" width="280" />
 </p>
@@ -225,7 +428,7 @@ The distribution of characters that can apply Decay is as follows:
 </div>
 
 ## Blue Burn
-
+<a id="blue_burn">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_burnblue.png" width="280" />
 </p>
@@ -255,18 +458,19 @@ The distribution of characters that can apply Blue Burn is as follows:
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mrcompress_support.png" />
 </div>
 
 ## Shock
-
+<a id="shock">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_shock.png" width="280" />
 </p>
 
-Shock is a state effect inflicted by dealing 100 Shockpower to the enemy. Shockpower is a hidden stat Denki Kaminari's moves have that determines how much freeze they apply to the character. Characters that become shocked are stunned for a relatively short amount of time, and can be attacked while in this state. Shocked characters will have subtle electric particles around them, and will often do funny noises. Some abilities don't apply 100 Shockpower, meaning you need to land them multiple times to shock, such is the case of both Kaminari's alpha skills. This status can be blocked by the special tune Resist Shock, but it's usually considered useless as it's only useful against Denki Kaminari's skills, so it's use is mostly reserved to blocking the special tune "Electrification", but even then any other tune will be more useful.<br>
+Shock is a state effect inflicted by dealing 100 Shockpower to the enemy. Shockpower is a hidden stat some moves have that determines how much freeze they apply to the character. Characters that become shocked are stunned for a relatively short amount of time, and can be attacked while in this state. Shocked characters will have subtle electric particles around them, and will often do funny noises. Some abilities don't apply 100 Shockpower, meaning you need to land them multiple times to shock, such is the case of both Kaminari's alpha skills. This status can be blocked by the special tune Resist Shock, but it's usually considered useless as it's only useful against Denki Kaminari's and Strike All For One's skills, so it's use is mostly reserved to blocking the special tune "Electrification", but even then any other tune will be more useful.<br>
 Shock's name in the files is "Tunder", which is supposed to say Thunder but the code is full of typos like this...<br>
 <br>
 Condition Data:
@@ -285,6 +489,7 @@ The distribution of characters that can apply Shock is as follows:
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
 </div>
 
 ### Conditional Shock Characters
@@ -298,7 +503,7 @@ The distribution of characters that can apply Shock is as follows:
 </div>
 
 ## Erasure
-
+<a id="erasure">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_erasure.png" width="230" />
 </p>
@@ -329,7 +534,7 @@ The distribution of characters that can apply Erasure is as follows:
 </div>
 
 ## Decrease Health
-
+<a id="decreasehealth">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_decreasehealth.png" width="280" />
 </p>
@@ -347,7 +552,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Recover Health
-
+<a id="recoverhealth">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_recoverhealth.png" width="280" />
 </p>
@@ -365,7 +570,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Continuous Recover Health
-
+<a id="continuousrecoverhealth">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_continuousrecoverhealth.png" width="280" />
 </p>
@@ -383,7 +588,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Influence of Ally Ability Heal
-
+<a id="influenceheal">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_influenceheal.png" width="280" />
 </p>
@@ -401,7 +606,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Down
-
+<a id="dying">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_dying.png" width="280" />
 </p>
@@ -419,7 +624,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Transform
-
+<a id="transform">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_transform.png" width="280" />
 </p>
@@ -445,7 +650,7 @@ The distribution of characters who can Transform is as follows:
 </div>
 
 ## Guard
-
+<a id="guard">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_guard.png" width="280" />
 </p>
@@ -463,7 +668,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Quirk Level Up
-
+<a id="levelup">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_levelup.png" width="280" />
 </p>
@@ -481,7 +686,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Speed Down
-
+<a id="speeddown">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_speeddown.png" width="280" />
 </p>
@@ -499,7 +704,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Piggyback
-
+<a id="piggyback">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_piggyback.png" width="280" />
 </p>
@@ -532,7 +737,7 @@ Condition Data:
 </div>
 
 ## Low Gravity
-
+<a id="lowgravity">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_lowgravity.png" width="280" />
 </p>
@@ -565,7 +770,7 @@ The distribution of characters that can use Low Gravity are as follows::
 </div>
 
 ## Recipro Boost
-
+<a id="reciproboost">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_reciproboost.png" width="280" />
 </p>
@@ -593,12 +798,13 @@ The distribution of characters that can use Recipro Boost is as follows:
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Recipro Out
-
+<a id="reciproout">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_reciproout.png" width="280" />
 </p>
@@ -626,12 +832,13 @@ The distribution of characters that can suffer Recipro Out is as follows:
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Dumb
-
+<a id="dumb">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_dumb.png" width="280" />
 </p>
@@ -649,7 +856,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Hardening
-
+<a id="hardening">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_hardening.png" width="280" />
 </p>
@@ -667,7 +874,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Giant
-
+<a id="giant">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_giant.png" width="280" />
 </p>
@@ -685,7 +892,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Infection Decay
-
+<a id="infectiondecay">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_infectiondecay.png" width="280" />
 </p>
@@ -716,13 +923,14 @@ The distribution of characters that can apply Infection Decay is as follows:
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mrcompress_support.png" />
 </div>
 
 ## Strike Boost
-
+<a id="strikeboost">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_strikeboost.png" width="280" />
 </p>
@@ -740,7 +948,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Assault Boost
-
+<a id="assaultboost">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_assaultboost.png" width="280" />
 </p>
@@ -758,7 +966,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Rapid Boost
-
+<a id="rapidboost">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_rapidboost.png" width="280" />
 </p>
@@ -776,7 +984,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Support Boost
-
+<a id="supportboost">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_supportboost.png" width="280" />
 </p>
@@ -794,7 +1002,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Technical Boost
-
+<a id="technicalboost">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_technicalboost.png" width="280" />
 </p>
@@ -812,7 +1020,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Superarmor
-
+<a id="superarmor">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_superarmor.png" width="280" />
 </p>
@@ -862,12 +1070,13 @@ Characters that at least can use 1 ability with at least 1 instance of Superarmo
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Plus Ultra
-
+<a id="plusultra">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_plusultra.png" width="280" />
 </p>
@@ -885,7 +1094,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Invincibility
-
+<a id="invincible">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_invincible.png" width="280" />
 </p>
@@ -903,7 +1112,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Compression 
-
+<a id="compression">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_compression.png" width="280" />
 </p>
@@ -935,7 +1144,7 @@ Characters that can compress.
 </div>
 
 ## Compression Regeneration
-
+<a id="compressionregen">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_compressionregen.png" width="280" />
 </p>
@@ -967,7 +1176,7 @@ Characters that can apply compression regeneration.
 </div>
 
 ## Camouflage
-
+<a id="camouflage">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_camouflage.png" width="280" />
 </p>
@@ -996,12 +1205,13 @@ The distribution of characters that can use Camouflage are as follows::
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Permeation
-
+<a id="permeation">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_permeation.png" width="280" />
 </p>
@@ -1030,12 +1240,13 @@ The distribution of characters that can use permeation are as follows::
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Display Health On Hit
-
+<a id="displayhp">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_displayhp.png" width="280" />
 </p>
@@ -1053,7 +1264,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Display Guardpoint On Hit
-
+<a id="displaygp">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_displaygp.png" width="280" />
 </p>
@@ -1071,7 +1282,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Marked
-
+<a id="mark">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_marked.png" width="280" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_marked_demo.png" width="280" />
@@ -1104,13 +1315,14 @@ The distribution of characters that can mark enemies are as follows::
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mrcompress_support.png" />
 </div>
 
 ## Orb Penalty
-
+<a id="orbpenalty">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_orbpenalty.png" width="280" />
 </p>
@@ -1128,7 +1340,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Leader
-
+<a id="leader">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_leader.png" width="280" />
 </p>
@@ -1146,7 +1358,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Bloodholder
-
+<a id="bloodholder">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_bloodholder.png" width="280" />
 </p>
@@ -1172,7 +1384,7 @@ The distribution of characters who can be Bloodholders is as follows:
 </div>
 
 ## Restoration
-
+<a id="allyrestoration">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_allyrestoration.png" width="280" />
 </p>
@@ -1204,7 +1416,7 @@ The distribution of characters that can restore allies are as follows::
 </div>
 
 ## Deafen 
-
+<a id="deafen">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_deafen.png" width="280" />
 </p>
@@ -1232,12 +1444,13 @@ The distribution of characters that inflict Deafen are as follows::
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Zero Gravity
-
+<a id="zerogravity">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_zerogravity.png" width="280" />
 </p>
@@ -1269,7 +1482,7 @@ The distribution of characters that can use Low Gravity are as follows::
 </div>
 
 ## Copy
-
+<a id="copy">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_copy.png" width="280" />
 </p>
@@ -1295,17 +1508,19 @@ The distribution of characters that can use copied abilities is as follows::
 
 ### Conditional Copy Characters
 <div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Copyholder
-
+<a id="copyholder">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_copyholder.png" width="280" />
 </p>
 
-Copy is another of Neito Monoma's signature conditions, which stores copied abilities that can be used through the condition above.<br>
+Copyholder is another of Neito Monoma's signature conditions, which stores copied abilities that can be used through the condition above.<br>
 <br>
 Condition Data:
 - Internal Name: <a style="color: orange !important;">Copy_Stocking</a><br>
@@ -1326,12 +1541,14 @@ The distribution of characters that can store copied abilities is as follows::
 
 ### Conditional Copyholder Characters
 <div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Duplicate
-
+<a id="duplicate">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_duplicate.png" width="280" />
 </p>
@@ -1362,7 +1579,7 @@ The distribution of characters that can inflict Duplicate is as follows::
 </div>
 
 ## Rule of HP Regeneration
-
+<a id="hprule">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_hprule.png" width="280" />
 </p>
@@ -1380,7 +1597,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Rule of GP Regeneration
-
+<a id="gprule">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_gprule.png" width="280" />
 </p>
@@ -1398,7 +1615,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Rule of Respawning
-
+<a id="respawnrule">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_respawnrule.png" width="280" />
 </p>
@@ -1416,7 +1633,7 @@ Condition Data:
 - KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
 
 ## Crazy Torch
-
+<a id="crazytorch">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_crazytorch.png" width="280" />
 </p>
@@ -1444,12 +1661,13 @@ The distribution of characters that can go Crazy Torch is as follows::
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Steal
-
+<a id="steal">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_steal.png" width="280" />
 </p>
@@ -1471,6 +1689,7 @@ The distribution of characters that can Steal is as follows::
 ### Steal Characters
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
 </div>
 
 ### Conditional Steal Characters
@@ -1480,7 +1699,7 @@ The distribution of characters that can Steal is as follows::
 </div>
 
 ## Teleport
-
+<a id="teleport">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_teleport.png" width="280" />
 </p>
@@ -1507,12 +1726,13 @@ The distribution of characters that can Teleport enemies is as follows::
 ### Conditional Teleport Characters
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Self-Restoration
-
+<a id="restoration">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_restoration.png" width="280" />
 </p>
@@ -1537,16 +1757,17 @@ The distribution of characters that can use self-restoration is as follows::
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/overhaul_support.png" />
 </div>
 
-### Conditional Teleport Characters
+### Conditional Self-Restoration Characters
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Petrify
-
+<a id="petrify">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_petrify.png" width="280" />
 </p>
@@ -1575,12 +1796,13 @@ The distribution of characters that can apply Petrify is as follows:
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Tuning Conditions
-
+<a id="tuning">
 Tuning often reuses conditions for its tuning effects, though in most cases this is technically done through a different condition that mimics most of the original condition while allowing it to work as a tuning skill, this is why technically the tuning Embrittlement does not apply "Decay" but instead applies "RollSlot_Decay", so if you notice strange differences between the conditions applied by tuning and the original ones, this is why. These are the conditions tied to tuning:
 
 - RollSlot_Ability_Attack: <a style="color: orange !important;">62</a><br>
@@ -1598,9 +1820,10 @@ Tuning often reuses conditions for its tuning effects, though in most cases this
 - RollSlot_Opticaldazzlepaint: <a style="color: orange !important;">79</a><br>
 - RollSlot_Acceleration: <a style="color: orange !important;">82</a><br>
 - RollSlot_Ability_Ch015_RECOVERY_HEALTH_GUARDPOINT: <a style="color: orange !important;">88</a><br>
+- RollSlot_Thunder: <a style="color: orange !important;">94</a><br>
 
 ## Brainwash
-
+<a id="brainwash">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_confusion.png" width="280" />
 </p>
@@ -1628,12 +1851,13 @@ The distribution of characters that can brainwash enemies are as follows::
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Special Brainwash
-
+<a id="specialbrainwash">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_specialconfusion.png" width="280" />
 </p>
@@ -1664,7 +1888,7 @@ The distribution of characters that can cause special brainwash to enemies are a
 </div>
 
 ## Electrified
-
+<a id="electrified">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_electrified.png" width="280" />
 </p>
@@ -1696,7 +1920,7 @@ The distribution of characters that can electrify themselves are as follows::
 </div>
 
 ## Furious Ascent Armor
-
+<a id="furiousascentarmor">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_furiousascentarmor.png" width="280" />
 </p>
@@ -1724,12 +1948,13 @@ The distribution of characters that can use Furious Ascent Armor are as follows:
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Steel 
-
+<a id="steel">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_steel.png" width="280" />
 </p>
@@ -1756,12 +1981,13 @@ The distribution of characters that can go Steel are as follows::
 ### Conditional Steel Characters
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Transmission
-
+<a id="transmission">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_transmission.png" width="280" />
 </p>
@@ -1789,12 +2015,13 @@ The distribution of characters that can use Transmission is as follows::
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Fa Jin
-
+<a id="fajin">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_fajin.png" width="280" />
 </p>
@@ -1825,7 +2052,7 @@ The distribution of characters that can use Fa Jin is as follows::
 </div>
 
 ## Special Action Seal
-
+<a id="specialactionseal">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_specialactionseal.png" width="280" />
 </p>
@@ -1856,7 +2083,7 @@ The distribution of characters that can seal special actions is as follows::
 </div>
 
 ## Perfect Permeation
-
+<a id="perfect_permeation">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_perfectpermeation.png" width="280" />
 </p>
@@ -1888,7 +2115,7 @@ The distribution of characters that can use Perfect Permeation are as follows::
 </div>
 
 ## Super Recovery
-
+<a id="superrecovery">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_superrecovery.png" width="280" />
 </p>
@@ -1916,12 +2143,13 @@ The distribution of characters that can use Super Recovery are as follows::
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Wave Veil
-
+<a id="wave_veil">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_waveveil.png" width="280" />
 </p>
@@ -1949,12 +2177,13 @@ The distribution of characters that can grant Wave Veil are as follows::
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Black Ankh
-
+<a id="black_ankh">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_blackankh.png" width="280" />
 </p>
@@ -1984,8 +2213,73 @@ The distribution of characters that can use Black Ankh are as follows::
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
-## Grab
+## Poison Inversion
+<a id="poison_inversion">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_poisoninversion.png" width="280" />
+</p>
 
+Poison Inversion is Star and Stripe's signature condition, which makes the user immune to Poison Mist damage and converts the damage that would normally be taken into healing.<br>
+<br>
+Condition Data:
+- Internal Name: <a style="color: orange !important;">Skill_ReversePoisonMistRecoverHealth</a><br>
+- Condition Number: <a style="color: orange !important;">91</a><br>
+- Priority: <a style="color: orange !important;">0</a><br>
+- NotUseResult: <a style="color: red !important;">false</a><br>
+- KoAssist: <a style="color: red !important;">false</a><br>
+- KoAssistTimeMargin: <a style="color: orange !important;">-</a><br>
+- KoAssistEndTypeList: -<br>
+- KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
+
+The distribution of characters that can use Poison Inversion are as follows::
+
+### Poison Inversion Characters
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/star_strike.png" />
+</div>
+
+### Conditional Poison Inversion Characters
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
+</div>
+
+## Sweat Bomb
+<a id="sweat_bomb">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_sweatbomb.png" width="280" />
+</p>
+
+Sweat Bomb is Katsuki Bakugo (Cluster)'s signature condition, which makes the affected user carry sparkles that explode upon being attacked, dealing extra damage.<br>
+<br>
+Condition Data:
+- Internal Name: <a style="color: orange !important;">Skill_Ch002V3_SweatBomb</a><br>
+- Condition Number: <a style="color: orange !important;">92</a><br>
+- Priority: <a style="color: orange !important;">0</a><br>
+- NotUseResult: <a style="color: red !important;">false</a><br>
+- KoAssist: <a style="color: red !important;">false</a><br>
+- KoAssistTimeMargin: <a style="color: orange !important;">-</a><br>
+- KoAssistEndTypeList: -<br>
+- KoAssistEndConditionTimerMargin: <a style="color: orange !important;">-</a><br>
+
+The distribution of characters that can use Sweat Bomb are as follows::
+
+### Sweat Bomb Characters
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_technical.png" />
+</div>
+
+### Conditional Sweat Bomb Characters
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
+</div>
+
+## Grab
+<a id="grab">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_grab.png" width="280" />
 </p>
@@ -1994,7 +2288,7 @@ Grab is a condition applied by certain skills that immobilize the player while s
 <br>
 Condition Data:
 - Internal Name: <a style="color: orange !important;">grab</a><br>
-- Condition Number: <a style="color: orange !important;">91</a><br>
+- Condition Number: <a style="color: orange !important;">93</a><br>
 - Priority: <a style="color: orange !important;">0</a><br>
 - NotUseResult: <a style="color: red !important;">false</a><br>
 - KoAssist: <a style="color: red !important;">false</a><br>
@@ -2017,12 +2311,13 @@ The distribution of characters that can Grab are as follows::
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
 </div>
 
 ## Sleep
-
+<a id="sleep">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_sleep.png" width="280" />
 </p>
@@ -2030,7 +2325,7 @@ The distribution of characters that can Grab are as follows::
 Sleep is an unknown condition that was found in a previous recent season but is currently removed. Apparently, this condition is applied to allies, not to enemies, which is definitely interesting considering sleep effects are often a debuff in games.
 
 ## Double Impact
-
+<a id="double_impact">
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_twinimpact.png" width="280" />
 </p>
