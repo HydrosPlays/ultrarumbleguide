@@ -177,7 +177,7 @@ DOWN HP appears as a red bar in your interface, replacing HP, and when damaged i
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_stamina.png" width="280" />
 </p>
 
-Stamina is a special type of health that can only be obtained through the skill "Spiraling Veil", which is Nejire Hado (Fairy)'s gamma skill. Stamina works like an "Overguard", protecting both your HP and GP (though attacks that bypass GP also bypass Stamina). For most things, Stamina works like a 2nd GP bar that you can see above your crosshair, and unlike HP or GP, this healthtype is temporary and cannot be healed back.<br>
+Stamina (also known as Barrier Points internally) is a special type of health that can only be obtained through the skill "Spiraling Veil", which is Nejire Hado (Fairy)'s gamma skill. Stamina works like an "Overguard", protecting both your HP and GP (though attacks that bypass GP also bypass Stamina). For most things, Stamina works like a 2nd GP bar that you can see above your crosshair, and unlike HP or GP, this healthtype is temporary and cannot be healed back.<br>
 <br>
 Damaging a character with Stamina will show yellow damage numbers. DOWNd characters cannot receive Stamina
 
