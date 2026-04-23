@@ -238,21 +238,25 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
 
 <div class="guides-menu-row">
   <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/balance-changes-history" >
+    <a href="https://ultrarumble.com/guide/balance-changes-history">
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/ta-balancechangeshistory.png"/>
     </a>
+  </div>
+
   <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/seasons-betas" >
+    <a href="https://ultrarumble.com/guide/seasons-betas">
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/ta-seasonsbetas.png"/>
     </a>
   </div>
+
   <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/tournaments" >
+    <a href="https://ultrarumble.com/guide/tournaments">
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/ta-tournaments.png"/>
     </a>
   </div>
+
   <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/survey-archive" >
+    <a href="https://ultrarumble.com/guide/survey-archive">
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/ta-surveys.png"/>
     </a>
   </div>
