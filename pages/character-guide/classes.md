@@ -123,6 +123,7 @@ You might have noticed that some characters appear more than once with a differe
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kendo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tamaki_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shinso_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/aizawa_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/endeavor_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_strike.png" />
@@ -182,6 +183,7 @@ Characters with this class are often referred to by the community as "Yellow" or
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirko_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/twice_rapid.png" />
 </div>
@@ -231,6 +233,7 @@ Characters with this class are often referred to by the community as "Green" or 
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nejire_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/armormight_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/aizawa_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_technical.png" />
