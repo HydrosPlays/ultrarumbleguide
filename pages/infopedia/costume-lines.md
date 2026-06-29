@@ -67,8 +67,8 @@ Numeral IDs are 7-9 characters long, an example would be 2301103, which means "C
 
 ## Default Category ("Default")
 ### Default Line (000 0)
-This is where everyone's base costumes belong to, and by extent, this makes it the most populated line, with 100% of the roster having a costume in this line. There currently are 38 unique costumes in this line, or 190 if we count color variations.
-<div>
+This is where everyone's base costumes belong to, and by extent, this makes it the most populated line, with 100% of the roster having a costume in this line. There currently are 38 unique costumes in this line, or 190 if we count color variations. IL BONKO
+<div class="image-container">
     <img class="container-image-icon" src="https://ultrarumble.com/assets/Character/Ch001/GUI/Costume/L/T_ui_Thumb_4_1000000_L.png" width=15%/>
     <img class="container-image-icon" src="https://ultrarumble.com/assets/Character/Ch001/GUI/Costume/L/T_ui_Thumb_4_1000002_L.png" width=15%/>
     <img class="container-image-icon" src="https://ultrarumble.com/assets/Character/Ch001/GUI/Costume/L/T_ui_Thumb_4_1000003_L.png" width=15%/>
