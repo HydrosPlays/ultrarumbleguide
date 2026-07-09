@@ -86,6 +86,7 @@ Increases the damage of your Alpha Skill. Each tune increases Alpha Skill DMG by
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nagant_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/aizawa_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_technical.png" />
 </div>
 
@@ -97,6 +98,7 @@ Increases the damage of your Beta Skill. Each tune increases Beta Skill DMG by 2
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kendo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shinso_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirko_rapid.png" />
 </div>
 
 ## Quirk Skill γ Attack Power+
@@ -187,19 +189,20 @@ Reduces the damage taken by enemy Basic Melee Attacks. Each tune decreases enemy
 </div>
 
 ## Run Speed+
-<a style="color: red !important;">**This effect is bugged and does not work.**</a><br>
-Increases the character's Running Speed. Each tune increases Running Speed by 3% at Level 3, by 4% at Level 4.
+<a style="color: red !important;">**This effect MIGHT be bugged, it used to be, but they might have fixed it now, we will do tests.**</a><br>
+Increases the character's Running (walking) Speed. Each tune increases Running Speed by 3% at Level 3, by 4% at Level 4. 
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dekuofa_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/cementoss_support.png" />
 </div>
 
 ## Dash Speed+
-<a style="color: red !important;">**This effect is bugged and does not work.**</a><br>
-Increases the character's Running Speed. Each tune increases Dashing Speed by 3% at Level 3, by 4% at Level 4.
+Increases the character's Dashing (sprinting) Speed. Each tune increases Dashing Speed by 3% at Level 3, by 4% at Level 4. This effect used to not work for several seasons, but it got fixed, seemingly in Season 17.
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/iida_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_technical.png" />
 </div>
 
 ## Forward Jump HT+
@@ -214,6 +217,7 @@ Increases the character's jump height when pressing a movement input. Each tune 
 Increases the character's jump height when not pressing a movement input. Each tune increases still jump height by 15 units at Level 3, by 20 units at Level 4.
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/aizawa_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/uraraka_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/armormight_technical.png" />
 </div>
@@ -222,6 +226,7 @@ Increases the character's jump height when not pressing a movement input. Each t
 Increases the character's jump height when they are jumping off a wall. Each tune increases wall jump height by 15 units at Level 3, by 20 units at Level 4.
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirko_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tamaki_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nagant_strike.png" />
 </div>
@@ -282,6 +287,7 @@ Increases the reload speed of your Beta Skill. Each tune increases Beta Skill re
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/todoroki_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/armormight_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/twice_rapid.png" />
 </div>
 
