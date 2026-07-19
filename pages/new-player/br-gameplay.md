@@ -199,21 +199,32 @@ There's only one Kota per match, and he spawns in one of his designated spawn po
 </p>
 
 # Gameplay: The Poison Mist and the Safe Zone
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/poisonmist.png" width="300"/>
+</p>
 If you've played battle royales before, you might be familiar with the concept of the "storm" (called Poison Mist here), which is the damaging area that envelops the world. At the beginning of the match the Poison Mist will be outside the map, but once some time passes, it will start to engulf the map's borders. On the minimap you'll be able to see the area it's covering, the area it will cover, and where the safe zone will move. The purple ring indicates the Poison Mist's borders, while the cyan circle indicates the area that will be safe after the Poison Mist moves. Over time, the safe zone will get smaller and smaller, or even move to different locations in an attempt to make it easier for players to kill each other. If the match lasts for too long and reaches the 16 minutes and 30 seconds mark, the safe zone will close and the whole map will be engulfed in Poison Mist, point at which you will either die to an enemy attack, or to the Poison Mist itself.<br>
 <br>
-The mist does little damage at the beginning, taking 10 HP per second, which means that on some characters you can survive inside the Poison Mist for a long period of time, even more if you have healing items, but be careful, the mist only consumes HP, not GP, so GP won't help you. The Poison Mist grows stronger as time passes, taking 10 HP per second at first, then increasing with every phase, until taking 40 HP per second when the Safe Zone closes, at which point you can only survive if  you're quick on using Large HP Recovery Drinks, as small ones can't keep up with the damage. If your teammate dies inside the Poison Mist, you should only try to help them get up if you're a high HP character, have quite a few HP Recovery drinks, aren't low on health, and the teammate is relatively close. Ranged revive abilities such as Ibara's and Cementoss's come handy for this... mostly.
+The mist does little damage at the beginning, taking 10 HP per second, which means that on some characters you can survive inside the Poison Mist for a long period of time, even more if you have healing items, but be careful, the mist only consumes HP, not GP, so GP won't help you. The Poison Mist grows stronger as time passes, taking 10 HP per second at first, then increasing with every phase, until taking 40 HP per second when the Safe Zone closes, at which point you can only survive if  you're quick on using Large HP Recovery Drinks, as small ones can't keep up with the damage. If your teammate dies inside the Poison Mist, you should only try to help them get up if you're a high HP character, have quite a few HP Recovery drinks, aren't low on health, and the teammate is relatively close. Ranged revive abilities such as Ibara's and Cementoss's come handy for this... mostly.<br>
+<br>
+In Season 16, the Poison Mist became stronger thanks to the "Poison Sickness", a property that makes the Poison Mist deal 50% more damage to anybody who stays for longer than 10 seconds inside of it without coming out, making the Poison Mist quite the hostile place after the 10 second mark.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/poisonmist-gif.gif" width="400" />
 </p>
 
 # Gameplay: Stage Gimmicks
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_jumppad.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/icon_teleporter.png" width="300"/>
+</p>
 When traversing the map you will notice the presence of Jump Pads and Teleporters.
 Jump Pads make you jump high in the direction their trail points to, they're useful for mobility, especially for characters that lack mobility options. Touching one while in a skill animation or while drinking a healing item won't make you jump until the animation is over, and if you try to use one while DOWNd, you will get pushed away.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/jumppad.png" width="400"/>
 </p>
 <br>
-Teleporters are special devices only found in the Neo Academia map, they serve as quick entry and exit to/from the Coffin in the Sky area. These aren't linked to another teleporter, so once you use one, you will have to find another one if you wish to go back, they're 1-way teleporters. It's important to note that once Teleporters are engulfed by the Poison Mist, they will despawn soon after, so make sure to keep this in mind so you don't get trapped outside the Sky Area.
+Teleporters are special devices only found in the Neo Academia map, they serve as quick entry and exit to/from the Coffin in the Sky area. These aren't linked to another teleporter, so once you use one, you will have to find another one if you wish to go back, they're 1-way teleporters. It's important to note that once Teleporters are engulfed by the Poison Mist, they will despawn soon after, so make sure to keep this in mind so you don't get trapped outside the Sky Area.<br>
+<br>
+Teleporters give i-frames for a few seconds after their usage, allowing the player to remain invincible so long as they don't use a skill. This is useful when it comes to running from the enemy, as you can quickly drink a small recovery drink while fully invincible.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/teleporter.jpg" width="400"/>
 </p>
