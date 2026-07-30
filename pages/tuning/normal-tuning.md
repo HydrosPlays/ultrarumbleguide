@@ -75,6 +75,7 @@
 <p align="center">
     <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/guide-tuning.jpg" width="100%"/>
 </p>
+<em style="font-size: 14px;">Last Update: July 30th 2026</em>
 
 # <a style="color: rgba(255,245,138,255) !important;">Normal T.U.N.I.N.G. Info and Distribution</a><br>
 In this sub-guide you'll learn about the effects of Normal T.U.N.I.N.G. skills, as well as a list of how many have a specific attribute.
