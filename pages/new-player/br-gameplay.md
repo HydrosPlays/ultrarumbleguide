@@ -1,6 +1,7 @@
 <p align="center">
     <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
 </p>
+<em style="font-size: 14px;">Last Update: July 30th 2026</em>
 
 # <a style="color: lightblue !important;">BATTLE ROYALE MODE AND GENERAL GAMEPLAY</a><br>
 In this sub-guide you'll learn about My Hero Ultra Rumble's main gamemode: The Battle Royale, along with the gameplay it entails!
