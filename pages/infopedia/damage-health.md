@@ -52,7 +52,7 @@
 <p align="center">
     <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/guide-infopedia.jpg" width="100%"/>
 </p>
-<em style="font-size: 14px;">Last Update: July 27th 2026</em>
+<em style="font-size: 14px;">Last Update: July 29th 2026</em>
 
 # <a style="color: lime !important;">DAMAGE, HEALTH, HEALING AND INTERACTIONS</a><br>
 In this sub-guide you'll learn about My Hero Ultra Rumble's health types and how damage works, as well as healing and skill-to-character interactions!
