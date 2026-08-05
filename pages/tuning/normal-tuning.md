@@ -189,18 +189,18 @@ Reduces the damage taken by enemy Basic Melee Attacks. Each tune decreases enemy
 </div>
 
 ## Run Speed+
-<a style="color: red !important;">**This effect is bugged and does not work.**</a><br>
-Increases the character's Running Speed. Each tune increases Running Speed by 3% at Level 3, by 4% at Level 4.
+<a style="color: red !important;">**This effect MIGHT be bugged, it used to be, but they might have fixed it now, we will do tests.**</a><br>
+Increases the character's Running (walking) Speed. Each tune increases Running Speed by 3% at Level 3, by 4% at Level 4. 
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dekuofa_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/cementoss_support.png" />
 </div>
 
 ## Dash Speed+
-<a style="color: red !important;">**This effect is bugged and does not work.**</a><br>
-Increases the character's Running Speed. Each tune increases Dashing Speed by 3% at Level 3, by 4% at Level 4.
+Increases the character's Dashing (sprinting) Speed. Each tune increases Dashing Speed by 3% at Level 3, by 4% at Level 4. This effect used to not work for several seasons, but it got fixed, seemingly in Season 17.
 <div class="image-container">
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/iida_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_technical.png" />
 </div>
