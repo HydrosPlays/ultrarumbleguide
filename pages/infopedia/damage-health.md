@@ -134,6 +134,7 @@ The distribution of characters by HP is as follows (keep in mind T.U.N.I.N.G. ca
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/yafo_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/twice_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/twice_support.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mrcompress_support.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kurogiri_support.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/gentle_technical.png" />
@@ -152,7 +153,6 @@ The distribution of characters by HP is as follows (keep in mind T.U.N.I.N.G. ca
 
 ### ??? HP - Unknown
 <div class="image-container">
-    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/twice_support.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/froppy_strike.png" />
 </div>
 
@@ -343,6 +343,7 @@ Characters with revive abilities. Dabi is a special case as he cannot revive oth
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/cementoss_support.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/twice_support.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mrcompress_support.png" />
 </div>
 
