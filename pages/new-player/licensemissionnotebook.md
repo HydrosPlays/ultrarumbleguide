@@ -1,1 +1,163 @@
+<p align="center">
+    <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
+</p>
+
+# <a style="color: lightblue !important;">LICENSES, MISSIONS AND THE RESEARCH NOTEBOOK</a><br>
+In this sub-guide you'll learn about the Hero License, the Pro License, the Special License, Missions (Daily/Weekly/Seasonal/Special/Event) and the Research Notebook.
+
+# Missions
+By pressing the missions button, you will access the Missions Screen. There are 5 types of missions:
+
+- Daily Missions: These are usually basic missions you can easily complete in a few matches. Completing these will give an amount of Mission Stars, every 3 Mission Stars you unlock a reward, which in this case is always an amount of License EXP. As the name implies, these reset daily.
+- Weekly Missions: These are slightly more demanding missions that you're meant to complete throughout the week, though if you play enough you might complete them in two days or less. Just like daily missions, completing them gives you Mission Stars, which will grant you License EXP per 3 Mission Stars. As the name implies, they reset weekly on Wednesdays (or late Tuesdays in some timezones).
+- Seasonal Missions: These are more demanding missions that you're meant to complete throughout the season. These give large amounts of License EXP, requiring between 1 to 3 to level up, which is why you should try to complete them if you want to quickly unlock a License Rewards that's close to your level. Seasonal Missions also contain Ranked Missions, which can give you puzzle pieces for the numerical ranks (I, II, III, IV, V), or Roll Tickets, Emblems and PUR Costumes for every major rank up (Amateur, Pro, Expert, Ace), the last two ranks also give nameplates. These missions reset every season.
+- Special Missions: This is the group with the largest amount of missions. This is where your general progress missions are located, such as "Reach Ace Rank for the first time" or "Reach Level 50 of the Hero License for the first time", as well as character missions such as "Deal 12,000 DMG to enemies as Denki Kaminari". These missions often give the player Emblems and Notebook Stars (not to be confused with Mission Stars), and in rare occasions Roll Tickets. The main purpose of these missions is closely related to the Research Notebook feature, which we will explore further below.
+- Event Missions: This is a group of missions that is only available when a Mission Event is active. These can either give a special Event-Only currency that you can use in the Event's shop, or the actual rewards directly. Beginner Missions are hosted here, which are basic but often rewarding missions for new players that give a ton of "Special License" EXP, as well as a Character Ticket to unlock an extra character within a specific pool.
+
+<p align="center">
+    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/dailymissions.png" width="45%"/>
+    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/specialmissions.png" width="45%"/>
+</p>
+
+# The Licenses
+The game has 2 types of licenses, which are this game's equivalent of a Battle Pass.
+
+## Hero License and Pro License
+The first type is the Hero/Pro License. This license is split into a gray row and a blue row. The gray row represents the Hero License, which is free, while the blue one represents the Pro License, which you can either spend 5000 Hero Crystals to gain access to the first 20 slots (Pro License Lite), or spend 13000 Hero Crystals to unlock all the slots (Pro License), which you still have to grind to.
+
+The Pro License can be unlocked without spending money into the game provided you play through the seasonal special events that allow you to obtain or buy Hero Crystals with event currency. Once you buy it, it's highly recommended to reach license level 70, not just because of the fact that otherwise you will be missing out on the rewards, but also because the Pro License gives you enough Hero Crystals to buy the Pro License for the next season.
+
+<p align="center">
+    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/license.png" width="50%"/>
+</p>
+
+Up to level 70, you can obtain gold, nameplates, puzzle pieces, roll tickets, hero crystals, tuning materials and even PUR Costumes. After level 70, you will obtain Present Boxes every level, which have a random chance of dropping almost any item. 
+
+To progress through the licenses you can either gain License EXP from playing matches or from completing Daily, Weekly, and some Seasonal Missions. You can also progress to a specific level instantly by spending Hero Crystals, but this is highly discouraged, so unless you have a very good reason to do it, avoid this, as there are way better uses for this resource.
+
+Make sure to obtain all the rewards before the season ends!
+
+## The Special License
+Also known as the "Green License", is the 2nd license in the game, which you can access by clicking the white button that says "Special".
+<p align="center">
+    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/speciallicense.png" width="50%"/>
+</p>
+
+<style>
+    .image-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        margin-bottom: 20px;
+        padding: 15px;
+    }
+
+    .container-image-icon {
+        flex: 1 1 auto;
+        max-width: 100px;
+        max-height: 150px;
+        object-fit: contain;
+    }
+
+    @media (max-width: 768px) {
+            .container-image-icon {
+                max-width: 75px; 
+                max-height: 100px;
+            }
+            
+            .image-container {
+                gap: 5px;
+                margin-bottom: 10px;
+                padding: 7px;
+            }
+    }
+</style>
+
+This License has 60 levels, and you can progress through them by either obtaining Special License EXP from matches, or by completing Beginner Missions. This license is super important, as it allows you to unlock actual characters, these being:
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/todoroki_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/froppy_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mrcompress_support.png" />
+</div>
+
+You can also unlock 3 PUR costumes and many nameplates, as well as obtaining many Roll Tickets.
+
+# The Research Notebook
+
+The Research Notebook can be accessed either from the Play Screen or from the Special Missions screen.
+<p align="center">
+    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/notebook1.png" width="45%"/>
+    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/notebook2.png" width="45%"/>
+</p>
+
+
+This feature is another source of rewards in which by completing Special Missions (mainly character achievements and general achievements) you can obtain Research Note Book Exp (also known as Notebook Stars), which allow you to level up your Research Notebook level.
+
+The Research notebook has 30 levels, each level requires 10 Notebook Stars. While most special missions give 1 Notebook Star, some give 2, and a few give several, so make sure to do those first if you can. Each notebook level gives you a reward, which can range from gold and puzzle pieces to roll tickets and character tickets.
+
+This feature somewhat shows a player's overall experience, since most stars you will obtain will come from your feats across many different characters, if you only play one character you will be missing out on stars. Special missions offer way more stars than the ones you need to reach level 30, so you have more than enough variety to pick the ones that seem easiest to you.
+<p align="center">
+    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/notebook4.png" width="45%"/>
+    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/notebook3.png" width="45%"/>
+</p>
+
+<hr style="height: 10px; background-color: white; border: none;">
+
+<style>
+    .guides-menu {
+        display: flex;
+        flex-direction: column;
+        margin: 20px auto 20px auto; 
+        justify-content: center;
+        max-width: 1000px;
+        gap: 15px;
+        padding: 20px 20px 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #24262E;
+        border-radius: 12px;
+    } 
+    
+    .guides-menu-row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    } 
+
+    .guide-icon {
+        flex: 0 0 auto;
+        width: 175px;
+        height: 175px;
+        box-sizing: border-box;
+    }
+
+    .guide-icon img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; 
+    }
+
+    @media (max-width: 768px) {
+        .guide-icon {
+            max-width: 75px; 
+            max-height: 75px;
+        }
+        
+        .guides-menu-row {
+            gap: 5px; 
+        }
+
+        .guides-menu {
+            gap: 7px; 
+            padding: 10px 10px 20px;
+        }
+    }
+</style>
 

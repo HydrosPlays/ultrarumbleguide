@@ -1,0 +1,387 @@
+<style>
+.character-box {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.character-card {
+    display: flex;
+    flex-direction: row;
+    width: 100%; 
+    max-width: 520px; 
+    padding: 15px;
+    gap: 15px;
+    text-align: left;
+    background-color: #24262E;
+    border-radius: 12px;
+    box-sizing: border-box; 
+    overflow: hidden;
+}
+
+.character-image {
+    max-height: 135px;
+    align-self: center;
+}
+
+.currency-image {
+    max-width: 35px;
+    max-height: 35px;
+    vertical-align: middle;  
+}
+
+.currency-heading {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.container-image-icon {
+    flex: 1 1 auto;
+    max-width: 100px;
+    max-height: 150px;
+    object-fit: contain;
+}
+
+@media (max-width: 768px) {
+        .container-image-icon {
+            max-width: 75px; 
+            max-height: 100px;
+        }
+        
+        .image-container {
+            gap: 5px;
+            margin-bottom: 10px;
+            padding: 7px;
+        }
+}
+
+
+</style>
+
+<p align="center">
+    <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide-generalplayer.jpg" width="100%" />
+</p>
+
+# <a style="color: rgba(255,100,100,255) !important;">THE POISON MIST: Feeling The Mist...</a><br>
+In this sub-guide you'll learn to make use of the Poison Mist to your advantage! As well as important data related to it. Feel the mist.
+
+# Introduction: A Strategic Element of Life and Death
+The Poison Mist is an incredibly valuable strategic element, and learning how to take full advantage from it will be key to survive, as paradoxical as it might sound. The mist can be used both in the offense and the defense, but it's most common usage is on the defense. One thing you must learn about the mist if you are a new-ish player is to not be deeply afraid of it. It's encouraged to feel the mist and get familiar with its damage and how much you're able to do inside of it.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/poizun-icon.png" width="40%" />
+</p>
+<br>
+
+# Poison Mist Data Information and Timing
+
+The Poison Mist's "timer" will start the moment you go inside of it. After 1 second has passed, you will start taking damage. If you've been knocked into the Poison Mist but have i-frames, the timer will still move even though you have i-frames. If you surrender your i-frames by using a skill, you will instantly take damage, which is why it's not a good idea to use a mobility skill at 2 HP if you're slightly inside the mist, because otherwise it will deal DMG instantly, downing you in the spot.
+Support character multipliers help with making Mini Greens better in storm. By default Mini Greens heal 100 hp, with 1 support member increases the heal to 110 HP, 2 support characters increase the heal to 125 HP and 3 support characters increase to heal to 150 HP.
+
+Below the minimap there's a white number in a purple circle, this signals the "Phase" of the match you are in. Matches have 8 phases ranging from Phase 1 (no mist) to Phase 8 (safe zone closes), here's how much damage the mist does per phase:
+
+- Phase 1: -10 HP/s - Can drink a Mini HP Drink at more than 30 HP, a Large HP Drink/Revive Card at more than 60 HP, a Team Heal at more than 80 HP and open a Large Chest at more than 130 HP.
+- Phase 2: -10 HP/s - Can drink a Mini HP Drink at more than 30 HP, a Large HP Drink/Revive Card at more than 60 HP, a Team Heal at more than 80 HP and open a Large Chest at more than 130 HP.
+- Phase 3: -13 HP/s - Can drink a Mini HP Drink at more than 39 HP, a Large HP Drink/Revive Card at more than 78 HP, a Team Heal at more than 104 HP and open a Large Chest at more than 169 HP.
+- Phase 4: -15 HP/s - Can drink a Mini HP Drink at more than 45 HP, a Large HP Drink/Revive Card at more than 90 HP, a Team Heal at more than 120 HP and open a Large Chest at more than 195 HP.
+- Phase 5: -20 HP/s - Can drink a Mini HP Drink at more than 60 HP, a Large HP Drink/Revive Card at more than 120 HP, a Team Heal at more than 160 HP and open a Large Chest at more than 260 HP.
+- Phase 6: -23 HP/s - Can drink a Mini HP Drink at more than 69 HP, a Large HP Drink/Revive Card at more than 138 HP, a Team Heal at more than 184 HP and open a Large Chest at more than 299 HP.
+- Phase 7: -23 HP/s - Can drink a Mini HP Drink at more than 69 HP, a Large HP Drink/Revive Card at more than 138 HP, a Team Heal at more than 184 HP and open a Large Chest at more than 299 HP.
+- Phase 8: -28 HP/s - Can drink a Mini HP Drink at more than 84 HP, a Large HP Drink/Revive Card at more than 168 HP, a Team Heal at more than 224 HP and open a Large Chest at more than 364 HP.
+- Phase 9: -40 HP/s - Can drink a Mini HP Drink at more than 120 HP, a Large HP Drink/Revive Card at more than 240 HP, a Team Heal at more than 320 HP and open a Large Chest at more than 520 HP.
+
+A single Support Ability Card can negate the damage from Phase 1 and 2 mists, while two of them at the same time can negate that of Phase 5 and below.<br>
+It is important to note for opening a Large Chest in storm you need enough HP to be able to use a heal afterwards so that you do not go down to the mist.<br>
+Roll cancel after your heal to maximize amount heals you can use in the storm, it takes 75% of a second to roll, with no roll it takes over a second to heal again.<br> 
+HP Defense tunes can reduce the damage of the Poison Mist if you have enough of them, being able to reduce its damage by 1, and by 2 if it's the final mist. 
+<br>
+<br>
+
+# Poison Sickness
+
+In Season 16, a new mechanic was added where the Poison Mist does 50% more damage when the player has been inside the Poison Mist for over 10 seconds. This makes prolonged exposure to the Poison Mist more dangerous than usual, requiring more healing items and being overall less forgiving to those wanting to stay inside for long amounts of time (or even short ones). The special tune "Area Reduction" from Star and Stripe helps mitigate Poison Mist damage for 13 minutes (at level 11), as well as Support Ability Cards and Star's special action. Be careful with timing your heals before the 10 seconds mark, as the damage might increase right before you finish drinking your healing item.
+
+# The Poison Mist: Repositioning and Safe Pockets
+
+The first defensive use of the Poison Mist (and also the safest) is to not treat it like an absolute wall, and instead, go inside and exit it from another point. This can be useful when the mist has engulfed part of a building, where if you go inside the mist you can access the stairs that lead to the second floor and leave the mist in this second floor. Many new players (and sometimes even the average player) treat the mist like an absolute wall, which leaves them in a vulnerable and cornered position when attacked sometimes, however, if you're able to run away to a safer place by briefly entering the Poison Mist, do it.
+
+Sometimes, depending on where the mist stops, there might be tiny gaps between buildings and the mist's edges that are barely big enough to fit a player without making you take poison DMG. If the final circle is chaotic, finding these spots can be a blessed healing spot, since most people won't try to go into such a tiny space if they don't need to heal. You could also use these to revive teammates, as it will be slightly harder to interrupt you in such spot.
+<br>
+<br>
+
+# The Poison Mist: Retreat and Aggro Cancelling
+
+When a player is injured, the common response is to find a place to heal and drink healing items, however, this is not always possible, due to a crowded final circle or a team/enemy focusing you. When this occurs, you can either use mobility skills to make yourself hard to hit until you find a healing spot, or you can retreat to the Poison Mist. The mist does damage every second, which makes it a dangerous place to stay in, more so the further into a match you are, however, people usually prefer to avoid going inside, which is why it can often be a good healing or revive spot. If you keep taking HP Drinks, you can extend your survival in the Poison Mist for as long as you have HP drinks. If you have low HP, you should drink small drinks until you have enough HP to drink a large one, after which you can attempt to take a GP drink and try your best to keep your HP high enough until you leave the mist. This can be resource heavy in some occasions, but it's better than dying, especially if you can pull off resurrection your teammates in it.
+
+Full Support Drinks (the ones that recover all HP and GP for you and the team) come incredibly handy for this, as they allow you to regenerate your GP and HP at the same time, making it so you don't have to worry about replenishing the HP you lost while taking the GP drink. Another useful item for Poison Mist retreats are Support Ability Cards, as those can heal you pasively, buying you more time to drink healing items that otherwise you wouldn't have enough time to.
+
+Depending on who you're facing, some teams or players might casually chase you inside the Poison Mist (this is especially common early game, where it does little damage, but it still happens in late game), but if you have support ability cards and/or delay your wake-up as much as possible (through a ground wake-up), you make your character slowly get up while taking no poison DMG, but the enemy will be taking poison DMG the whole time, making it risky for them to continue fighting and retreat (though some people might still fight, even if it gets them killed). Some teams might have characters that can resurrect teammates, these can be dangerous as the consequences of their teammates perishing in the mist are lower than usual.
+
+If you feel your enemy is the kind to really insist and pressure, you might want to refuge deeper into the Poison Mist, or simply take an unpredictable path. If possible, look at the minimap and look at the location the safe zone will move to, that way if you happen to die or get downed, the safe zone will come to you and it will be safer and easier for teammates to help you out or get your badge if you die.
+
+Keep in mind that this strategy works pretty well for 350-400 HP characters, but is terrible for 225-250 HP ones. Poison DMG is fixed, it's not a percentage, so characters with less base HP will die sooner.
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7CyeoWMx38?si=xMe2CtJYVkMJPINP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+<br>
+<br>
+
+# The Poison Mist: Safe Death
+
+If you don't see yourself surviving, try to die inside the Poison Mist, specifically in the direction the safe zone will go. This can sometimes be useful since dying in the safe zone will expose your loot to the enemy, but dying inside the Poison Mist can potentially discourage the enemy from looking too much into your dead body (if at all), so your revive cards can stay there for your teammate to pick them up and revive you.
+<br>
+<br>
+
+# The Poison Mist: Extended Survival and Camping
+
+A tactic that is often frowned upon (mostly if only 2 teams remain alive) is "Storm Camping", a strategy where you attempt to survive in the Poison Mist for as long as possible through Support Ability Cards, your HP drinks, and the HP drinks on the ground from people that have been KOd. While Storm Camping, you will be in a "safe" position where players won't usually target you, as you will often be too far away to be even noticed. This can be useful in crowded circles or when facing people that you know will erase you, or simply if you need to revive your teammates and are looking for a good chance to do so, you could even revive them inside the Poison Mist if doing so inside the safe zone looks too risky.
+
+Sometimes you might be forced to stay for a long while, either because you're trying to get the badge of a teammate that died really deep into the Poison Mist, or to avoid being targeted by a specific team as soon as you come back in.
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AtE5tpCihIs?si=DEw7m5fXEMcK18u6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<br>
+<br>
+
+# The Poison Mist: Surviving A Closed Circle - The Absolute End of a Match
+
+As the match progresses, the safe zone gets smaller, and eventually, it will close, leaving only Poison Mist behind, acting as a way to forcefully kill players. 
+There are two ways of surviving this part: Outresource the Enemy or Kill Them
+
+The most common end to a circle closure (especially in solos) is healing oneself until they either run out of healing items or the enemy does. If you're playing a character with less than Base 300 HP, you won't have enough time to drink a large HP drink, but if you have 300 or more and start drinking as soon as you can while full health, you will be able to survive off large HP drinks (small ones are too weak to outpace the Poison Mist's damage). Something not many people realize is that aside from healing items or fighting the last enemy, there are more ways to influence the outcome of the endgame. When the safe zone closes, the Poison Mist does 40 DMG per second, this means:
+
+- 225 HP characters will be DOWNd in 6 seconds.
+- 250 HP characters will be DOWNd in 7 seconds.
+- 300 HP characters will be DOWNd in 8 seconds.
+- 350 HP characters will be DOWNd in 9 seconds.
+- 400 HP characters will be DOWNd in 10 seconds.
+
+When a character is DOWNd, they will have 400 Down HP regardless of their base HP, but this has an interesting twist. The Poison Mist takes 10 seconds to kill a DOWNd player, however, because 400 divided by 40 is exactly 10, that means that if you had just one extra Down HP, you'd be able to survive for an extra second. By equipping either Mr. Compress's or Strike Hawks's normal tuning you will be able to survive 11 seconds in the final Poison Mist. Theoretically you could extend this to 12 but the means to do so (Fixer) aren't worth the investment.
+
+If your costume has green slots, you might equip HP+ normal tunes such as Overhaul's or Ibara's, these are important too, as on 400 HP characters it will allow them to survive for 11 seconds instead of 10 before being DOWNd, which combined with the Down HP normal tuning will allow you to survive for a total of 2 extra seconds. This can also be applied to 350 HP characters, however doing this for 350 HP characters without a very specific and optimized build will result in a bit of a waste for something so situational.
+
+An alternative approach to the safe zone closing is to fight the enemy. If only one enemy remains, you should attempt to attack them with low downpower moves to avoid triggering knockdown onto them, as that will give them i-frames to avoid taking some Poison DMG, instead you want to do as much damage as possible and be the one knocked down to gain time and let the mist do its job. If you have Plus Ultra you can also use its animation to give you an extra second of survival.
+
+So long as you properly feel the mist, you should be able to win (provided you have the resources).
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ijpLsiwcQoU?si=bJ5qMAmctbgfu_mf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+# The Poison Mist: Weaponizing The Mist
+
+So far we've mostly talked about using the Poison Mist as a refuge, but what about its uses in the offense?
+Using this feature offensively can be a complicated task, after all you cannot grab the mist and put it elsewhere, however, you can force people INTO the mist, and this can have a surprising variety of uses.
+
+Putting aside the possibility of baiting your enemy into following you and outsmart them in a battle inside the Poison Mist, there are some characters and skills that will allow you to use this feature as an extra ally DMG source, let's see some examples.
+
+## Mistkeeping
+
+Mistkeeping is the term we will be using to refer to the act of preventing somebody from coming back to the Safe Zone, using the Poison Mist alongside your own skills to ruin them before they have a chance to come back, a good example of this is All For One (Base), whose Gamma Skill can push enemies further into the Poison Mist if you catch the enemy near the edge, and his Beta Skill's huge hitbox makes it very hard to get past him on many characters, as lategame and endgame mists do so much damage that the enemy will try to come back following the shortest paths possible, which makes their movement predictable. All For One's young version also has good mistkeeping tools, with his Held Beta Skill (the large dark orb) being able to cover a wide area, making it so that they either have to dodge the attack or take 200~ DMG, but under such pressure it can be hard to dodge. His Special Action can also disable Special Actions that give enemies mobility, and his Gamma Skill can essentially lock them out the safe zone until his final burst is ready.
+
+## Mistcasting 
+
+Miscasting is the term we will be using to refer to the act of sending somebody deeper into the Poison Mist. This has two important sides, one dominated by Kurogiri and the other dominated by Assault Ochaco Uraraka.
+
+- Kurogiri and Aggressive Mistcasting: Kurogiri has quite a few ways of sending an enemy deep inside the Poison Mist. At Beta Skill Level 9 he gets maximum portal range, allowing to send enemies very far away. In this position, you can either send them deep into it and hope for the Poison Mist to do the job by itself (maybe with some extra assistance from your part if you see they're about to come back to the safe zone) or you can teleport with them and make sure to interrupt their healing attempts and avoid taking damage to kill them right there. While this can be niche, it can also allow you to get rid of some people for good, as they will often be too deep into the Poison Mist to make it worth for their teammates to grab their badge.
+
+- Ochaco Uraraka and Hindering Resurrection: Assault Ochaco Uraraka has an interesting property on her Held Alpha Skill (the close-range swing), this being its heavy knockback. If you or your team manage to DOWN a player close to or inside the Poison Mist, then you can try to either use Held Alpha + Normal Alpha or Held Alpha + Held Alpha to send their DOWNd body deep into the Poison Mist, making it harder for enemy teammates to retrieve the badge. This is especially effective if done opposite to where the Safe Zone will move, as the window to retrieve said badge will be tigther or sometimes non-existent. Even if the enemy tries really hard to retrieve it and succeeds, they will come out of the Poison Mist with little resources and possibly vulnerable, which will hinder their chances at winning.
+
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kurogiri_support.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/uraraka_assault.png" />
+</div>
+
+## Mistbanning
+
+Mistbanning is the term we will be using to refer to the act of preventing the enemy from refuging in the Poison Mist, specifically, from inside the Safe Zone, an ideal tactic to kill refugees without risking your own life.
+
+When it comes to Mistbanning, you want characters that have Long Range Wall-Through Attacks. If you know the enemy's rough position, you can use skills such as Strike Endeavor's gamma skill, Assault Endeavor's beta skill, Tamaki Amajiki's gamma, or Cementoss's gamma. However, a character that excels at Mistbanning and almost (if not entirely) shuts down the strategy completly is Technical Tomura Shigaraki and his Alpha Skill, which aside from having a decently long range, doing high damage and going through walls, it can also let you see the enemy's HP, position and silouhette, which lets this character know in detail the enemy's position and state, making them unable to hide and eventually perishing. While using Technical Shigaraki's Search and Alpha Attack can be ammo-heavy, you could get away with only using Search, as using this warns the enemy player that they are being seen, which might make them panic and try to move away even before you've attacked, reducing the window they have to heal without dying to the Poison Mist.
+
+# Characters
+## Good Poison Mist Refugees
+
+<section class="character-box">
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/momo_support.png">
+        <div>
+            <h3>Momo Yaoyorozu</h3>
+            <p>Having 350 HP and a Special Action that spawns healing items allows her to take refuge or revive allies inside the Poison Mist with more ease than other characters, especially in buildings, where she thrives.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/star_strike.png">
+        <div>
+            <h3>Star and Stripe</h3>
+            <p>Star and Stripe is really good at seeking refuge in the Poison Mist, as her special action allows her to not only nullify the Poison Mist, but also use its damage to heal herself. This special action gets shorter every phase, so while it's useful in every phase, it really shines in early ones, where her field can remain in the battlefield for longer.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/ibara_support.png">
+        <div>
+            <h3>Ibara Shiozaki</h3>
+            <p>Her 400 HP paired with her strong close-range abilities makes her a good choice for seeking refuge in the Poison Mist, especially inside buildings or around tight corners, where she might be able to use her gamma on enemies who decide to chase her inside, sentencing the enemy to a pretty much guaranteed death.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kurogiri_support.png">
+        <div>
+            <h3>Kurogiri</h3>
+            <p>With 350 HP, Kurogiri stands as one of the best if not the actual best Poison Mist refugee, able to instantly hop between the deep Poison Mist and the Safe Zone, which means he's also less resource-intensive as he doesn't have to use healing items while trying to come back into the Safe Zone, he can just do it instantly. Kurogiri is also able to reset his aggro by hopping in and out of the mist quickly, making it hard to keep track of him. He can also easily save allies inside the mist and quickly allow them to quickly come back to the safe zone.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/overhaul_support.png">
+        <div>
+            <h3>Overhaul</h3>
+            <p>One of the best choices along Kurogiri for mist refuge. Sitting at 350 HP, Overhaul can safely retreat to the Poison Mist when endangered thanks to his Special Action, which allows him to heal himself if he mistimes a healing item or gets chased into the mist. His special is also really useful because it refills GP, allowing you to come out of the Poison Mist with GP without the need of losing HP while trying to take a GP Drink.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/armormight_technical.png">
+        <div>
+            <h3>Armored All Might</h3>
+            <p>This character has everything, from high HP to insane mobility and a tool to attack while healing or stunned. When you pair his 350 HP with a mobility that lets him get in and out of the mist with ease you get a character with insane survivability potential, which is highlighted even more with his gamma skill, which can buy him time and/or allow a counterattack if followed.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_technical.png">
+        <div>
+            <h3>Dabi</h3>
+            <p>A 350 HP character with solid defensive options that can be harder to bypass in the Poison Mist. He can protect himself from many damage sources and even leave nearly-invisible traps that will either damage the enemy or slow them down while they try to dispel your traps. If he doesn't make it in time to the safe zone but gets close enough, he might be able to revive himself with his Special Action.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png">
+        <div>
+            <h3>All For One</h3>
+            <p>His 400 HP and skills that allow him to control his area make him a safe bet when it comes to seeking refuge inside the Poison Mist. If he has a Stolen Quirk, the type of quirk he has can strongly influence how much better he is at this.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kirishima_assault.png">
+        <div>
+            <h3>Eijiro Kirishima</h3>
+            <p>This character can safely use the Poison Mist in his favor thanks to his 400 HP and Hardening State, which makes it easier for him to win battles in the Poison Mist and resist attacks if attacked after leaving the mist.</p>
+        </div>
+    </div>
+</section>
+
+## Good Poison Mist Punishers
+
+<section class="character-box">
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_technical.png">
+        <div>
+            <h3>Tomura Shigaraki (Thousand-Hand Break)</h3>
+            <p>This is by far the most deadly character against Poison Mist refugees, being able to know their exact location and state and strike them through walls when most convenient. His Search alone can make many panic even if no attack follows after, which can sentence them to die in the mist before they finish the drink.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/yafo_assault.png">
+        <div>
+            <h3>All For One -Youth Age-</h3>
+            <p>A character that shines at Mistkeeping thanks to gamma (and to an extent his Special Action, as it can lock away the mobility of characters like Hawks), which can keep the enemy in place and take extra Poison DMG, which will be followed by gamma's massive powerful burst, killing or leaving the player very vulnerable. If an enemy decides to hide deeper into the mist and you know their rough location, you can use a Held Beta, since even though you won't be able to land the full damage, you will be able to interrupt their healing and do some extra damage which can put the enemy in a serious disadvantage.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tamaki_strike.png">
+        <div>
+            <h3>Tamaki Amajiki</h3>
+            <p>This character is able to use his gamma skill to deal massive damage through walls from very far away. If you know the enemy's rough location, you can shoot and turn your cannon if you've missed. Even if you don't hit the enemy, you will likely at least make them move, interrupting their healing. However, if you are running the Perception special tuning, you might be able to hit this move with ease, ruining the enemy's chances at recovering their health, this only works if the enemy retreated right after you've applied the Marked effect on them though.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/endeavor_strike.png">
+        <div>
+            <h3>Endeavor</h3>
+            <p>A character with a powerful gamma skill with a huge range and area (mainly at high levels) that's more forgiving when it comes to punish Mist refugees if you know their rough location. In some occasions, you might be able to also use his beta skill to achieve this, as the flame pillar goes through walls.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png">
+        <div>
+            <h3>All For One</h3>
+            <p>While not an optimal choice for safe Mistbanning, he's a strong choice for Mistkeeping, with huge beta and gamma skills that can lock the enemy inside the Poison Mist. With a good Stolen Quirk this can be amplified even further.</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mtlady_assault.png">
+        <div>
+            <h3>Mt. Lady (Gigantified)</h3>
+            <p>A decent but not optimal Mistbanning character, but one that does a better job at Mistkeeping while Gigantified. Her giant gamma skill and melees can make it difficult for the enemy to escape, as this character is basically a giant wall that does damage.</p>
+        </div>
+    </div>
+</section>
+
+<hr style="height: 10px; background-color: white; border: none;">
+
+
+<style>
+    .guides-menu {
+        display: flex;
+        flex-direction: column;
+        margin: 20px auto 20px auto; 
+        justify-content: center;
+        max-width: 1000px;
+        gap: 15px;
+        padding: 20px 20px 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #24262E;
+        border-radius: 12px;
+    } 
+    
+    .guides-menu-row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    } 
+
+    .guide-icon {
+        flex: 0 0 auto;
+        width: 175px;
+        height: 175px;
+        box-sizing: border-box;
+    }
+
+    .guide-icon img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; 
+    }
+
+    @media (max-width: 768px) {
+        .guide-icon {
+            max-width: 75px; 
+            max-height: 75px;
+        }
+        
+        .guides-menu-row {
+            gap: 5px; 
+        }
+
+        .guides-menu {
+            gap: 7px; 
+            padding: 10px 10px 20px;
+        }
+    }
+</style>

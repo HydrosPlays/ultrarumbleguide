@@ -1,1 +1,222 @@
+<p align="center">
+    <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
+</p>
+
+# <a style="color: lightblue !important;">GACHA, BANNERS AND ROLLING</a><br>
+In this sub-guide you'll learn about the Gacha and its banners and the depressive act of rolling for a character!
+
+# The Gacha
+This is the feature through which you obtain the vast majority of battle styles (term that refers to both characters and sets of skills), costumes, emotes ans voicelines. Normally, to roll on this banners you require of 10 Roll Tickets/1200 Hero Crystals for a single pull, or 100 Roll Tickets/12000 Hero Crystals for a 10-pull.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gacha.png" width="40%"/>
+</p>
+
+The gacha in this game does not have a pity system, but it has the "Points Exchange" system. Basically, every pull gives you 1 Exchange Point in that specific banner, and these points can be exchanged for the banner's featured costumes or battle styles/characters. 
+- With 100 Exchange Points (the equivalent to 1000 Roll Tickets or 120,000 Hero Crystals) you can get a featured costume of your choice.
+- With 200 Exchange Points (the equivalent to 2000 Roll Tickets or 240,000 Hero Crystals) you can get the banner's featured battle style, as well as the rest of the gacha-only battle styles matching the banner type.
+
+Be aware that even though the exchange screen shows 3 options, you can actually scroll down. Be careful when scrolling because it's very easy to miss costumes and battle styles, so you might think they aren't available when they actually are.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gacha2.png" width="40%"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gacha3.png" width="40%"/>
+</p>
+
+If the banner goes away, the unspent Exchange Points will be converted into Hero Souls, but not kept as Exchange Points, keep that in mind. However, a cool thing about the gacha is that even if you get a featured costume or battle style, you don't lose these Exchange Points, which means that you can still give them a use by unlocking a costume you don't have or, if you're close enough to 200 Exchange Points, exchange them for another battle style you lack.
+
+Duplicate items will be converted to Hero Souls, up to 200 (for Battle Styles) and nameplates if it's a duplicate battle style (each battle style has 3 nameplates linked to them, so getting a 4th duplicate won't give you a nameplate), however, duplicated costumes will unlock 1 tuning slot for that costume, which in the case of PUR costumes also means you unlock an extra aura for that costume.
+
+There are 5 types of banner (sort of), these being:
+
+## Original Character Roll
+These are the most basic type of banner, here you can spend Roll Tickets or Hero Crystals for a chance to get the featured Original Battle Style (or the featured costumes). An Original Battle Style is the base set of skills the character released with, and the one you can play for free for a limited amount of daily uses using Rental Tickets. In these banners you can obtain or exchange points for the following battle styles:
+
+<style>
+    .image-container {
+        flex-direction: row;
+        padding: 15px;
+    }
+
+    
+    .container-image-icon {
+        flex: 1 1 auto;
+        max-width: 100px;
+        max-height: 150px;
+        object-fit: contain;
+    }
+
+    .role-image {
+        max-width: 35px;
+        max-height: 35px;  
+    }
+
+    .role-heading {
+        display: flex;
+        font-weight: 700;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .role-heading p {
+        margin: 0;
+        line-height: 1.2;
+        display: flex;
+        align-items: center;
+    }
+
+@media (max-width: 768px) {
+        .container-image-icon {
+            max-width: 75px; 
+            max-height: 100px;
+        }
+        
+        .image-container {
+            gap: 5px;
+            margin-bottom: 10px;
+            padding: 7px;
+        }
+}
+
+.container-image-icon {
+    max-width: 100px !important;
+}
+</style>
+
+<div class="image-container"> 
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/ogbanner.png" />
+</div>
+
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dekuofa_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tokoyami_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tamaki_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nejire_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shinso_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/armormight_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirko_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/star_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/yafo_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kurogiri_support.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/gentle_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nagant_strike.png" />
+</div>
+
+## Alternative Character Roll
+These are the other most basic type of banner, here you can spend Roll Tickets or Hero Crystals for a chance to get the featured Alternative Battle Style (or the featured costumes). An Alternative Battle Style is an alternative set of skills for that character in case you don't like the normal (original) battle style or simply like the alternative one more. You don't need the Original Battle Style to use the Alternative ones.
+
+These are sometimes seen as more valuable to some players due to the fact that Rental Tickets cannot be used on Alternative Battle Styles, meaning you can only test them for free in Training Mode, not in actual matches. In these banners you can obtain or exchange points for the following battle styles (Twice and Froppy are not yet available):
+
+<div class="image-container"> 
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/qssbanner.png" />
+</div>
+
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/uraraka_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/froppy_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kirishima_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kendo_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nejire_support.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/aizawa_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/endeavor_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/twice_support.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/overhaul_assault.png" />
+</div>
+
+## Costume Pick-Up Roll
+These are special banners that focus on costumes (mainly for a specific character), and as such you cannot obtain Battle Styles from them. Unlike regular banners, you cannot use Roll Tickets on these, only Hero Crystals (10,000 to be precise), but the Exchange System still exists. Whether or not these are worth it is for you to decide. Compare odds by pressing "Drop Rates" and see if you're interested, normally the odds of obtaining a specific featured costume is 0.8% (featured battle styles are 1%), so most people don't think it's worth it, but if you really want that skin, you can give it a thought.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/costumebanner.png" width="40%"/><br>
+</p>
+
+## Step Up Gacha
+These are rare banners that use a special system. The way these work is that everytime you roll, you move one step further. Each step does different things, for example, the first step is usually free, then the second will ask you to spend an amount of Hero Crystals, and then the next might ask you a higher amount but will guarantee one of two battle styles (or costumes). If you've played 2D gachas, this should sound familiar.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/stepupbanner.png" width="40%"/><br>
+</p>
+
+## Special Banners
+Here fall all unique banners. Each banner has its own rules so make sure to check their inner workings. Banners in this category can include the Anniversary Special Gacha and the Beginner Mission Gacha. The Beginner Mission Gacha allows you to get one random gacha-only Original Battle Styles by using a special ticket for that banner, which you get after completing every beginner mission. 
+
+<hr style="height: 10px; background-color: white; border: none;">
+
+<br>
+
+# Beating The Gacha
+There are a few ways to optimize your pulls in My Hero Ultra Rumble.
+
+## Pull Only When You Have 2000 Tickets or equivalent
+Obtaining a Battle Style is only guaranteed through exchanging 200 points for the Battle Style you want, which you get from pulling 200 singles/20 multi-pulls. After a banner ends, those points don't carry over to the next banner, so if you want to maximize ticket utility, make sure to only pull if you have 2000 tickets to use. If you get the Battle Style beforehand, you can redeem a costume with those points instead, or let them convert into Hero Souls once the banner ends, but there's also another strategy right below.
+
+## Double Prize
+If you happen to be unlucky enough to get the Battle Style you wanted in the 180-200th pull, you might actually be lucky, since getting the Battle Style does not remove your points, meaning that you can get another Battle Style for free. For example, if you're at, say, the 180th pull, you can spend 200 more tickets to guarantee another Battle Style.
+
+## Roll For What You Truly Want
+Many people roll for a character and later realize they don't like them, either because of playstyle, power level, or mechanical feeling. Before rolling, make sure to try the character in training more or, if it's a Battle Style Original, then try them out in an actual match with Rental Tickets. The next character or the 2nd next might actually fit you more, even if at first glance it might not look like it, so make sure you're sure you want to pull for that character, surely you don't want to spend your whole stash for a character you'll use 4 matches alone.
+
+## Comfortable Barrier
+Stockpiling tickets for long periods of time is a great way to ensure you will never be screwed over, as you will have the ability to get everything in a season without having to spend money. This may be hard for many to do, but this may be worth considering if you are specifically waiting for your favorites to get added.
+
+## Wait For Season Trailer
+If a release happens late in the season and you are on the fence about it, then simply wait for the new season trailer to drop. If you are impressed by the releases they show then consider not getting the item in order to have more tickets for the season after, however, if the season only shows characters/costumes that you aren't intrested in then you likeely won't want to spend much next season anyway and can grab the item before the season ends.
+
+<style>
+    .guides-menu {
+        display: flex;
+        flex-direction: column;
+        margin: 20px auto 20px auto; 
+        justify-content: center;
+        max-width: 1000px;
+        gap: 15px;
+        padding: 20px 20px 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #24262E;
+        border-radius: 12px;
+    } 
+    
+    .guides-menu-row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    } 
+
+    .guide-icon {
+        flex: 0 0 auto;
+        width: 175px;
+        height: 175px;
+        box-sizing: border-box;
+    }
+
+    .guide-icon img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; 
+    }
+
+    @media (max-width: 768px) {
+        .guide-icon {
+            max-width: 75px; 
+            max-height: 75px;
+        }
+        
+        .guides-menu-row {
+            gap: 5px; 
+        }
+
+        .guides-menu {
+            gap: 7px; 
+            padding: 10px 10px 20px;
+        }
+    }
+</style>
 
