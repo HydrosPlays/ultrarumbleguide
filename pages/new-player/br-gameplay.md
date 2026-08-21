@@ -1,6 +1,7 @@
 <p align="center">
     <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
 </p>
+<em style="font-size: 14px;">Last Update: July 30th 2026</em>
 
 # <a style="color: lightblue !important;">BATTLE ROYALE MODE AND GENERAL GAMEPLAY</a><br>
 In this sub-guide you'll learn about My Hero Ultra Rumble's main gamemode: The Battle Royale, along with the gameplay it entails!
@@ -159,7 +160,7 @@ When using Plus Ultra, your character will perform a short animation which rende
 <br>
 Another useful thing about Plus Ultra is that it can be used even in situations where normally you can't do anything, such as while being attacked with an ability that doesn't let you move. This allows you to cancel an enemy combo or attack mid-way, allowing you to avoid damage that you would have otherwise taken. Plus Ultra lasts for 15 seconds, and once the gauge is depleted, the gauge will go back to filling slowly again.<br>
 <br>
-Plus Chaos is a variation of Plus Ultra used exclusively by villain characters, but the change is purely aesthetic, as Plus Ultra and Plus Chaos are mechanically identical.
+Plus Chaos is a variation of Plus Ultra used exclusively by villain characters, but the change is purely aesthetic, as Plus Ultra and Plus Chaos are mechanically identical. Gentle Criminal has a variation of Plus Chaos known as Lover Mode, which increases his reload speed, as well as his damage by a value of 30% (relative to level 9) instead of the usual 20%.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/puaura.png" width="300"/>
@@ -206,7 +207,7 @@ If you've played battle royales before, you might be familiar with the concept o
 <br>
 The mist does little damage at the beginning, taking 10 HP per second, which means that on some characters you can survive inside the Poison Mist for a long period of time, even more if you have healing items, but be careful, the mist only consumes HP, not GP, so GP won't help you. The Poison Mist grows stronger as time passes, taking 10 HP per second at first, then increasing with every phase, until taking 40 HP per second when the Safe Zone closes, at which point you can only survive if  you're quick on using Large HP Recovery Drinks, as small ones can't keep up with the damage. If your teammate dies inside the Poison Mist, you should only try to help them get up if you're a high HP character, have quite a few HP Recovery drinks, aren't low on health, and the teammate is relatively close. Ranged revive abilities such as Ibara's and Cementoss's come handy for this... mostly.<br>
 <br>
-In Season 16, the Poison Mist became stronger thanks to the "Poison Sickness", a property that makes the Poison Mist deal 50% more damage to anybody who stays for longer than 10 seconds inside of it without coming out, making the Poison Mist quite the hostile place after the 10 second mark.
+In Season 16, the Poison Mist became stronger thanks to the "Poison Sickness", a property that makes the Poison Mist deal 50% more damage to anybody who stays for longer than 10 seconds inside of it without coming out, making the Poison Mist quite the hostile place after the 10 seconds mark.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/poisonmist-gif.gif" width="400" />
 </p>
@@ -236,7 +237,7 @@ One of the biggest differences between a noob and a standard player is how they 
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomarun.gif" width="400" />
 </p>
 
-Jumping by itself isn't super special, as your jump height is often low, but some characters like Tsuyu Asui (Froppy) and All For One have higher than usual jumps, which can benefit them. However, jumping is much more useful when using beam attacks that don't lock you in place, like Yellow Deku's alpha, Red Deku's alpha, Red Bakugo's alpha, and overall every shooting skill that lets you move while using it. It's better to use these skills while jumping to the sides to make yourself harder to hit while still attacking.
+Jumping by itself isn't super special, as your jump height is often low, but some characters like Tsuyu Asui (Froppy) and All For One have higher than usual jumps, which can benefit them. However, jumping is much more useful when using beam attacks that don't lock you in place, like Yellow Deku's alpha, Red Deku's alpha, Red Bakugo's alpha, and overall every shooting skill that lets you move while using it. It's better to use these skills while jumping to the sides to make yourself harder to hit while still attacking. 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomajump.gif" width="400" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101Aim2-gif.gif" width="400" />
