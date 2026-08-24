@@ -1,0 +1,308 @@
+<p align="center">
+    <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide-characters.jpg" width="100%"/>
+</p>
+
+# <a style="color: rgba(255,177,82,255) !important;">CHARACTER CLASSES</a><br>
+In this sub-guide you'll learn about character classes (also known as roles) and the colored backgrounds behind characters!
+
+You might have noticed that some characters appear more than once with a different background colors, like how there's a Red Shigaraki, a Yellow one and a Purple one. These are the different sets of skills (better known as Battle Styles) the character can use, for example, yellow Izuku Midoriya shoots, kicks, and can use blackwhip for mobility, while red Izuku Midoriya shoots, stomps the ground with the heel, and creates rock barriers. These colors indicate which class the set of skills is, which also indicates (or attempts to, since many characters either fit more than one class, or don't fit their current class at all) what they specialize in (there are official descriptions for these classes, but these will be ignored for the sake of accuracy):
+
+<style>
+    .image-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        margin-bottom: 20px;
+        padding: 15px;
+    }
+
+    .container-image-icon {
+        flex: 1 1 auto;
+        max-width: 100px;
+        max-height: 150px;
+        object-fit: contain;
+    }
+
+    .role-image {
+        max-width: 35px;
+        max-height: 35px;  
+    }
+
+    .role-heading {
+        display: flex;
+        font-weight: 700;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .role-heading p {
+        margin: 0;
+        line-height: 1.2;
+        display: flex;
+        align-items: center;
+    }
+
+    @media (max-width: 768px) {
+            .container-image-icon {
+                max-width: 75px; 
+                max-height: 100px;
+            }
+            
+            .image-container {
+                gap: 5px;
+                margin-bottom: 10px;
+                padding: 7px;
+            }
+    }
+</style>
+
+<style>
+    .image-container {
+        flex-direction: row;
+        padding: 15px;
+    }
+
+    
+    .container-image-icon {
+        flex: 1 1 auto;
+        max-width: 100px;
+        max-height: 150px;
+        object-fit: contain;
+    }
+
+    .role-image {
+        max-width: 35px;
+        max-height: 35px;  
+    }
+
+    .role-heading {
+        display: flex;
+        font-weight: 700;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .role-heading p {
+        margin: 0;
+        line-height: 1.2;
+        display: flex;
+        align-items: center;
+    }
+
+@media (max-width: 768px) {
+        .container-image-icon {
+            max-width: 75px; 
+            max-height: 100px;
+        }
+        
+        .image-container {
+            gap: 5px;
+            margin-bottom: 10px;
+            padding: 7px;
+        }
+}
+
+.container-image-icon {
+    max-width: 100px !important;
+}
+</style>
+
+<h2 class="role-heading">
+    <p style="color: rgba(255,100,100,255)">Strike - The Damage and Aggression Class</p>
+    <img class="role-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/strikebig.png" />
+</h2>
+
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/todoroki_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/froppy_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kirishima_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kendo_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tamaki_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shinso_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/aizawa_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/endeavor_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/star_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nagant_strike.png" />
+</div>
+Strike Characters focus on damage and/or aggressive playstyles. Characters like Present Mic, Red Itsuka Kendo, Red Denki Kaminari, Red Shoto Todoroki and Red Tomura Shigaraki can deal outstanding amouns of damage in little time. Carrying characters with this class gives the whole party a damage boost that grows higher the more characters with this class are on the team:<br>
+
+- 1 Strike Party Member: x1.05 DMG Boost
+- 2 Strike Party Members: x1.10 DMG Boost
+- 3 Strike Party Members: x1.20 DMG Boost
+ 
+Characters with this class are often referred to by the community as "Red" or "Strike", after which follows the character's name.
+<br>
+
+<h2 class="role-heading">
+    <p style="color: yellow">Assault - The Defense, Close-Combat and Heavyweight Class</p>
+    <img class="role-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/assaultbig.png" />
+</h2>
+
+<p class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/uraraka_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kirishima_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tokoyami_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kendo_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/endeavor_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mtlady_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/yafo_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/overhaul_assault.png" />
+</p>
+Assault Characters can focus on defense and close-combat (like Yellow Itsuka Kendo and Yellow Eijiro Kirishima), have massive attacks that cover a wide area and are often slightly slow to execute (Yellow Endeavor, Young All For One, Mt Lady) or remain in a more neutral/all-rounder ground (Yellow Deku and Yellow Tomura Shigaraki). Carrying characters with this class gives the whole party a defense boost (damage reduction) that grows higher the more characters with this class are on the team:<br>
+
+- 1 Assault Party Member: x0.95 DMG Reduction Boost
+- 2 Assault Party Members: x0.90 DMG Reduction Boost
+- 3 Assault Party Members: x0.80 DMG Reduction Boost
+
+Characters with this class are often referred to by the community as "Yellow" or "Assault", after which follows the character's name.
+<br>
+
+<h2 class="role-heading">
+    <p style="color: cyan">Rapid - The Fast and Agile Class</p>
+    <img class="role-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/rapidbig.png"/>
+</h2>
+
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dekuofa_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/uraraka_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/iida_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/froppy_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirko_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/twice_rapid.png" />
+</div>
+Rapid Characters focus on agility and/or speed, they're often highly mobile and slippery characters that usually have an easy time moving from one place to another, and sometimes even be difficult to hit due to their agility or staying in the air for long. These character's are usually characterized by having the lowest HP on the game, which makes them more fragile than the rest of the cast in that regard. Carrying characters with this class gives the whole party a speed boost that grows higher the more characters with this class are on the team:<br>
+
+- 1 Rapid Party Member: x1.05 Speed Boost
+- 2 Rapid Party Members: x1.10 Speed Boost
+- 3 Rapid Party Members: x1.20 Speed Boost
+
+Characters with this class are often referred to by the community as "Blue" or "Rapid", after which follows the character's name.
+<br>
+
+<h2 class="role-heading">
+    <p style="color: lime">Support - The Protection and Revival Class</p>
+    <img class="role-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/supportbig.png"/>
+</h2>
+
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/momo_support.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/ibara_support.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nejire_support.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/cementoss_support.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/twice_support.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mrcompress_support.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kurogiri_support.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/overhaul_support.png" />
+</div>
+Support Characters focus on interrupting the enemy with abilities that easily stop their movement and/or abilities to block exits, as well as often possessing other helpful skills like healing (Overhaul) or resurrection (Ibara, Cementoss) skills. Keep in mind that even though these characters have support characteristics, they very well work as competent damage dealers, sometimes even performing better than characters in the Strike Class. Carrying characters with this class gives the whole party a Recovery Item Effect Boost that increases the amount of healing you receive from recovery items and grows higher the more characters with this class are on the team.<br>
+
+- 1 Support Party Member: x1.10 Recovery Item Effect Boost
+- 2 Support Party Members: x1.25 Recovery Item Effect Boost
+- 3 Support Party Members: x1.50 Recovery Item Effect Boost
+
+Characters with this class are often referred to by the community as "Green" or "Support", after which follows the character's name.
+<br>
+
+<h2 class="role-heading">
+    <p style="color: rgba(175,100,237,255)">Technical - The Special and Quirky Class</p>
+    <img class="role-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/technicalbig.png"/>
+</h2>
+
+<div class="image-container">
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/todoroki_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nejire_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/armormight_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/aizawa_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/gentle_technical.png" />
+</div>
+
+Technical Characters focus on unusual or/and miscelaneous abilities, such as traps (Dabi), or abilities that perform really well indoors, or other unique abilities like Mirio Togata's counter, Neito Monoma's metal form or Tomura Shigaraki's Search. Carrying characters with this class gives the whole party a reload speed boost that grows higher the more characters with this class are on the team.<br>
+
+- 1 Technical Party Member: x1.10 Reload Speed Boost
+- 2 Technical Party Members: x1.25 Reload Speed Boost
+- 3 Technical Party Members: x1.50 Reload Speed Boost
+
+Characters with this class are often referred to by the community as "Purple" or "Tech", after which follows the character's name.<br>
+<br>
+
+<hr style="height: 10px; background-color: white; border: none;">
+
+<style>
+    .guides-menu {
+        display: flex;
+        flex-direction: column;
+        margin: 20px auto 20px auto; 
+        justify-content: center;
+        max-width: 1000px;
+        gap: 15px;
+        padding: 20px 20px 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #24262E;
+        border-radius: 12px;
+    } 
+    
+    .guides-menu-row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    } 
+
+    .guide-icon {
+        flex: 0 0 auto;
+        width: 175px;
+        height: 175px;
+        box-sizing: border-box;
+    }
+
+    .guide-icon img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; 
+    }
+
+    @media (max-width: 768px) {
+        .guide-icon {
+            max-width: 75px; 
+            max-height: 75px;
+        }
+        
+        .guides-menu-row {
+            gap: 5px; 
+        }
+
+        .guides-menu {
+            gap: 7px; 
+            padding: 10px 10px 20px;
+        }
+    }
+</style>

@@ -2,7 +2,7 @@
     <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
 </p>
 
-# <a style="color: rgba(175,100,237,255) !important;">AREA CONTROL BATTLE</a><br>
+# <a style="color: lightblue !important;">AREA CONTROL BATTLE</a><br>
 In this sub-guide you'll learn about the area control battle gamemode! A mode where two teams of 3 compete against another two teams of 3 for areas and points!
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/acb-thumbnail.jpg" width="800"/>
@@ -48,5 +48,59 @@ In terms of sustain, you will find a new type of healing item near areas called 
 
 If your HP and GP reach zero, you will be KOd instead of DOWNd, making Special Actions and Tuning Abilities that rely on the DOWNd state useless, such as every revive special action. Once you die, you will have to wait a few seconds before you're sent back to the sally to either switch to your other character or select a different landing spot if available.
 
+<hr style="height: 10px; background-color: white; border: none;">
+
+<style>
+    .guides-menu {
+        display: flex;
+        flex-direction: column;
+        margin: 20px auto 20px auto; 
+        justify-content: center;
+        max-width: 1000px;
+        gap: 15px;
+        padding: 20px 20px 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #24262E;
+        border-radius: 12px;
+    } 
+    
+    .guides-menu-row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    } 
+
+    .guide-icon {
+        flex: 0 0 auto;
+        width: 175px;
+        height: 175px;
+        box-sizing: border-box;
+    }
+
+    .guide-icon img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; 
+    }
+
+    @media (max-width: 768px) {
+        .guide-icon {
+            max-width: 75px; 
+            max-height: 75px;
+        }
+        
+        .guides-menu-row {
+            gap: 5px; 
+        }
+
+        .guides-menu {
+            gap: 7px; 
+            padding: 10px 10px 20px;
+        }
+    }
+</style>
 
 

@@ -1,1 +1,660 @@
+<style>
+    .tuning-box {
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
 
+    .tuning-card {
+        display: grid;
+        grid-template-columns: 1fr 4fr;
+        width: 100%; 
+        max-width: 520px; 
+        padding: 15px;
+        gap: 15px;
+        text-align: left;
+        background-color: #24262E;
+        border-radius: 12px;
+        box-sizing: border-box; 
+        overflow: hidden;
+    }
+
+    .tuning-card-mini {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 3px;
+    }
+
+    .tuning-image {
+        max-height: 125px;
+        max-width: 125px;
+        align-self: center;
+    }
+
+    .tuning-image-mini {
+        max-height: 80px;
+        max-width: 80px;
+    }
+
+
+    .currency-image {
+        max-width: 35px;
+        max-height: 35px;
+        vertical-align: middle;  
+    }
+
+    .currency-heading {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .role-image {
+        max-width: 35px;
+        max-height: 35px;  
+    }
+
+    .role-heading {
+        display: flex;
+        font-weight: 700;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .role-heading p {
+        margin: 0;
+        line-height: 1.2;
+        display: flex;
+        align-items: center;
+    }
+
+    @media (max-width: 768px) {
+            .tuning-image {
+                max-width: 100px; 
+                max-height: 100px;
+            }
+            .tuning-image-mini {
+                max-width: 70px; 
+                max-height: 70px;
+            }
+    }
+</style>
+
+<p align="center">
+    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/guide-tuning.jpg" width="100%"/>
+</p>
+
+# <a style="color: rgba(255,245,138,255) !important;">T.U.N.I.N.G.: Learning How It Works</a><br>
+In this sub-guide you'll learn about what's the T.U.N.I.N.G. System and how to use it! And for the wellbeing of our sanity we will remove the dots and call it Tuning!
+
+# What is the T.U.N.I.N.G. System
+
+Tuning is a game system that allows players to create unique builds that significantly increase their character's power, defense, supportive capabilities, and mobility. It offers a wide variety of effects, from minor stat increases to those that completely change how you play.
+
+Each tuning build is exclusive to the outfit you apply it to, meaning you’ll have to equip the character's tuning by going to your chosen outfit and selecting “Tuning Equip”.
+
+In simple terms, this system allows the player to equip 10 small buffs (each with 1-2 attributes, such as Alpha DMG, Defense against Gamma skills, more health, etc...) and 2 passive abilities known as Special Tunes.<br>
+<br>
+Keep in mind that even though the game offers a feature that shows the recommended tunes for each character, this feature is flawed in many aspects and might display a mix of popular (yet not always ideal) special tunes, and a mix of wrongly assigned effects, since the game doesn't differentiate between builds used for, say, Yellow Kirishima and Red Kirishima when it comes to special and normal tunes, it only makes a distinction for costumes.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/tuningtuto1.png" width="40%"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/tuningtuto2.png" width="40%"/>
+</p>
+
+# How to tune a character
+To tune a character, you must first select the costume you wish to tune. Keep in mind that PUR and non-PUR costumes have different tuning effectiveness, which will be discussed later.
+
+After opening the menu, you will see two sets of tuning slots. The five smaller slots are arranged in a row, with a single large special tuning slot above them. The small slots are referred to as Normal Tuning Slots and the ones above that stand out are referred to as Special Tuning Slots.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/tuningtuto3.png" width="60%"/>
+</p>
+
+What you need to do is fill the left column's normal tuning slots by clicking them and selecting which buff you wish to set. To place a buff (normal tune) inside a slot, you will need 50 Character Data/Memories (same thing) or Character Data Exchange Tickets. Once you fill a whole column, you will be able to set the special tune of that column (which will cost you 100 character data/memories or character data exchange tickets). Do this in the right column too and you will have a character built. Keep in mind that Character Data Exchange Tickets serve as sort of a wild card that works on any normal tune if you lack the sufficient Character Data/Memories, but this only works with the effects from characters you own, meaning that if you try to set up Red Deku's normal tune (GP Attack Power+) but you don't have him or 50 of his data, then you won't be able to set this tune, you also can't set tunes that match the character you're building (Bakugo tune on a Bakugo build for example).<br>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/tuningtuto4.png" width="60%"/>
+</p>
+<br>
+Technically, you can use Hero Crystals to set up a slot if you lack Character Data/Memories or Character Data Exchange Tickets, but this is heavily discouraged.<br>
+<br>
+
+You might notice that some slots are locked. To unlock them you need Slot Unlock Keys, each slot will cost you 1 Key, 5 Keys or 50 Keys depending on whether the costume is Default/R, SR or PUR respectively. Some locked slots display a "MAX LEVEL" text with arrows in the background, this means that if you unlock those slots, the maximum level of the special tunes in both column will increase (for example, a PUR's max level for special tunes is 10 and 11, but if none of the slots are unlocked yet, it's 6 and 7). Unlocking right-column slots will also unlock auras for that specific costume (but only on PUR costumes).
+
+You can level up both normal and special tunes with Enhancement Parts, which there are 3 types of: Normal Tuning Enhancement Part (White Pieces), Special Tuning Enhancement Part (Black Pieces), and Special Tuning Enhancement Part PUR (Rainbow Pieces).<br>
+<br>
+The white ones are used to level normal tunes (maximum level 3-4), the black ones are used to level special tunes for non-PUR costumes, and the rainbow ones are used to level special tunes for PUR costumes. You might notice some slots have an H or a V, these stand for "Hero" and "Villain", and indicate you can only set tunes given by a Hero or a Villain, which might seem like bad news, but those slots can be leveled one extra level.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/tuningmats.png" width="80%"/>
+</p>
+
+
+<h2> Normal Tuning Slot </h2>
+<p>When you set tuning data in one of these normal slots, it grants your character a small passive effect. Each Normal Tuning Slot can be enhanced using Tuning Slot Enhancement Parts. The maximum level for a Normal Tuning Slot is 3, though certain slots can be upgraded to level 4. This is marked by either an H (Hero) or V (Villain) icon on the slot</p>
+
+<h2>Special Tuning Slot</h2>
+<p>The large tuning slot above the five normal ones is called the “Special Tuning Slot”. It grants your character a small passive ability when specific conditions are met. The Special Tuning Slots are a crucial factor in deciding which costume to tune. You can only fill these if the Normal Tunes below are filled. They require 100 Character Data / Character Data Exchange Tickets to fill, and can be leveled up with Special Tuning Slot Parts (black for non-PUR, rainbow for PUR). Keep in mind that most special tunes are pretty limited and/or bad below Level 6, though a few still provide good benefits below level 6.</p>
+
+<p>Special tunes can be leveled to different levels depending on the costume's rarity:</p>
+<ul>
+    <li>For C and R costumes, the max level is Level 2 (left) and Level 3 (right), but unlocking the MAX LVL slot will allow you to push this to Level 3 (left) and Level 4 (right).</li>
+    <li>For SR costumes, the max level is Level 3 (left) and Level 4 (right), but unlocking the MAX LVL slot will allow you to push this to Level 4 (left) and Level 5 (right).</li>
+    <li>For PUR Costumes, the max level is Level 6 (left) and Level 7 (right), but unlocking the MAX LVL slots will allow you to push this to Level 10 (left) and Level 11 (right).</li>
+</ul>
+  
+<h2> Unlocking Slots </h2>
+<p>At first, the right column of Normal Tuning slots and both Special Tuning Slots are fully locked on Plus Ultra Rare costumes. To unlock each Normal Tuning Slot, you must use Slot Unlock Keys. Special Tuning Slots will be unlocked automatically after all five normal slots get filled with the data. Alternatively, any copies you get of a costume will unlock another slot. This is a rather unreliable way compared to keys unless you’re pulling on a banner with that specific costume and you get that costume again by sheer luck, this shouldn't be done on purpose though.<p>
+
+<p>While using keys, the cost for unlocking slots depends on the rarity of the costume:</p>
+<ul>
+    <li>C and R costumes require 1 Key to unlock each slot.</li>
+    <li>SR costumes require 5 Keys to unlock each slot.</li>
+    <li>PUR costumes require 50 keys to unlock each slot.</li>
+</ul>
+
+<p>As said earlier, unlocking slots raises your special tuning max level (if you unlocked a "MAX LVL" slot) and grants you an extra aura (PUR Costumes only).</p>
+<br>
+<p>Slots you've unlocked in one costume automatically unlock for all other 5 color variations of that particular costume.</p>
+
+<h1> T.U.N.I.N.G. Materials </h1>
+<h2 class="role-heading">
+    Tuning Slot Enhancement Part
+    <img class="role-image" src="https://ultrarumble.com/assets/Currency/T_ui_Thumb_2_40004_S.webp" />
+</h2>
+<p>Tuning Slot Enhancement Parts are used to upgrade Normal Tuning Slots. Most players have an abundance of these parts, as the game gives them away very generously. The main sources are:</p>
+<br>
+
+<style>
+    .tuning-table {
+        border: 1px solid;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .tuning-table td, 
+    .tuning-table th {
+        border: 1px solid;
+        padding: 24px;
+    }
+    .tuning-table-head {
+        font-size: 32px;
+        font-weight: 700;
+    }
+    .tuning-table-body {
+        font-size: 26px;
+        font-weight: 400;
+    }
+</style>
+
+<table class="tuning-table">
+  <tr class="tuning-table-head">
+    <td>Source</td>
+    <td>Amount</td>
+    <td>Frequency</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Hero License</td>
+    <td>3600</td>
+    <td>Every season</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Pro Hero License</td>
+    <td>2400</td>
+    <td>Every season</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Premium Login</td>
+    <td>50</td>
+    <td>Every week</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Tuning Drop Event</td>
+    <td>1-50</td>
+    <td>Every game</td>
+  </tr>
+</table>
+
+<h2 class="role-heading">
+    Special Tuning Slot Enhancement Part
+    <img class="role-image" src="https://ultrarumble.com/assets/Currency/T_ui_Thumb_2_40007_S.webp" />
+</h2>
+<p>This resource is used to upgrade the Special Tuning Slots on non-PUR costumes. Its primary source is the Hero License, but you also receive 100 of them from the Beginner Missions. This initial amount will most likely be sufficient for your entire gameplay experience. The main sources are:</p>
+<br>
+
+<table class="tuning-table">
+  <tr class="tuning-table-head">
+    <td>Source</td>
+    <td>Amount</td>
+    <td>Frequency</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Hero License</td>
+    <td>15</td>
+    <td>Every season</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Pro Hero License</td>
+    <td>12</td>
+    <td>Every season</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Beginner Missions</td>
+    <td>100</td>
+    <td>One Time</td>
+  </tr>
+</table>
+
+<h2 class="role-heading">
+    Special Tuning Slot Enhancement Part PUR
+    <img class="role-image" src="https://ultrarumble.com/assets/Currency/T_ui_Thumb_2_40008_S.webp" />
+</h2>
+<p>This resource is used to upgrade the Special Tuning Slots on PUR costumes. Its primary source is the Hero License, though you also receive 100 of them from the Beginner Missions. Unlike the non-PUR enhancement parts, these 100 items will most likely be spent within a couple of seasons, as you need significantly more of them to fully tune a costume. The main sources are:</p>
+<br>
+
+<table class="tuning-table">
+  <tr class="tuning-table-head">
+    <td>Source</td>
+    <td>Amount</td>
+    <td>Frequency</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Hero License</td>
+    <td>36</td>
+    <td>Every season</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Pro Hero License</td>
+    <td>24</td>
+    <td>Every season</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Beginner Missions</td>
+    <td>100</td>
+    <td>One Time</td>
+  </tr>
+</table>
+
+<h2 class="role-heading">
+    Slot Unlock Key
+    <img class="role-image" src="https://ultrarumble.com/assets/Currency/T_ui_Thumb_2_40001_S.webp" />
+</h2>
+These keys are used to unlock Normal Tuning Slots. This is the most rare and valuable tuning material. The main sources are:<br>
+<br>
+
+<table class="tuning-table">
+  <tr class="tuning-table-head">
+    <td>Source</td>
+    <td>Amount</td>
+    <td>Frequency</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Hero License</td>
+    <td>400</td>
+    <td>Every season</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Pro Hero License</td>
+    <td>250</td>
+    <td>Every season</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Beginner Missions</td>
+    <td>150</td>
+    <td>One Time</td>
+  </tr>
+  <tr class="tuning-table-body">
+    <td>Premium Login</td>
+    <td>50</td>
+    <td>Every week</td>
+  </tr>
+</table>
+
+<h2 class="role-heading">
+    Character Data
+    <img class="role-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/characterdata.png" />
+</h2>
+Character Data is used to fill both Normal and Special Tuning Slots. When placed into a suitable slot, it grants your character the effect stated in its description. You get 10-75 per match depending on your performance.
+
+<h2 class="role-heading">
+    Character Data Exchange Ticket
+    <img class="role-image" src="https://ultrarumble.com/assets/Currency/T_ui_Thumb_2_40000_S.webp" />
+</h2>
+Character Data Exchange Tickets may be used instead of usual character data in case if you lack it, but unfortunately, it can’t be used if you currently don’t own the character whose data you want to set. You get 10-75 per match depending on your performance.
+
+<h1>Tuning Economy</h1>
+<p>You have probably noticed that you get a limited amount of tuning material each season. If we sum up every replenishable source of materials, you will get exactly:</p>
+<ul>
+    <li>5400 Tuning Slot Enhancement Parts (5,4 tuned PUR costumes)</li>
+    <li>27 Special Tuning Slot Enhancement Parts (5 tuned costumes)</li>
+    <li>60 Special Tuning Slot Enhancement Parts PUR (3,16 tuned costumes)</li>
+    <li>1050 Slot unlock keys (4,2 tuned costumes)</li>
+</ul>
+<p>Keep in mind that you receive 400 Slot Unlock Keys from claiming all the daily Premium Login bonuses. This makes purchasing the Premium Login extra valuable for your tuning progression.</p>
+<p>The 650 keys you get without it only allow you to tune about 2.6 costumes per season, which is almost half the capacity.</p>
+
+<h1>Character Data Economy</h1>
+
+<p>A major challenge for all new players is acquiring Character Data. In the early stages of the game, you own very few characters. This means you not only receive less desirable data from matches, but you also cannot use Universal Data to "craft" the specific data you need for your build, making every piece of useful data extremely valuable. However, the system requires you to fill all five Normal Tuning Slots to unlock the Special Tuning Slot.</p>
+<p>Therefore, a crucial tip for all new players is to never use the Character Data of a character you currently don’t own. While generally unadvisable, the data for certain characters can be considered expendable, even if you don't own them. Below is a list of characters with comparably weak Special Tuning Skills and whose data you can freely spend as a filler.</p>
+
+<h2>True Fillers</h2>
+<p>Character data from the list below may be used freely as filler, as their special Tuning effects are severely underwhelming.</p>
+<ul> 
+    <li>Shoto Todoroki (Default)</li>
+    <li>Shoto Todoroki (Ice Fang Wind Flame)</li>
+    <li>Momo Yaoyorozu</li>
+    <li>Denki Kaminari (Default)</li>
+    <li>Tsuyu Asui</li>
+    <li>Eijiro Kirishima (Default)</li>
+</ul>
+
+<h2>Semi-Fillers</h2>
+<p>Character Data from this list may have an underwhelming Special Effect, but solid normal effect, or its special effect may have some use in specific builds. Using this data filler is unrecommended, unless it isn’t your only option. A good tip for these is to always have 100 of this data for future possible builds.</p>
+<ul>
+    <li>Katsuki Bakugo (Machine Gun)</li>
+    <li>Itsuka Kendo (Twin Palm Strike)</li>
+    <li>Mirio Togata (Default)</li>
+    <li>Nejire Hado</li>
+    <li>Present Mic</li>
+    <li>Dabi (Crazy Torch)</li>
+    <li>Mr. Compress</li>
+    <li>Kurogiri</li>
+</ul>
+
+<h1>Universal Special Tunes</h1>
+<p>In this game, every character has a truly unique playstyle and a high diversity of potential builds. Below is a list of generally strong special tunes that will suit almost any character, but keep in mind they are not always the absolute best-in-slot for a specific character's optimal build.</p>
+<p>If you have a suitable costume and the necessary character data, you should always aim for the best, most specialized builds. The tunings listed here, however, serve as excellent placeholders when you lack the ideal data, providing solid value for nearly everyone.</p>
+
+<section class="tuning-box">
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch024_01.png">
+        <div>
+            <h3>Critical Permeation</h3>
+            <p>This special tune skill provides you with 7 seconds of safety from enemies’ attacks when your shields break. In this state, you can still sprint and drink heals, but any quirk or special action you use will cancel this state early.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch008_01.png">
+        <div>
+            <h3>Willpower</h3>
+            <p>Upon receiving a deadly hit, you are instead knocked down with invincibility frames, leaving you at 1 HP. This tune is especially effective on characters with high mobility, as they have a solid chance to disengage and recover.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch002_00.png">
+        <div>
+            <h3>Crushing PU charge</h3>
+            <p>Dealing a K.O. grants you up to 20% of your PU gauge. This tune allows you to activate your PU significantly faster and, potentially, use it multiple times in a single match.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch043_01.png">
+        <div>
+            <h3>Extra Wind</h3>
+            <p>This effect also speeds up your PU generation under a fairly easy condition. Whenever you level up any skill, you instantly gain 10% of your PU gauge. Note that this tune has a cooldown.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <div class="tuning-card-mini">
+            <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch018_00.png">
+            <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch018_01.png">
+        </div>
+        <div>
+            <h3>HP/GP Sucker</h3>
+            <p>This set of tunes is generally good for everyone. It replenishes your HP/GP, when you down an opponent. HP sucker has much stronger effect, but it's value may come in vein, since your GP is more likely to be damaged.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <div class="tuning-card-mini">
+            <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch101_00.png">
+            <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch017_00.png">
+        </div>
+        <div>
+            <h3>Any Revenge Tune</h3>
+            <p>Most of the revenge tunes are accessible from starting characters, which makes them extra affordable even for the new players, which makes it a perfect temporary solution. When your guard breaks, you receive a boost similar to activating an ability card for a set amount of time. </p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch201_00.png">
+        <div>
+            <h3>Quirk Factor Release</h3>
+            <p>This special tuning increases the reload speed of all your abilities significantly, when you break the guard of your opponent.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch202_00.png">
+        <div>
+            <h3>Acceleration</h3>
+            <p>Despite it being a melee-based tuning, the effect on it is so strong, it is worth using it, even if your character does not actively use their melees. Upon landing a melee, you receive a 20% speed boost.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch005_00.png">
+        <div>
+            <h3>Wall Runner</h3>
+            <p>Incredibly strong tune that gives you an ability to run up walls. This is a real saving grace for all non-mobility characters, but still works fine for pretty much everyone in the game.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch003_01.png">
+        <div>
+            <h3>Space Hop</h3>
+            <p>This Special Tuning Skill increases your jump height significantly, allowing you to occupy highgrounds easier and catch your opponents by surprise. It may be used in a combination with wall runner, but usually people choose Space Hop over Wall Runner, if their character can benefit from air time effectively and vice versa. </p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch013_00.png">
+        <div>
+            <h3>High-Speed Replenishment</h3>
+            <p>At the start of the match reduces time to consume GP potions for 30%. This effect also applies to team GP drinks, but not Full Support Drinks.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch037_00.png">
+        <div>
+            <h3>Card Duplication</h3>
+            <p>At the start of the match, double the amount of ability cards you receive from the enemies you downed. This tune helps to build your levels faster, and works especially good  for players who love early aggression.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch026_00.png">
+        <div>
+            <h3>Ability Manifest</h3>
+            <p>Once you use an ability card, this tune effectively doubles its duration. This Special Tuning Skill is strong, but unfortunately, requires players to pay close attention to their ability card stock, May be unsuitable for newer players, who feel lost with their ability cards.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch102_00.png">
+        <div>
+            <h3>Divine Protection</h3>
+            <p>Significantly faster airdrop opening may be huge since a lot of large boxes are essentially uncontested. It helps extracting res cards in late game and significantly boosts your team economy.</p>
+        </div>
+    </div>
+</section>
+
+
+<h1>Non-PUR tuning</h1>
+<p>If you are a new player, you probably do not have a desirable costume for a character you want to play, so the natural question arises: is it worth it to tune non-PUR costumes? Short answer: no. It is generally not optimal to tune non-PUR costumes because the maximum level on them is so low, that they will not be able to take significant benefit from most of the tunings in game and even though you don’t spend a lot of materials on it, you still lose a lot of valuable character data, but…</p>
+
+<p>If you really want to play that exact character, and you have no PUR costumes at all, this might be your only option. Below is a list of tuning abilities that will be decent on R and SR rarity costumes:<p>
+
+<section class="tuning-box">
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch008_01.png">
+        <div>
+            <h3>Willpower</h3>
+            <p>Being able to survive a finishing blow is stil useful, even if it triggers once or two time is a match.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch200_00.png">
+        <div>
+            <h3>Foundation of peace</h3>
+            <p>This tuning has an offset instead of cooldown. So once the timer is gone, you will be able to trigger it multiple times which will give you several levels for free.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch043_01.png">
+        <div>
+            <h3>Extra Wind</h3>
+            <p>Even though you are going to have a substential cooldown lastng for about half a minute, you will still be able to recieve from approximatemy 30-50% PU Charge essentially for free.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <div class="tuning-card-mini">
+            <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch018_00.png">
+            <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch018_01.png">
+        </div>
+        <div>
+            <h3>HP/GP Sucker</h3>
+            <p>Despite having pretty low healing on lower levels, this tuning still provides some value for downing your opponents.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <div class="tuning-card-mini">
+            <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch101_00.png">
+            <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch017_00.png">
+        </div>
+        <div>
+            <h3>Revenge Support and Revenge Tech</h3>
+            <p>Despite having a short duration, both of these tunings work even when you're stunlock, which makes it generally more valuable than any other revenge tuning on short distance. </p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch201_00.png">
+        <div>
+            <h3>Quirk Factor Release</h3>
+            <p>This special tuning increases the reload speed of all your abilities significantly, when you break the guard of your opponent. Since the duration of the effect is fixed, it's still relatively good, even with bigger cooldown.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch026_00.png">
+        <div>
+            <h3>Ability Manifest</h3>
+            <p>1.2 Multiplier that you are guaranteed to get on level 3 is far worse than 1.6 from level 11. But the effect is still substential enough to feel.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch038_00.png">
+        <div>
+            <h3>Compression Magic</h3>
+            <p>Compression magic is not a good tuning overall, but on non-PUR costumes it has so little competition that it becomes remotely viable. Having a cople of free inventory slots may come in a clutch.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch015_01.png">
+        <div>
+            <h3>Embrittlement</h3>
+            <p>The duration time on lower levels is stil enough to take value from the tuning and the absence of the cooldown makes it even better choice for non-PUR costumes.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch001_01.png">
+        <div>
+            <h3>Kota Finder</h3>
+            <p>Gambling Tuning. You have a small chance to find Kota if it wasn't already taken. Huge value, but it will rarely work in ranked.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <div class="tuning-card-mini">
+            <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch015_02.png">
+            <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch101_00.png">
+        </div>
+        <div>
+            <h3>Hyper Regeneration + Any Revenge Tuning</h3>
+            <p>A strong combination that allows you to maintain your regeneration for longer.</p>
+        </div>
+    </div>
+</section>
+
+
+<h1>Delving Deeper into Tuning</h1>
+
+If you want to learn more about Tunes and some resources regarding them, check out the Tuning Guides!
+
+<div align="center">
+    <a href="https://ultrarumble.com/guide/normal-tuning" target="_blank">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-specialtuning.png" width="20%"/></a>
+</div>
+
+<h1>FAQ</h1>
+</p>We gathered some frequently asked qestions about tuning system and answered them in the section below.</p>
+<h2>Is T.U.N.I.N.G. P2W? </h2>
+<p>Unfortunately, the T.U.N.I.N.G. system does have some pay-to-win elements, but it isn't entirely gatekept from F2P players. In practice, the system is often more hostile to new players than it is strictly P2W.
+As a new player, you naturally won't possess enough character data to manage your builds freely, which restricts your ability to tune effectively for the first dozen hours or more. Additionally, new players are often poorly informed about the system's intricacies, which can lead to costly and unwise resource management decisions.
+But once you settle into the game and play for a few seasons, you will be able to equip any character with the best, or at least a fully optimal, tuning build without spending a dollar.</p>
+
+<h2>Does T.U.N.I.N.G. significantly affect the gameplay?</h2>
+<p>Absolutely. A well-leveled tuning build can be the difference between winning and losing an encounter. It can provide a conditional damage boost of up to 30% in certain builds, enhance your defense, or grant special properties your character might otherwise lack.</p> 
+
+<h2>What is the best outfit/build for character X?</h2>
+<p>This question is based on a false premise. The game lacks a theory-crafting community that min-maxes every 1% from each costume to create a definitive "best build" ranking. Tuning is a highly versatile system designed to unleash player imagination and create unique builds that serve individual playstyles.
+Even the most popular tuning builds may not be statistically the best for you. Therefore, if you want to ask someone for a tuning build, always provide the list of costumes you own first. It doesn't matter what build is theoretically the best if you cannot access it.</p>
+
+<h2>Where do I find TUNING builds?</h2>
+<p>This site offers a wide array of extensive, character-specific guides, and each one contains a dedicated tuning section where experienced players share their knowledge. You will find lists of recommended costumes and suitable tuning skills for the character.
+If a guide for your character does not exist yet, you can always ask for help in any MHUR-related community, including official and unofficial Discord servers and Reddit. These communities usually have a specific channel or flair for tuning-related questions.</p>
+<br>
+
+<hr style="height: 10px; background-color: white; border: none;">
+
+
+<style>
+    .guides-menu {
+        display: flex;
+        flex-direction: column;
+        margin: 20px auto 20px auto; 
+        justify-content: center;
+        max-width: 1000px;
+        gap: 15px;
+        padding: 20px 20px 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #24262E;
+        border-radius: 12px;
+    } 
+    
+    .guides-menu-row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    } 
+
+    .guide-icon {
+        flex: 0 0 auto;
+        width: 175px;
+        height: 175px;
+        box-sizing: border-box;
+    }
+
+    .guide-icon img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; 
+    }
+
+    @media (max-width: 768px) {
+        .guide-icon {
+            max-width: 75px; 
+            max-height: 75px;
+        }
+        
+        .guides-menu-row {
+            gap: 5px; 
+        }
+
+        .guides-menu {
+            gap: 7px; 
+            padding: 10px 10px 20px;
+        }
+    }
+</style>

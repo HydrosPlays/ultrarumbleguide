@@ -2,7 +2,7 @@
     <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
 </p>
 
-# <a style="color: rgba(175,100,237,255) !important;">RANKS AND RANKINGS</a><br>
+# <a style="color: lightblue !important;">RANKS AND RANKINGS</a><br>
 In this sub-guide you'll learn about this game's ranks and player competitive features. To read about agencies and agency rankings click this sentence!
 
 # Ranked Matches and Ranks
@@ -14,7 +14,7 @@ When playing a Ranked Match for the first time, you will be paired with people t
   
 - Total KOs Dealt: In this game, a KO is defined by which player DOWNs an enemy. If Player A does most of the damage to the enemy and Player B DOWNs the enemy by giving the final blow, the KO will go to Player B (so long as the DOWNd enemy gets KOd afterwards, whoever KOs the DOWNd enemy is irrelevant). So, this stat basically defines how many people were KOd after you DOWNed them. Each KO grants 125 pts, so 2 KOs give you 250, and 4 KOs give you 500. Do not worry too much about your ally giving the last hit and "stealing" your KO, because those who contributed to the kill will still get a "KO Assist".
   
-- KO Assists: If you've dealt damage to an enemy but it was your teammate who gave the final hit and DOWNd them, you won't get a KO, but you will get a "KO Assist". These assists give 125 pts, just like regular KOs, so don't worry if your teammate suddenly deals the final flow and "steals" your kill, because you will still get your 125 pts. If the last hit was delivered by an enemy team, you will not get the assist.
+- KO Assists: If you've dealt damage to an enemy but it was your teammate who gave the final hit and DOWNd them, you won't get a KO, but you will get a "KO Assist". These assists give 125 pts, just like regular KOs, so don't worry if your teammate suddenly deals the final blow and "steals" your kill, because you will still get your 125 pts. If the last hit was delivered by an enemy team, you will not get the assist.
   
 - Total Team KOs: The more people you and your teammates KO, the higher will be your point gain from this stat. For every KO, 25 pts will be added.
   
@@ -29,17 +29,17 @@ When playing a Ranked Match for the first time, you will be paired with people t
 
 There are 5 main ranks in My Hero Ultra Rumble: Beginner, Amateur, Pro, Expert and Ace. Every new player starts at Beginner Rank, which is split into 3 sub-ranks: Beginner I, Beginner II and Beginner III.<br>
 
-Reaching Beginner II requires 1,000 pts, while reaching Beginner III requires you to reach the 2,500 pts mark. Once you leave Beginner III and reach the next rank, you won't be able to be demoted back to Beginner, even after a seasonal reset.
+Reaching Beginner II requires 2,500 pts, while reaching Beginner III requires you to reach the 5,000 pts mark. Once you leave Beginner III and reach the next rank, you won't be able to be demoted back to Beginner, even after a seasonal reset.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/beginner1.png" width="200"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/beginner2.png" width="200"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/beginner3.png" width="200"/>
 </p>
 
-To leave Beginner III you need to get to 4,500 pts. Once you do that, you will reach Amateur I. Unlike Beginner, Amateur has 4 sub-ranks, and it does have an Entry Cost. 
-- Amateur II is reached at the 8,000 pts mark, and your base Entry Cost will be 150 pts until you reach this rank.
-- Amateur III is reached at the 13,000 pts mark, and your base Entry Cost will be 200 pts until you reach this rank.
-- Amateur IV is reached at the 21,000 pts mark, and your base Entry Cost will be 250 pts until you reach this rank.
+To leave Beginner III you need to get to 7,500 pts. Once you do that, you will reach Amateur I. Unlike Beginner, Amateur has 4 sub-ranks, and it does have an Entry Cost. 
+- Amateur II is reached at the 15,000 pts mark, and your base Entry Cost will be 150 pts until you reach this rank.
+- Amateur III is reached at the 22,500 pts mark, and your base Entry Cost will be 200 pts until you reach this rank.
+- Amateur IV is reached at the 30,000 pts mark, and your base Entry Cost will be 250 pts until you reach this rank.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/amateur1.png" width="200"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/amateur2.png" width="200"/>
@@ -48,11 +48,11 @@ To leave Beginner III you need to get to 4,500 pts. Once you do that, you will r
 </p>
 
 After Amateur Rank follows Pro Rank, also known by some as "Gold". You can be demoted to a lower Expert rank if you lose enough points, but you cannot be demoted back to Amateur Rank. The point requirements and Entry Costs are as follows:
-- Pro I is reached at the 33,000 pts mark, and your base Entry Cost will be 300 pts until you reach this rank.
-- Pro II is reached at the 47,000 pts mark, and your base Entry Cost will be 500 pts until you reach this rank.
-- Pro III is reached at the 63,000 pts mark, and your base Entry Cost will be 550 pts until you reach this rank.
-- Pro IV is reached at the 81,000 pts mark, and your base Entry Cost will be 600 pts until you reach this rank.
-- Pro V is reached at the 101,000 pts mark, and your base Entry Cost will be 650 pts until you reach this rank.
+- Pro I is reached at the 37,500 pts mark, and your base Entry Cost will be 300 pts until you reach this rank.
+- Pro II is reached at the 47,500 pts mark, and your base Entry Cost will be 500 pts until you reach this rank.
+- Pro III is reached at the 57,500 pts mark, and your base Entry Cost will be 550 pts until you reach this rank.
+- Pro IV is reached at the 67,500 pts mark, and your base Entry Cost will be 600 pts until you reach this rank.
+- Pro V is reached at the 77,500 pts mark, and your base Entry Cost will be 650 pts until you reach this rank.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro1.png" width="180"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro2.png" width="180"/>
@@ -62,23 +62,28 @@ After Amateur Rank follows Pro Rank, also known by some as "Gold". You can be de
 </p>
 
 After Pro Rank follows Expert Rank, also known by some as "Obsidian". You can be demoted to a lower Expert rank if you lose enough points, but you cannot be demoted back to Pro Rank. The point requirements and Entry Costs are as follows:
-- Expert I is reached at the ??? pts mark, and your base Entry Cost will be 700 pts until you reach this rank.
-- Expert II is reached at the ??? pts mark, and your base Entry Cost will be 800 pts until you reach this rank.
-- Expert III is reached at the ??? pts mark, and your base Entry Cost will be 900 pts until you reach this rank.
+- Expert I is reached at the 87,500 pts mark, and your base Entry Cost will be 700 pts until you reach this rank.
+- Expert II is reached at the 100,000 pts mark, and your base Entry Cost will be 800 pts until you reach this rank.
+- Expert III is reached at the 112,500 pts mark, and your base Entry Cost will be 900 pts until you reach this rank.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/expert1.png" width="200"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/expert2.png" width="200"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/expert3.png" width="200"/>
 </p>
 
-After Expert Rank follows the final rank, Ace Rank. Unlike Expert, Pro, Amateur and Beginner, Ace does not have sub-ranks. Once youv'e reached Ace you've basically hit the summit, as there are no more ranks after and you'll obtain the last batch of ranked rewards. To reach Ace Rank you need to reach the 126,000 pts mark. The journey between Expert III and Ace will have an entry cost of 1,000 pts, which will increase to 1,100 pts the moment you reach Ace Rank.
+After Expert Rank follows the final rank, Ace Rank. Unlike Expert, Pro, Amateur and Beginner, Ace does not have sub-ranks. Once youv'e reached Ace you've basically hit the summit, as there are no more ranks after and you'll obtain the last batch of ranked rewards. To reach Ace Rank you need to reach the 125,000 pts mark. The journey between Expert III and Ace will have an entry cost of 1,000 pts, which will increase to 1,100 pts the moment you reach Ace Rank.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/ace.png" width="200"/>
 </p>
 
-However, the grind is not truly over after reaching Ace, since the game offers an actual ranking featuring the 2,500 players with the highest ranked point count. Thsoe below the top 1,000 will get a small amount of tickets, while those that are in the top 1,000 get extra rewards, those who reach top 500 get even better rewards. The top 100 players get the 2nd best rewards, while the top 10 get the best of the best. The difference in terms of non-cosmetic rewards is pretty low, so if you're not somebody with a lot of time then this might not be worth it, but if you do have time, then you can play some more and squeeze some extra tickets. The ranking can be viewed-
+However, the grind is not truly over after reaching Ace, since the game offers an actual ranking (known as MVP) featuring the 2,500 players with the highest ranked point count. Thsoe below the top 1,000 will get a small amount of tickets, while those that are in the top 1,000 get extra rewards, those who reach top 500 get even better rewards. The top 100 players get the 2nd best rewards, while the top 10 get the best of the best. The difference in terms of non-cosmetic rewards is pretty low, so if you're not somebody with a lot of time then this might not be worth it, but if you do have time, then you can play some more and squeeze some extra tickets.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/mvpscreen.png" width="600"/>
+</p>
+
+The rewards for the MVP can contain gold, roll tickets, seasonal MVP badges and the top 1000 badge, the specific rewards are as follows:
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/mvpreward.png" width="400"/>
 </p>
 
 There's also another ranking that gives players rewards: The Billboard Chart.
@@ -87,8 +92,68 @@ When opening profiles, you will see a like button. Clicking it will send the pla
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/billboardchart.png" width="600"/>
 </p>
 
+The Billboard Chart's rewards are almost identical to that of the MVP, replacing the seasonal MVP badges by the seasonal billboard badges. The specific rewards are as follows:
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/billboardreward.png" width="400"/>
+</p>
+
 To access the base ranking (MVP) and the Billboard Chart, just click the "Menu" button on the bottom right and then click "Rankings".
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/rankingtuto1.png" width="400"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/rankingtuto2.png" width="400"/>
 </p>
+
+<hr style="height: 10px; background-color: white; border: none;">
+
+<style>
+    .guides-menu {
+        display: flex;
+        flex-direction: column;
+        margin: 20px auto 20px auto; 
+        justify-content: center;
+        max-width: 1000px;
+        gap: 15px;
+        padding: 20px 20px 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #24262E;
+        border-radius: 12px;
+    } 
+    
+    .guides-menu-row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    } 
+
+    .guide-icon {
+        flex: 0 0 auto;
+        width: 175px;
+        height: 175px;
+        box-sizing: border-box;
+    }
+
+    .guide-icon img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; 
+    }
+
+    @media (max-width: 768px) {
+        .guide-icon {
+            max-width: 75px; 
+            max-height: 75px;
+        }
+        
+        .guides-menu-row {
+            gap: 5px; 
+        }
+
+        .guides-menu {
+            gap: 7px; 
+            padding: 10px 10px 20px;
+        }
+    }
+</style>

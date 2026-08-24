@@ -1,0 +1,212 @@
+<style>
+.character-box {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.character-card {
+    display: flex;
+    flex-direction: row;
+    width: 100%; 
+    max-width: 520px; 
+    padding: 15px;
+    gap: 15px;
+    text-align: left;
+    background-color: #24262E;
+    border-radius: 12px;
+    box-sizing: border-box; 
+    overflow: hidden;
+}
+
+.character-image {
+    max-height: 135px;
+    align-self: center;
+}
+
+.currency-image {
+    max-width: 35px;
+    max-height: 35px;
+    vertical-align: middle;  
+}
+
+.currency-heading {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.container-image-icon {
+    flex: 1 1 auto;
+    max-width: 100px;
+    max-height: 150px;
+    object-fit: contain;
+}
+
+@media (max-width: 768px) {
+        .container-image-icon {
+            max-width: 75px; 
+            max-height: 100px;
+        }
+        
+        .image-container {
+            gap: 5px;
+            margin-bottom: 10px;
+            padding: 7px;
+        }
+}
+
+
+</style>
+
+<p align="center">
+    <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide-generalplayer.jpg" width="100%" />
+</p>
+
+# <a style="color: rgba(255,100,100,255) !important;">ESCAPISM: Learn to Properly Escape</a><br>
+In this sub-guide you'll learn how to actually escape from the enemy!
+
+# Introduction: Escaping
+Running really fast in a straight line can be an effective way to run away from an opponent in early ranks or with fast characters, however, it's also a pretty bad option against characters with high mobility or a strong sense of wanting to screw you up. So if you don't want to be the victim of the videos below, you must learn other ways to escape from those who want to hurt you.
+
+<p align="center">
+
+<blockquote class="reddit-embed-bq" style="height:350px" data-embed-theme="dark" data-embed-height="350"><a href="https://www.reddit.com/r/MyHeroUltraRumble/comments/1i6xlb1/jesus_lady_whatever_i_did_to_you_i_apologize_for/">Jesus, lady. Whatever I did to you, I apologize for it!</a><br> by<a href="https://www.reddit.com/user/SunsetNero/">u/SunsetNero</a> in<a href="https://www.reddit.com/r/MyHeroUltraRumble/">MyHeroUltraRumble</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+    
+<blockquote class="reddit-embed-bq" style="height:350px" data-embed-theme="dark" data-embed-height="350"><a href="https://www.reddit.com/r/MyHeroUltraRumble/comments/1kh2pfh/am_i_going_to_hell_or_to_heaven/">Shinso Chasing a Bakugo</a><br> by<a href="https://www.reddit.com/user/YuwinaMaekawa/">u/YuwinaMaekawa</a> in<a href="https://www.reddit.com/r/MyHeroUltraRumble/">MyHeroUltraRumble</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script
+
+
+
+</p>
+
+# Types of Escape
+
+Escaping isn't about being fast or creating distance, it's about making the enemy(s) targetting you stop doing so, and there are a few ways of achieving this:
+
+## Fleeing - The Most Basic Kind of Escape
+
+This is what most players do on instinct, and it's probably the safest method to escape an enemy if done properly. Fleeing isn't just about running as far as you can, it's also about confusing the enemy.<br><br>
+
+The most basic type of Fleeing is escaping the enemy in a way it creates the most distance between you two. This works well early-game if you're a fast character, or if you have vertical mobility to get on top of a tall place but your enemy doesn't have that level of mobility, but for slower characters or against enemies that can either move fast, attack from long range, or like to chase a lot, this can be pretty ineffective. Furthermore, this can stray you away from your team for a noticeable amount of time, which is really not ideal.
+
+A better approach for fleeing is to confuse the enemy by getting inside a complex building or structure and enter/leave it from different entrances until your enemy doesn't know where you are anymore. In this approach, you are often cutting line of sight and move a lot of distance but within a specific area, meaning that the distance you got away from your team is smaller, and even people who really want to chase you might not be able to do it, as they won't know exactly where you went, but be careful with drinking healing items or using skills, as both make noise. An easy way to quickly confuse an enemy and hinder their chase is to quickly run behind a building and run up the building with either a Rapid Ability Card or the Wall Runner special tuning, this often comes handy since you can use the building as barrier to not get attacked, and enemies sometimes can't tell you ran up a wall, believing you just kept running straight.
+
+Another thing you can do if the enemy is chasing you very closely is to flee to the top of a tall building and drop from there, but then quickly use a mobility skill to go back up. This is done to bait the enemy into dropping too so you can just flee the opposite direction and confuse them further. Alternatively, you can drop from a building and quickly attach yourself to the wall, making them think you kept going when in reality you're stealthly clinging to a wall they jumped past.
+
+Wall Running (from Rapid Ability Cards and the Wall Runner special tuning) can make a lot of difference when it comes to escaping, both when it comes to playing low mobility characters and for high mobility ones, as wall running gives you a high boost in agility. For more information on Wall Running and its techs check out the wall run sub-guide.
+
+<div class="guides-menu-row" align="center">
+    <div class="guide-icon">
+        <a href="https://ultrarumble.com/guide/wallrun" target="_blank">
+            <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-wallrun.png"/>
+        </a>
+    </div>
+</div>
+
+## Enclosing
+
+Enclosing is a type of "escape" that can either be safe or be your doom. Consisting in trapping yourself in a room with structures produced by your skills, this escape works best in the endgame, especially crowded ones, where people don't have much time to spend on you or else another team will come attack them. The danger of this is obvious, you're trapping yourself in a small area, which makes you extremely vulnerable to attacks that go through walls like Strike Shigaraki's beta skill or Technical Shigaraki's alpha skill, but in the right scenario it can give you enough time to heal, revive teammates, or even break aggro.
+
+This type of escape is most commonly seen in both Shoto Todorokis, occassionally Cementoss, Momo, and in rare cases Strike Izuku Midoriya or Assault Ochaco Uraraka.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/gifs/enclosing-gif.gif" width="400"/></br>
+</p>
+
+A variation of Enclosing can be performed by characters like Momo Yaoyorozu, in which they can fill a room with deadly abilities or traps which enemies can theoretically walk into, but will get heavily punished by doing so, and might deter wiser players from engaging.
+
+## Kiting and Baiting
+
+Arguably a variation of "Fleeing", this consists in attacking your enemy while fleeing away, to discourage them from following you both with distance and with damage. Characters like Rapid Katsuki Bakugo and Rapid Hawks can do this by sheer nature, as they can either gain mobility by attacking you, or can flee while fighting back without losing any speed. A character that is often seen doing this is Overhaul, since landing a gamma skill can stun the enemies, buying him time.
+
+Another option is baiting, if you run away from the enemy but they always manage to be really close to you, you can turn around for a second and throw an attack right before they turn around a corner or entrance to hit them without being hit back instantly. This works better with skills with knockback or knockdown, as they can't attack immediately after, buying you at least a second to keep running or cut line of sight.
+
+## Air Stalling
+
+Some characters can stay high up in the sky for long periods of time, such as Strike Denki Kaminari, Technical Tomura Shigaraki, Kurogiri, both Hawks and more. This works best in the endgame, as in the early game the enemy can just wait for you to come down, while in the endgame other teams can attack the enemy, taking the aggro for you. This is what most people do when attempting to heal but finding no place to do so.
+
+## Leading The Enemy to Another Enemy Team
+
+While escaping from a chase, you may run into different fights or looting teams. Doing it could be a double edged sword. Since you are focused solely on escaping, you have a high chance of being lost in the chaos of mass fight and make it to a safe spot. On the other, hand, there's also a chance of being focused first, especially if the team you are luring your enemies to is fully looted and seeking for engagement. This is a risky tactic to use, so make sure you have enough mobility and heath to escape a new potential danger. Sadly, sometimes it is your only choice. 
+
+## Mistscape
+
+A strong option to remove aggro from yourself is to go seek refuge in the Poison Mist. This mostly works in the midgame, lategame or endgame. Trying this during the early game can often be a bad idea, especially against more experienced players. Many people prefer to avoid going into the Poison Mist, so if you've learnt to feel the mist, you can use this to your advantage. If you did not feel the mist yet, check the Poison Mist sub-guide.
+
+<div class="guides-menu-row" align="center">
+    <div class="guide-icon">
+        <a href="https://ultrarumble.com/guide/poison-mist" target="_blank">
+            <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-poisonmist.png"/>
+        </a>
+    </div>
+</div>
+
+<hr style="height: 10px; background-color: white; border: none;">
+
+
+<style>
+    .guides-menu {
+        display: flex;
+        flex-direction: column;
+        margin: 20px auto 20px auto; 
+        justify-content: center;
+        max-width: 1000px;
+        gap: 15px;
+        padding: 20px 20px 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #24262E;
+        border-radius: 12px;
+    } 
+    
+    .guides-menu-row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    } 
+
+    .guide-icon {
+        flex: 0 0 auto;
+        width: 175px;
+        height: 175px;
+        box-sizing: border-box;
+    }
+
+    .guide-icon img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; 
+    }
+
+    @media (max-width: 768px) {
+        .guide-icon {
+            max-width: 75px; 
+            max-height: 75px;
+        }
+        
+        .guides-menu-row {
+            gap: 5px; 
+        }
+
+        .guides-menu {
+            gap: 7px; 
+            padding: 10px 10px 20px;
+        }
+    }
+</style>
+
