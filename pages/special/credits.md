@@ -243,7 +243,7 @@ Stack patties on buns with toppings and serve hot<br/></div>
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/vateilika2.png" />
   <div class="name">Vateilika</div>
   <div class="discord-tag">vateilika</div>
-  <div class="role">Contributor<br/>(Itsuka Kendo)<br/>(Mr. Compress)</div>
+  <div class="role">Lead Guidemaker<br/>(Star and Stripe)<br/>(Tokoyami)<br/>Contributor<br/>(Itsuka Kendo)<br/>(Mr. Compress)</div>
   <div class="quote">🍔</div>
 </div>
 <div class="credit-box">
