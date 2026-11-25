@@ -121,6 +121,7 @@ You might have noticed that some characters appear more than once with a differe
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/froppy_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kirishima_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_strike.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/momo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kendo_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tamaki_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shinso_strike.png" />
@@ -137,8 +138,8 @@ You might have noticed that some characters appear more than once with a differe
 Strike Characters focus on damage and/or aggressive playstyles. Characters like Present Mic, Red Itsuka Kendo, Red Denki Kaminari, Red Shoto Todoroki and Red Tomura Shigaraki can deal outstanding amouns of damage in little time. Carrying characters with this class gives the whole party a damage boost that grows higher the more characters with this class are on the team:<br>
 
 - 1 Strike Party Member: x1.05 DMG Boost
-- 2 Strike Party Members: x1.10 DMG Boost
-- 3 Strike Party Members: x1.20 DMG Boost
+- 2 Strike Party Members: x1.075 DMG Boost
+- 3 Strike Party Members: x1.10 DMG Boost
  
 Characters with this class are often referred to by the community as "Red" or "Strike", after which follows the character's name.
 <br>
@@ -152,6 +153,7 @@ Characters with this class are often referred to by the community as "Red" or "S
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/uraraka_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kirishima_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/jiro_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tokoyami_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kendo_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_assault.png" />
@@ -183,6 +185,7 @@ Characters with this class are often referred to by the community as "Yellow" or
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/iida_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/phosphor_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/froppy_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_rapid.png" />
@@ -192,9 +195,9 @@ Characters with this class are often referred to by the community as "Yellow" or
 </div>
 Rapid Characters focus on agility and/or speed, they're often highly mobile and slippery characters that usually have an easy time moving from one place to another, and sometimes even be difficult to hit due to their agility or staying in the air for long. These character's are usually characterized by having the lowest HP on the game, which makes them more fragile than the rest of the cast in that regard. Carrying characters with this class gives the whole party a speed boost that grows higher the more characters with this class are on the team:<br>
 
-- 1 Rapid Party Member: x1.05 Speed Boost
-- 2 Rapid Party Members: x1.10 Speed Boost
-- 3 Rapid Party Members: x1.20 Speed Boost
+- 1 Rapid Party Member: x1.1 Speed Boost
+- 2 Rapid Party Members: x1.2 Speed Boost
+- 3 Rapid Party Members: x1.3 Speed Boost
 
 Characters with this class are often referred to by the community as "Blue" or "Rapid", after which follows the character's name.
 <br>
