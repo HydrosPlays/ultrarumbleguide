@@ -621,7 +621,7 @@ Chaos City has many locations that don't clearly belong to one area or another, 
 </div>
 
 ## Chaos City (Ver.02)
-Chaos City Ver.02 is an upcoming stage update to the Chaos City map, which has been datamined and is expected to release in an upcoming season. The data suggests that this update will focus on the Shopping Distrinct Area and the Villain Containment Facility, expanding on the underground of both a bit, but few details exist.
+Chaos City Ver.02 is the latest version of the Chaos City stage, which was added in Season 18 and featured a destroyed central area surface with giant spikes, an underground shopping area, and a finished construction area under the central bridge. The most noticeable change is the sky, which has gone from sunset to actual night time, giving it a different vibe even in areas that received no changes (besides adding lights to buildings and structures).
 
 ## Neo Academia
 Neo Academia (also known as Stage 4 or St04), is Ultra Rumble's 4th and latest stage, released in Season 15. This stage is split into 7 areas: Sky Area, Hospital/Research Lab Area, Construction Area, Prison Escape Riot Area, Urban Area, Flood Area and Japanese House Area.<br>
@@ -756,7 +756,17 @@ Neo Academia also has a few spots that aren't really tied to any specific areas 
 </div>
 
 ## Stage 5
-The stage 5, also known as St05, is an upcoming map that will come to Ultra Rumble in a later season (presumably BUT NOT CONFIRMED in Season 21). Nothing is currently known about this stage beyond its existence datamined in Season 15.
+The Stage 5, also known as St05, is an upcoming map that will come to Ultra Rumble in a later season (presumably BUT NOT CONFIRMED in Season 21/PLUS 2). Datamines suggest this stage could be bigger than UA Island (the smallest stage to date), Neo Academia and Chaos City, but smaller than USJ. The theme appears to be medieval, possibly meant to be a Parallel World map inspired by the 2nd My Hero Academia ending, which features the Parallel World costumes too.<br>
+<br>
+A datamined image of the map arose, showcasing the inside of a palace with a cellar underneath, a palace that seems to lead to a forest. It also seems that, just like Neo Academia's barrier pillars, this map will feature areas you won't be able to land in, which seem to be much bigger than Neo's. They could be really tall mountains that the player is not meant to climb, but could feature accessible caves or canals.
+<div align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/st05_leak.png" width="30%" />
+</div>
+
+## Stage 6
+The Stage 6, also known as St06, is an upcoming map datamined in Season 20/PLUS 1 that will come to Ultra Rumble in the future, presumable (but not confirmed) in Season 27/PLUS 8). Datamines suggest it's the biggest map yet, surpassing the current biggest (which is USJ, though it might not feel like that since nobody goes to the map's true edges, as those are empty in content, unlike modern maps where you can find item boxes and structures really close to the edges).
+
+Nothing is yet known about this map besides its size, which some theorize could mean that this map's edges are also empty).
 
 # Area Control Stages
 ## Gym α
